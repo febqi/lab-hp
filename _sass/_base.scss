@@ -1455,3 +1455,13 @@ figure.cover {
     color: #23212d !important;
   }
 }
+
+// Blog post images
+.post-content img {
+  max-width: 320px;
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 1rem auto;
+  border-radius: 4px;
+}
