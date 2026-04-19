@@ -7,7 +7,7 @@ first_name: Floating-Electron-Based
 middle_name: Quantum Information
 last_name: RIKEN Hakubi Research Team
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: favicon.svg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: "https://erikawa-e.github.io"
 baseurl: "/lab-hp"
