@@ -13,6 +13,7 @@ Solid neon provides an even cleaner substrate than liquid helium. Electrons trap
 We use NbTiN nanowire resonators to probe and control these electrons at millikelvin temperatures.
 
 **Key topics:**
+
 - Charge and spin coherence on solid neon
 - NbTiN nanowire resonator coupling
 - Quantum memory implementation

@@ -14,6 +14,7 @@ Electrons floating above the surface of liquid helium experience an exceptionall
 We study the trapping, manipulation, and readout of individual electrons using microwave resonators, with the goal of realizing a scalable quantum computing platform.
 
 **Key topics:**
+
 - Single electron trapping above superfluid helium
 - Rydberg state detection via LC resonators
 - Spin qubit control and readout
