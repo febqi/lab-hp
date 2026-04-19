@@ -2,8 +2,8 @@
 page_id: profiles
 layout: profiles
 permalink: /people/
-title: people
-description: Members of the FEBQI research team
+title: メンバー
+description: FEBQIチームのメンバー
 nav: true
 nav_order: 3
 
@@ -13,24 +13,24 @@ profiles:
     content: member_erika.md
     image_circular: true
     more_info: >
-      <p>Team Leader</p>
-      <p>Building S51, RIKEN Wako</p>
+      <p>チームリーダー</p>
+      <p>RIKEN和光キャンパス S51棟</p>
   - align: left
     image: prof_pic.jpg
     content: member_ivan.md
     image_circular: true
     more_info: >
-      <p>Technical Scientist</p>
+      <p>技術科学者</p>
   - align: right
     image: prof_pic.jpg
     content: member_asher.md
     image_circular: true
     more_info: >
-      <p>Postdoctoral Researcher</p>
+      <p>ポスドク研究員</p>
   - align: left
     image: prof_pic.jpg
     content: member_junwang.md
     image_circular: true
     more_info: >
-      <p>Postdoctoral Researcher</p>
+      <p>ポスドク研究員</p>
 ---
