@@ -1,101 +1,128 @@
-- title: General Information
-  type: map
+- title: Professional Experience
+  type: time_table
   contents:
-    - name: Full Name
-      value: Erika Kawakami
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, French, Japanese
+    - title: RIKEN Hakubi Team Leader (primary)
+      institution: RIKEN Pioneering Research Institute (PRI)
+      year: Apr. 2025 – present
+    - title: RIKEN Hakubi Team Leader (concurrent)
+      institution: RIKEN Center for Quantum Computing (RQC)
+      year: Apr. 2021 – present
+    - title: RIKEN Hakubi Team Leader (primary)
+      institution: RIKEN Cluster for Pioneering Research (CPR)
+      year: Sep. 2020 – Mar. 2025
+    - title: RIKEN Hakubi Team Leader (concurrent)
+      institution: RIKEN Center for Emergent Matter Science (CEMS)
+      year: Sep. 2020 – Mar. 2021
+    - title: PRESTO Researcher (concurrent)
+      institution: Japan Science and Technology Agency (JST)
+      year: Oct. 2017 – Mar. 2021
+    - title: Postdoctoral Researcher (primary)
+      institution: Okinawa Institute of Science and Technology Graduate University (OIST)
+      year: Oct. 2016 – Aug. 2020
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Ph.D. in Applied Physics
+      institution: Delft University of Technology, the Netherlands
+      year: Sep. 2011 – Sep. 2016
+    - title: M.Sc. in Engineering
+      institution: Keio University, Japan
+      year: Sep. 2009 – Sep. 2011
+    - title: Engineering Degree
+      institution: École Centrale Marseille, France
+      year: Sep. 2007 – Sep. 2009
+    - title: B.Sc. in Applied Physics and Physico-Informatics
+      institution: Keio University, Japan
+      year: Apr. 2005 – Sep. 2009
 
-- title: Experience
+- title: Awards and Honors
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+    - year: 2026
+      items:
+        - Women Researcher Encouragement Award (D&I Award), The Japan Society of Applied Physics
+    - year: 2025
+      items:
+        - Best Poster Award, LT30, Bilbao, Spain (A. Jennings, I. Grytsenko, Y. Tian, O. Rybalko, J. Wang, I. J. Barabash, and E. Kawakami)
+    - year: 2024
+      items:
+        - Funai Academic Award
+    - year: 2022
+      items:
+        - Best Poster Award, ULT 2022 (I. Grytsenko, A. Jennings, O. Rybalko, and E. Kawakami)
+        - Special Jury Prize, RIKEN Diversity Initiative Award 2022
+    - year: 2019
+      items:
+        - Best Poster Award, QFS2019, Edmonton (E. Kawakami and D. Konstantinov)
+    - year: 2012
+      items:
+        - JASSO Scholarship Loan Exemption for Outstanding Achievement
+    - year: 2011
+      items:
+        - Nakajima Foundation International Exchange Scholarship
+    - year: 2010
+      items:
+        - Fujiwara Scholarship, Graduate School of Science and Technology, Keio University
+    - year: 2008
+      items:
+        - French Government Scholarship
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: External Research Funds — Principal Investigator
   type: time_table
   contents:
-    - title: <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a>
-      year: 2023-now
-      description: A fork of al-folio theme with support for multiple languages.
+    - title: JST ASPIRE FOR RISING SCIENTISTS
+      year: 2025–2029
+      description:
+        - "Realization of spin qubits using floating electrons on solid neon"
+        - "Total: 68,790,000 JPY"
+    - title: The Sumitomo Foundation, Grant for Basic Science Research
+      year: 2026–2027
+      description:
+        - "Research on controlled deposition and characterization techniques of solid neon in cryogenic environments"
+        - "Total: 3,000,000 JPY"
+    - title: The Hattori Hokokai Foundation, Engineering Research Encouragement Grant
+      year: 2025–2026
+      description:
+        - "Strong coupling between microwave photons and plasmons in a pure physical system"
+        - "Total: 1,000,000 JPY"
+    - title: Murata Science Foundation, Research Grant
+      year: 2025–2026
+      description:
+        - "Demonstration of qubit readout technology using a tunnel diode oscillator"
+        - "Total: 4,720,000 JPY"
+    - title: JST FOREST
+      year: 2021–2027
+      description:
+        - "Realization of qubits using electrons on the surface of helium"
+        - "Total: 50,000,000 JPY"
+    - title: Yazaki Memorial Foundation for Science and Technology, General Research Grant
+      year: 2022–2025
+      description:
+        - "Development of cryogenic microwave generators for scaling up qubits"
+        - "Total: 2,000,000 JPY"
+    - title: JSPS KAKENHI, Early-Career Scientists
+      year: 2018–2021
+      description:
+        - "Establishment of qubit-state readout technology using a tunnel diode"
+        - "Total: 3,640,000 JPY"
+    - title: JST PRESTO
+      year: 2017–2020
+      description:
+        - "Towards the realization of a universal digital quantum computer using electrons on the surface of helium"
+        - "Total: 40,000,000 JPY"
 
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+- title: Committee and Advisory Activities
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - "2026–present: Reviewer, French National Research Agency (ANR) Research Grants"
+    - "2025–present: Editorial Board Member, <em>Scientific Reports</em>"
+    - "2024–present: Reviewer, U.S. Department of Energy (DOE) Research Grants"
+    - "2024–present: Deputy Chair, RIKEN Scientists' Assembly Steering Committee"
+    - "May 2021–March 2025: Member, MEXT Quantum Science and Technology Committee"
+    - "2025: Reviewer, Austrian Science Fund (FWF) Grants"
+    - "2025: International Advisory Committee, ULT 2025"
+    - "2024: International Advisory Committee, QFS 2024"
+    - "2024: Organizer, Quantum Technologies with Floating Charged Particles Workshop"
+    - "2023: International Advisory Committee, QFS 2023"
+    - "2021: International Advisory Committee, QFS 2021"

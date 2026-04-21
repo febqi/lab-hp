@@ -1,0 +1,43 @@
+---
+page_id: access
+layout: page
+permalink: /access/
+title: アクセス
+description: 研究室へのアクセス
+nav: true
+nav_order: 9
+---
+
+## 所在地
+
+**理化学研究所 和光キャンパス S51棟**
+〒351-0198 埼玉県和光市広沢2-1
+
+研究室: N508-1, N105-2, N108-1, S301-2号室
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3233.0!2d139.6108!3d35.7766!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018ead7c7b8ffd1%3A0x8fd14fb11e729e!2sRIKEN%20Wako%20Campus!5e0!3m2!1sja!2sjp!4v1" width="100%" height="400" style="border:0; border-radius:8px;" allowfullscreen="" loading="lazy"></iframe>
+
+## 来訪の際
+
+来訪時は事前にホストから受け取った**入構番号**を持参の上、**西門**で手続きをしてください。
+研究室はキャンパス南エリアのS51棟にあります。
+
+構内マップ: [理研 和光キャンパスマップ](https://www.riken.jp/access/wako-map/index.html)
+
+## 東京からのアクセス
+
+**電車でお越しの場合：**
+- 池袋（西武池袋線）→ 和光市駅：約20分
+- 渋谷・新宿 → 和光市駅（副都心線直通）：約35〜40分
+- 和光市駅から理研西門まで：徒歩約10分またはタクシー
+
+## 宿泊・食事
+
+- **宿泊施設（ゲストハウス）：** E91棟（東エリア）— ホストにご相談ください
+- **食堂：** C61棟（平日昼のみ）
+- **コンビニ：** C72棟
+- 和光市駅周辺にも飲食店あり
+
+## お問い合わせ
+
+[rikenEonHe@gmail.com](mailto:rikenEonHe@gmail.com)
