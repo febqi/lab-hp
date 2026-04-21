@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Xianjing's farewell party @June 28th"
-date: 2023-08-03 00:00:00+0900
+title: "Xianjing's farewell party"
+date: 2023-06-28 00:00:00+0900
 description: Farewell party for Xianjing Zhou
 tags: lab-life
 categories: news

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Xianjingの送別会 @6月28日
-date: 2023-08-03 00:00:00+0900
+title: Xianjingの送別会
+date: 2023-06-28 00:00:00+0900
 description: Xianjing Zhouの送別会
 tags: lab-life
 categories: news
