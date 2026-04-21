@@ -81,6 +81,9 @@
             {%- endif -%}
           {% endfor %}
         {%- endif -%}
+        {% if entry.lab_members contains author_last_name %}
+          {% assign coauthor_is_lab_member = true %}
+        {% endif %}
 
         {%- if forloop.length > 1 -%}
           {% if forloop.first == false -%}

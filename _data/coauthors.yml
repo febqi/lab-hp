@@ -39,9 +39,6 @@
   - firstname: ["Thomas", "T."]
     lab_member: true
 
-"zhou":
-  - firstname: ["Xianjing", "X."]
-    lab_member: true
 
 "adams":
   - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
