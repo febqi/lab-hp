@@ -1,48 +1,44 @@
 - year: 2025
-  authors: "Tetsuyoshi Yamada, Thomas Giovansili, Erika Kawakami"
-  lang: fr
+  lang: FR
+  authors_html: "<em>Tetsuyoshi Yamada</em>, <em>Thomas Giovansili</em>, <em>Erika Kawakami</em><sup>*</sup>"
   title: "L'ordinateur quantique : promesses, défis et nouvelles pistes de recherche"
   journal: "Les Cahiers de Centrale Méditerranée Alumni «&thinsp;Le quantique&thinsp;», N°59 (2025)"
   journal_url: "https://www.centraliens-mediterranee.fr/medias/editor/Cahiers-AIECM/N°59%20-%20Le%20Quantique/Sommaire%2059%20Le%20quantique.pdf"
   invited: true
 
 - year: 2025
-  authors: "Ivan Grytsenko, Xianjing Zhou, Erika Kawakami"
-  authors_ja: "グリットセンコ アイヴァン, Xianjing Zhou, 川上恵里加"
-  lang: ja
+  lang: JA
+  authors_html: "<em>Ivan Grytsenko</em>, Xianjing Zhou, <em>Erika Kawakami</em>"
+  authors_ja_html: "<em>グリットセンコ アイヴァン</em>, Xianjing Zhou, <em>川上恵里加</em>"
   title: "液体ヘリウムおよび固体ネオン表面に浮かぶ電子"
-  title_ja: "液体ヘリウムおよび固体ネオン表面に浮かぶ電子"
   journal: "表面と真空 2月号 (2026)"
   invited: true
   reviewed: true
 
 - year: 2024
-  authors: "Ivan Grytsenko, Yiran Tian, Asher Jennings, Erika Kawakami"
-  authors_ja: "グリットセンコ アイヴァン, Yiran Tian, Asher Jennings, 川上 恵里加"
-  lang: ja
+  lang: JA
+  authors_html: "<em>Ivan Grytsenko</em>, <em>Yiran Tian</em>, <em>Asher Jennings</em>, <em>Erika Kawakami</em><sup>*</sup>"
+  authors_ja_html: "<em>グリットセンコ アイヴァン</em>, <em>Yiran Tian</em>, <em>Asher Jennings</em>, <em>川上 恵里加</em><sup>*</sup>"
   title: "極低温環境における電子へのミリ波照射による量子ビットの実現へ向けて"
-  title_ja: "極低温環境における電子へのミリ波照射による量子ビットの実現へ向けて"
   journal: "レーザー研究 53巻, 3号 p.120 (2025)"
   journal_url: "https://www.lsj.or.jp/publications/rle/backnumber/"
   invited: true
   reviewed: true
 
 - year: 2024
-  authors: "Erika Kawakami"
-  authors_ja: "川上恵里加"
-  lang: ja
+  lang: JA
+  authors_html: "<em>Erika Kawakami</em><sup>*</sup>"
+  authors_ja_html: "<em>川上恵里加</em><sup>*</sup>"
   title: "真空に浮かぶ電子を用いた量子コンピュータの実現へ向けて"
-  title_ja: "真空に浮かぶ電子を用いた量子コンピュータの実現へ向けて"
   journal: "現代化学 646, 33, 東京化学同人 (2025)"
   journal_url: "https://www.tkd-pbl.com/book/b10094523.html"
   invited: true
 
 - year: 2023
-  authors: "Erika Kawakami"
-  authors_ja: "川上恵里加"
-  lang: ja
+  lang: JA
+  authors_html: "<em>Erika Kawakami</em><sup>*</sup>"
+  authors_ja_html: "<em>川上恵里加</em><sup>*</sup>"
   title: "液体ヘリウム上の電子の量子力学的実験"
-  title_ja: "液体ヘリウム上の電子の量子力学的実験"
   journal: "数理科学 61, 34, サイエンス社 (2023)"
   journal_url: "https://www.saiensu.co.jp/search/?isbn=4910054691238&y=2023"
   invited: true
