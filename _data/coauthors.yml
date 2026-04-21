@@ -1,3 +1,40 @@
+# FEBQI Lab members
+"jennings":
+  - firstname: ["Asher", "A."]
+    lab_member: true
+
+"grytsenko":
+  - firstname: ["Ivan", "I."]
+    lab_member: true
+
+"tian":
+  - firstname: ["Yiran", "Y."]
+    lab_member: true
+
+"rybalko":
+  - firstname: ["Oleksiy", "O."]
+    lab_member: true
+
+"wang":
+  - firstname: ["Jun", "J."]
+    lab_member: true
+
+"ikegami":
+  - firstname: ["Hiroki", "H."]
+    lab_member: true
+
+"barabash":
+  - firstname: ["Itay Josef", "Itay", "I. J."]
+    lab_member: true
+
+"van haagen":
+  - firstname: ["Sander", "S."]
+    lab_member: true
+
+"mohan":
+  - firstname: ["Rajesh", "R."]
+    lab_member: true
+
 "adams":
   - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
     url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams

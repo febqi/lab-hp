@@ -14,6 +14,10 @@ nav_order: 2
 
 {% include bib_search.liquid %}
 
+<p style="font-size: 0.9em; margin-bottom: 1em;">
+  <u>Underline</u>: FEBQI lab member &nbsp;|&nbsp; <sup>*</sup>: Corresponding author
+</p>
+
 <div class="publications">
 
 {% bibliography %}
