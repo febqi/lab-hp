@@ -20,11 +20,14 @@ nav_order: 7
   <td style="white-space: nowrap; padding-right: 1em; color: #888;">{{ article.year }}</td>
   <td>
     {{ article.authors_html }}<br>
-    {% if article.journal_url %}<a href="{{ article.journal_url }}" target="_blank">{{ article.title }}</a>{% else %}{{ article.title }}{% endif %}<br>
-    <em>{{ article.journal }}</em>
+    {{ article.title }}<br>
+    <em>{{ article.journal }}</em><br>
     &nbsp;<span class="badge" style="background:#aaa; color:#fff; font-size:0.8em;">{{ article.lang }}</span>
     {% if article.invited %}&nbsp;<span class="badge" style="background:#888; color:#fff; font-size:0.8em;">Invited</span>{% endif %}
     {% if article.reviewed %}&nbsp;<span class="badge" style="background:#555; color:#fff; font-size:0.8em;">Reviewed</span>{% endif %}
+    <br>
+    {% if article.journal_url %}<a href="{{ article.journal_url }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Journal</a>{% endif %}
+    {% if article.draft_url %}<a href="{{ article.draft_url }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Draft</a>{% endif %}
   </td>
 </tr>
 {% endfor %}
