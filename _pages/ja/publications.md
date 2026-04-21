@@ -18,22 +18,3 @@ nav_order: 2
 {% bibliography %}
 
 </div>
-
----
-
-## 解説記事
-
-<table class="table table-sm" style="font-size: 0.9em;">
-{% for article in site.data.tutorial_articles %}
-<tr>
-  <td style="white-space: nowrap; padding-right: 1em;">{{ article.year }}</td>
-  <td>
-    {% if article.authors_ja %}{{ article.authors_ja }}{% else %}{{ article.authors }}{% endif %}<br>
-    {% if article.journal_url %}<a href="{{ article.journal_url }}" target="_blank">{{ article.title_ja | default: article.title }}</a>{% else %}{{ article.title_ja | default: article.title }}{% endif %}<br>
-    <em>{{ article.journal }}</em>
-    {% if article.invited %}&nbsp;<span class="badge" style="background:#888; color:#fff; font-size:0.8em;">招待</span>{% endif %}
-    {% if article.reviewed %}&nbsp;<span class="badge" style="background:#555; color:#fff; font-size:0.8em;">査読あり</span>{% endif %}
-  </td>
-</tr>
-{% endfor %}
-</table>
