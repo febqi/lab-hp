@@ -864,6 +864,12 @@ footer.sticky-bottom {
         border-color: var(--global-text-color);
       }
     }
+    div.doi.hidden {
+      border: dashed 1px var(--global-bg-color);
+    }
+    div.doi.hidden.open {
+      border-color: var(--global-text-color);
+    }
     div.award.hidden {
       border: dashed 1px var(--global-bg-color);
     }

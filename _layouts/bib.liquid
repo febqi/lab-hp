@@ -212,7 +212,7 @@
         <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
       {% endif %}
       {% if entry.doi %}
-        <a href="https://doi.org/{{ entry.doi }}" class="btn btn-sm z-depth-0" role="button">DOI</a>
+        <a class="doi btn btn-sm z-depth-0" role="button">DOI</a>
       {% endif %}
       {% if entry.arxiv %}
         <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
@@ -222,9 +222,9 @@
       {% endif %}
       {% if entry.html %}
         {% if entry.html contains '://' %}
-          <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button">HTML</a>
+          <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button">Journal</a>
         {% else %}
-          <a href="{{ entry.html | prepend: '/assets/html/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">HTML</a>
+          <a href="{{ entry.html | prepend: '/assets/html/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Journal</a>
         {% endif %}
       {% endif %}
       {% if entry.pdf %}
@@ -359,6 +359,13 @@
       <!-- Hidden Award block -->
       <div class="award hidden d-print-inline">
         <p>{{ entry.award | markdownify }}</p>
+      </div>
+    {% endif %}
+
+    {% if entry.doi %}
+      <!-- Hidden DOI block -->
+      <div class="doi hidden">
+        <p>https://doi.org/{{ entry.doi }}</p>
       </div>
     {% endif %}
 
