@@ -34,3 +34,7 @@ profiles:
     more_info: >
       <p>ポスドク研究員</p>
 ---
+
+{% include figure.liquid loading="eager" path="assets/img/team_pic.png" class="img-fluid rounded z-depth-1" alt="FEBQIチーム写真" %}
+
+<p class="text-center" style="font-size: 0.9em; color: #666;">左から: Rie, Oleksiy, Erika, Ash, Yiran, Yumi, Ivan</p>
