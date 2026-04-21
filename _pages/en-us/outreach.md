@@ -19,7 +19,7 @@ nav_order: 7
 <tr>
   <td style="white-space: nowrap; padding-right: 1em; color: #888;">{{ article.year }}</td>
   <td>
-    {{ article.authors_html }}<br>
+    <span class="author">{{ article.authors_html }}</span><br>
     {{ article.title }}<br>
     <em>{{ article.journal }}</em><br>
     &nbsp;<span class="badge" style="background:#aaa; color:#fff; font-size:0.8em;">{{ article.lang }}</span>
