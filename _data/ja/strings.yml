@@ -18,9 +18,9 @@ bibliography:
 blog:
   navigation_title: blog
 categories:
-  fun: fun
+  fun: その他
   work: work
-  research: research
+  research: 研究
 citation:
   bibtex: "or as a BibTeX entry:"
   introduction: "If you found this useful, please cite this as:"
