@@ -900,7 +900,7 @@ footer.sticky-bottom {
 // Global author underline rule (for outreach and other pages outside .publications)
 .author > em {
   border-bottom: 1px solid;
-  font-style: normal;
+  font-style: normal !important;
 }
 
 // Rouge Color Customization
