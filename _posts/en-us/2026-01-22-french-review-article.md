@@ -10,4 +10,9 @@ thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEiuEfwxwy-viuGSJzS-R
 
 A review article on quantum computing by Tetsuyoshi Yamada, Thomas Giovansili, and Erika Kawakami has been published in a French alumni magazine. Great outreach work!
 
+**L'ordinateur quantique : promesses, défis et nouvelles pistes de recherche**
+Tetsuyoshi Yamada, Thomas Giovansili, Erika Kawakami\*
+*Les Cahiers de Centrale Méditerranée Alumni « Le quantique », N°59 (2025)*
+\[FR\] \[Invited\]
+
 ![French article](https://blogger.googleusercontent.com/img/a/AVvXsEiuEfwxwy-viuGSJzS-RMvRhtKVNJyUHq3-MU5BGHXZ-82Oi8IinOAzcoafmJXfVdzh4jnpNSAK1LZSB9mJ3Pk4ta4Y_3vomPeRFMvzXveMZsso5HPl8PRooSg2nuUB9aqbQgsLikKP-FyQ-PineW5ydyfwqhvycOnCXBZp_r73qI3eRR7U67bw5DbE5Glp)
