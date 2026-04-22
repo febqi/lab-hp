@@ -1,0 +1,134 @@
+- year: 2026
+  date: "Mar 23–26, 2026"
+  type: Oral
+  lang: ja
+  title: "真空中に浮かぶ電子を用いた量子制御の基礎研究"
+  conference: "日本物理学会春季大会"
+  presenter_html: '<span class="author"><em>川上恵里加</em><sup>*</sup></span>'
+  presenter_en_html: '<span class="author"><em>Erika Kawakami</em><sup>*</sup></span>'
+  invited: true
+  venue: "Online"
+
+- year: 2026
+  date: "Mar 16–20, 2026"
+  type: Oral
+  lang: en
+  title: "Coupling Electrons on Solid Neon to a Superconducting Resonator"
+  conference: "March meeting 2026"
+  presenter_html: '<span class="author"><em>J. Wang</em><sup>*</sup>/<em>Y. Tian</em>, <em>A. Jennings</em>, <em>I. Grytsenko</em>, <em>O. Rybalko</em>, X. Zhou, D. Jin, H. Terai, and <em>E. Kawakami</em><sup>*</sup></span>'
+  reviewed: true
+  venue: "Denver"
+
+- year: 2026
+  date: "Mar 16–20, 2026"
+  type: Oral
+  lang: en
+  title: "Coupling Floating Electrons on Liquid Helium to an LC Circuit"
+  conference: "March meeting 2026"
+  presenter_html: '<span class="author"><em>Asher Jennings</em><sup>*</sup>/<em>Ivan Grytsenko</em>, <em>Jun Wang</em>, <em>Yiran Tian</em>, <em>Oleksiy Rybalko</em>, <em>Erika Kawakami</em><sup>*</sup></span>'
+  reviewed: true
+  venue: "Denver"
+
+- year: 2026
+  date: "Mar 15–18, 2026"
+  type: Oral
+  lang: ja
+  title: "浮揚電子：真空中に拓く新しい量子ビットの可能性"
+  conference: "応用物理学会春季学術講演会"
+  presenter_html: '<span class="author"><em>川上恵里加</em><sup>*</sup></span>'
+  presenter_en_html: '<span class="author"><em>Erika Kawakami</em><sup>*</sup></span>'
+  invited: true
+  venue: "東京科学大学"
+  venue_en: "Tokyo Institute of Science"
+
+- year: 2025
+  date: "Dec 12–14, 2025"
+  type: Oral
+  lang: ja
+  title: "液体ヘリウム・固体ネオン上の浮揚電子を用いた量子ビット"
+  conference: "応用物理学会・量子エレクトロニクス研究会「量子コンピュータ研究の最前線 ～ハードウェアから応用・連携技術まで～」"
+  presenter_html: '<span class="author"><em>川上恵里加</em><sup>*</sup></span>'
+  presenter_en_html: '<span class="author"><em>Erika Kawakami</em><sup>*</sup></span>'
+  invited: true
+  url: "https://annex.jsap.or.jp/qe/qcomputing2025.html"
+  venue: "東京大学山中寮"
+  venue_en: "Yamanaka Seminar House, University of Tokyo"
+
+- year: 2025
+  date: "Oct 8–10, 2025"
+  type: Oral
+  lang: en
+  title: "Long-Coherence-Time Charge Qubits with Electrons on Solid Neon"
+  conference: "QIE2025"
+  presenter_html: '<span class="author"><em>Erika Kawakami</em><sup>*</sup></span>'
+  invited: true
+  url: "https://annex.jsap.or.jp/qie/QIE2025/"
+  venue: "OIST, Japan"
+
+- year: 2025
+  date: "Sep 8–12, 2025"
+  type: Oral
+  lang: ja
+  title: "浮揚電子による量子ビット"
+  conference: "量子力学100周年研究会：量子基礎・量子情報のこれまでとこれから"
+  presenter_html: '<span class="author"><em>川上恵里加</em><sup>*</sup></span>'
+  presenter_en_html: '<span class="author"><em>Erika Kawakami</em><sup>*</sup></span>'
+  invited: true
+  url: "https://indico.yukawa.kyoto-u.ac.jp/event/64/"
+  venue: "京都大学基礎物理学研究所"
+  venue_en: "Yukawa Institute for Theoretical Physics, Kyoto University"
+
+- year: 2025
+  date: "Aug 14–18, 2025"
+  type: Oral
+  lang: en
+  title: "Exploring Quantum States of Electron Ensembles on Liquid Helium"
+  conference: "ULT2025"
+  presenter_html: '<span class="author"><em>Asher Jennings</em><sup>*</sup></span>'
+  invited: true
+  url: "https://www.lancaster.ac.uk/physics/research/ult-2025/"
+  venue: "Lancaster, UK"
+
+- year: 2025
+  date: "Aug 7–13, 2025"
+  type: Oral
+  lang: en
+  title: "Floating Electrons Coupled to Resonators"
+  conference: "LT30"
+  presenter_html: '<span class="author"><em>Erika Kawakami</em><sup>*</sup></span>'
+  invited: true
+  url: "https://www.lt30.es/"
+  venue: "Bilbao, Spain"
+
+- year: 2025
+  date: "Aug 7–13, 2025"
+  type: Poster
+  lang: en
+  title: "Coupling Electrons on Solid Neon to a Superconducting Resonator"
+  conference: "LT30"
+  presenter_html: '<span class="author"><em>J. Wang</em><sup>*</sup>/<em>Y. Tian</em>, <em>A. Jennings</em>, <em>I. Grytsenko</em>, <em>O. Rybalko</em>, X. Zhou, D. Jin, H. Terai, and <em>E. Kawakami</em><sup>*</sup></span>'
+  reviewed: true
+  url: "https://www.lt30.es/"
+  venue: "Bilbao, Spain"
+
+- year: 2025
+  date: "Aug 7–13, 2025"
+  type: Poster
+  lang: en
+  title: "RF Reflectometry for Electrons on Helium"
+  conference: "LT30"
+  presenter_html: '<span class="author"><em>Asher Jennings</em><sup>*</sup>/<em>Ivan Grytsenko</em>, <em>Jun Wang</em>, <em>Yiran Tian</em>, <em>Oleksiy Rybalko</em>, <em>Erika Kawakami</em><sup>*</sup></span>'
+  reviewed: true
+  url: "https://www.lt30.es/"
+  venue: "Bilbao, Spain"
+
+- year: 2025
+  date: "Jun 23–25, 2025"
+  type: Oral
+  lang: en
+  title: "Realizing Qubits with Electrons Floating on Cryogenic Substrates"
+  conference: "Joint International Workshop on Quantum Computing"
+  presenter_html: '<span class="author"><em>Erika Kawakami</em><sup>*</sup></span>'
+  invited: true
+  url: "https://sites.google.com/phys.ncku.edu.tw/joint-international-workshop/introduction"
+  venue: "National Cheng Kung University, Taiwan"
