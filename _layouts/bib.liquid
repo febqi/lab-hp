@@ -258,6 +258,9 @@
       {% if entry.overleaf %}
         <a href="{{ entry.overleaf }}" class="btn btn-sm z-depth-0" role="button">Overleaf</a>
       {% endif %}
+      {% if entry.index and page.permalink == '/publications/' %}
+        <span class="pub-index" style="font-size: 0.75em; color: #999; margin-left: 4px;">{{ entry.index }}</span>
+      {% endif %}
       {% if entry.poster %}
         {% if entry.poster contains '://' %}
           <a href="{{ entry.poster }}" class="btn btn-sm z-depth-0" role="button">Poster</a>
