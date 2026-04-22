@@ -19,6 +19,7 @@ nav_order: 3
 {% assign current_year = 0 %}
 
 {% for pres in sorted_presentations %}
+  {% if pres.lang == "ja" %}{% continue %}{% endif %}
   {% if pres.year != current_year %}
     {% assign current_year = pres.year %}
 <h2>{{ current_year }}</h2>
