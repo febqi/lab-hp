@@ -21,7 +21,7 @@ Lab offices: Rooms N508-1, N105-2, N108-1
 ## Visiting
 
 Please report to the **West Gate** with your entry number (provided in advance by your host).
-The lab is located in the south area of campus (Building S51).
+The lab is located in the south area of campus (Building S51), about 10 min walk from the West Gate.
 
 For the full campus map: [RIKEN Wako Campus Map](https://www.riken.jp/en/access/wako-map/index.html)
 
@@ -30,7 +30,7 @@ For the full campus map: [RIKEN Wako Campus Map](https://www.riken.jp/en/access/
 **By train:**
 - From Ikebukuro (Seibu Ikebukuro Line) → Wakoshi Station: ~20 min
 - From Shibuya or Shinjuku → Wakoshi Station via Fukutoshin Line (direct): ~35–40 min
-- From Wakoshi Station: ~10 min walk or taxi to RIKEN West Gate
+- From Wakoshi Station: ~15 min walk or taxi to RIKEN West Gate, ~25 min to the lab
 
 ## Accommodation & Dining on Campus
 
