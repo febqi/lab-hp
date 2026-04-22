@@ -15,7 +15,7 @@ nav_order: 2
 {% include bib_search.liquid %}
 
 <p style="font-size: 0.9em; margin-bottom: 1em;">
-  <u>Underline</u>: FEBQI lab member &nbsp;|&nbsp; <sup>*</sup>: Corresponding author
+  <u>Underline</u>: FEBQI lab member &nbsp;|&nbsp; <sup>*</sup>: Corresponding author &nbsp;|&nbsp; <span style="color:#999;">gray label</span>: internal raw data folder name
 </p>
 
 <div class="publications">
