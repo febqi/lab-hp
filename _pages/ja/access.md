@@ -12,8 +12,9 @@ nav_order: 9
 
 **理化学研究所 和光キャンパス S51棟**
 〒351-0198 埼玉県和光市広沢2-1
+(35.77664, 139.61083)
 
-研究室: N508-1, N105-2, N108-1, S301-2号室
+研究室: N508-1, N105-2, N108-1号室
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3233.0!2d139.6108!3d35.7766!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018ead7c7b8ffd1%3A0x8fd14fb11e729e!2sRIKEN%20Wako%20Campus!5e0!3m2!1sja!2sjp!4v1" width="100%" height="400" style="border:0; border-radius:8px;" allowfullscreen="" loading="lazy"></iframe>
 
