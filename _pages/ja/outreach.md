@@ -33,3 +33,26 @@ nav_order: 7
 </tr>
 {% endfor %}
 </table>
+
+## アウトリーチ活動・セミナー
+
+<p style="font-size: 0.9em; margin-bottom: 1em;">
+  <u>下線</u>: FEBQIメンバー
+</p>
+
+<table class="table table-sm" style="font-size: 0.9em;">
+{% for act in site.data.outreach_activities %}
+<tr>
+  <td style="white-space: nowrap; padding-right: 1em; color: #888;">{{ act.date }}</td>
+  <td>
+    {{ act.presenter_html }}<br>
+    {{ act.title }}<br>
+    <em>{{ act.venue }}</em>
+    <div class="links">
+      <span class="btn btn-sm z-depth-0" style="background-color:#f0f0f0; color:#555; cursor:default;">{{ act.format }}</span>
+      {% if act.url %}<a href="{{ act.url }}" class="btn btn-sm z-depth-0" role="button" target="_blank">リンク</a>{% endif %}
+    </div>
+  </td>
+</tr>
+{% endfor %}
+</table>
