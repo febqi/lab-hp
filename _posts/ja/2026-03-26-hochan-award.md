@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 嬉しいニュース
+title: Hochan Chungが学士論文優秀賞を受賞
 date: 2026-03-26 00:00:00+0900
 description: Hochan Chungが学士論文優秀賞を受賞
 tags: award

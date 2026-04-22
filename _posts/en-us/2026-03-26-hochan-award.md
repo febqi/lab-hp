@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Great news to share
+title: Hochan Chung receives Best Bachelor's Thesis Award
 date: 2026-03-26 00:00:00+0900
 description: Hochan Chung receives Best Bachelor's Thesis Award
 tags: award

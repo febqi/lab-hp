@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 嬉しいニュース
+title: ポスター賞受賞とPRL論文がRIKEN Research Newsに掲載
 date: 2026-01-19 00:00:00+0900
 description: ポスター賞受賞とPRL論文がRIKEN Research Newsに掲載
 tags: award publication

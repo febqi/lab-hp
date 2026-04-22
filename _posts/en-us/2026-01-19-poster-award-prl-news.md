@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Great news to share
+title: Poster award and PRL paper featured in RIKEN Research News
 date: 2026-01-19 00:00:00+0900
 description: Poster award and PRL paper featured in RIKEN Research News
 tags: award publication
