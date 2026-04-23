@@ -7,32 +7,6 @@ description: Members of the FEBQI research team
 nav: true
 nav_order: 3
 
-profiles:
-  - align: right
-    image: prof_pic.jpg
-    content: member_erika.md
-    image_circular: true
-    more_info: >
-      <p>Team Leader</p>
-      <p>Building S51, RIKEN Wako</p>
-  - align: left
-    image: prof_pic.jpg
-    content: member_ivan.md
-    image_circular: true
-    more_info: >
-      <p>Technical Scientist</p>
-  - align: right
-    image: prof_pic.jpg
-    content: member_asher.md
-    image_circular: true
-    more_info: >
-      <p>Postdoctoral Researcher</p>
-  - align: left
-    image: prof_pic.jpg
-    content: member_junwang.md
-    image_circular: true
-    more_info: >
-      <p>Postdoctoral Researcher</p>
 ---
 
 <img src="{{ '/assets/img/team_pic.png' | relative_url }}" class="img-fluid rounded z-depth-1" alt="FEBQI team photo" style="width:100%;">
