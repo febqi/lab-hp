@@ -32,8 +32,8 @@ The lab is located in the south area of campus (Building S51), about 10 min walk
 </div>
 
 **By train:**
-- From Ikebukuro (Tobu Tojo Line) → Wakoshi Station: ~15 min
-- From Shibuya or Shinjuku (Fukutoshin Line / Tobu Tojo Line) → Wakoshi Station: ~35–40 min
+- From Ikebukuro → Wakoshi Station via Tobu Tojo Line: ~20 min
+- From Shibuya or Shinjuku → Wakoshi Station via Fukutoshin Line: ~35–40 min
 - From Wakoshi Station: ~15 min walk to RIKEN West Gate, ~25 min to the lab
 
 **By highway bus (from airports):**
