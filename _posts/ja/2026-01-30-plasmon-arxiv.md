@@ -14,4 +14,4 @@ thumbnail: /assets/img/plasmon.png
 Asher Jennings\*, Ivan Grytsenko, Thomas Giovansili, Itay Josef Barabash, Oleksiy Rybalko, Yiran Tian, Jun Wang, Hiroki Ikegami, and Erika Kawakami\*
 [arXiv:2601.22552](https://arxiv.org/abs/2601.22552) (2026)
 
-![plasmon paper figure](/assets/img/plasmon.png)
+![plasmon paper figure]({{ '/assets/img/plasmon.png' | relative_url }})
