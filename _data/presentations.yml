@@ -97,7 +97,6 @@
   conference: "LT30"
   presenter_html: '<span class="author"><em>Erika Kawakami</em><sup>*</sup></span>'
   invited: true
-  url: "https://www.lt30.es/"
   venue: "Bilbao, Spain"
 
 - year: 2025
@@ -108,7 +107,6 @@
   conference: "LT30"
   presenter_html: '<span class="author"><em>J. Wang</em><sup>*</sup>, <em>Y. Tian</em>, <em>A. Jennings</em>, <em>I. Grytsenko</em>, <em>O. Rybalko</em>, X. Zhou, D. Jin, H. Terai, and <em>E. Kawakami</em><sup>*</sup></span>'
   reviewed: true
-  url: "https://www.lt30.es/"
   venue: "Bilbao, Spain"
 
 - year: 2025
@@ -119,7 +117,6 @@
   conference: "LT30"
   presenter_html: '<span class="author"><em>Asher Jennings</em><sup>*</sup>, <em>Ivan Grytsenko</em>, <em>Jun Wang</em>, <em>Yiran Tian</em>, <em>Oleksiy Rybalko</em>, <em>Erika Kawakami</em><sup>*</sup></span>'
   reviewed: true
-  url: "https://www.lt30.es/"
   venue: "Bilbao, Spain"
 
 - year: 2025

@@ -8,7 +8,6 @@
   presenter_html: '<span class="author"><em>I. Grytsenko</em><sup>*</sup></span>, O. Rybalko, Y. Tian, A. Jennings, R. Mohan, <em>E. Kawakami</em><sup>*</sup>'
   conference: "March meeting 2024"
   reviewed: true
-  url: "https://march.aps.org/"
   venue: "Minneapolis"
 
 - year: 2024
@@ -19,7 +18,6 @@
   presenter_html: '<span class="author"><em>E. Kawakami</em><sup>*</sup></span>, A. Jennings, I. Grytsenko, Y. Tian, O. Rybalko'
   conference: "March meeting 2024"
   reviewed: true
-  url: "https://march.aps.org/"
   venue: "Minneapolis"
 
 - year: 2023
@@ -99,7 +97,6 @@
   presenter_html: '<span class="author"><em>川上恵里加</em><sup>*</sup></span>'
   conference: "第70回応用物理学会春季学術講演会 シンポジウム"
   invited: true
-  url: "https://meeting.jsap.or.jp/invited-speakers"
 
 - year: 2023
   date: "Jan. 2023"
@@ -149,7 +146,6 @@
   presenter_html: '<span class="author"><em>E. Kawakami</em><sup>*</sup></span>'
   conference: "APPC15"
   invited: true
-  url: "https://www.appc15.org/"
 
 - year: 2022
   date: "Aug. 2022"
@@ -218,7 +214,6 @@
   presenter_html: '<span class="author"><em>E. Kawakami</em><sup>*</sup></span>'
   conference: "QFS2021"
   invited: true
-  url: "http://qfs2021.cense.iisc.ac.in/index.html"
 
 - year: 2021
   date: "Aug. 2021"
@@ -228,7 +223,6 @@
   presenter_html: '<span class="author"><em>I. Grytsenko</em><sup>*</sup></span>, O. Rybalko, <em>E. Kawakami</em><sup>*</sup>'
   conference: "QFS2021"
   reviewed: true
-  url: "http://qfs2021.cense.iisc.ac.in/index.html"
 
 - year: 2021
   date: "Jul. 2021"
@@ -238,7 +232,6 @@
   presenter_html: '<span class="author"><em>E. Kawakami</em><sup>*</sup></span>'
   conference: "Quantum matter at ultra-low temperatures"
   invited: true
-  url: "https://www.iopconferences.org/iop/frontend/reg/tOtherPage.csp?pageID=1030152&eventID=1661"
 
 - year: 2021
   date: "Jun. 2021"
