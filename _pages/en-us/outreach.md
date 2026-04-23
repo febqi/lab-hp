@@ -9,6 +9,8 @@ nav_order: 7
 tabs: true
 ---
 
+<p style="font-size: 0.85em; color: #888; margin-bottom: 1rem;">Japanese-language outreach activities are listed on the <a href="{{ '/outreach/' | relative_url }}">Japanese page</a> only.</p>
+
 <ul class="tab" data-tab="tab-outreach-en">
   <li class="active"><a href="#">Review Articles</a></li>
   <li><a href="#">Outreach & Seminars</a></li>
