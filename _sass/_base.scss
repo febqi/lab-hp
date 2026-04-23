@@ -903,6 +903,15 @@ footer.sticky-bottom {
   font-style: normal !important;
 }
 
+.about-page-content h2 {
+  margin-top: 2rem;
+}
+
+.about-page-content p + h2,
+.about-page-content ul + h2 {
+  margin-top: 2.5rem;
+}
+
 // Rouge Color Customization
 figure.highlight {
   margin: 0 0 1rem;
