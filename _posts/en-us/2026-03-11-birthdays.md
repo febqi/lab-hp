@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Birthdays
+title: Happy 80th birthday, Oleksiy!
 date: 2026-03-11 00:00:00+0900
 description: Celebrating birthdays in the lab
 tags: lab-life
