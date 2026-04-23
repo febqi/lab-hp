@@ -24,7 +24,7 @@ latest_posts:
   limit: 3
 ---
 
-We are the **Floating-Electron-Based Quantum Information (FEBQI)** research team at RIKEN.
+We are the **Floating-Electron-Based Quantum Information (FEBQI)** research team at RIKEN Center for Quantum Computing.
 
 Our research focuses on electrons floating above liquid helium and solid neon as platforms for quantum information processing. These electrons exist in a pristine, defect-free environment, enabling long coherence times ideal for quantum computing.
 
