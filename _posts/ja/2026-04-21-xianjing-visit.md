@@ -5,6 +5,7 @@ date: 2026-04-21 00:00:00+0900
 description: Xianjing Zhou が1週間滞在します
 tags: visit
 categories: news
+thumbnail: assets/img/xianjing_visit_2026.jpg
 ---
 
 Xianjingが今日から1週間滞在します。
