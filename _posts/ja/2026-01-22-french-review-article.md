@@ -10,9 +10,9 @@ thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEiuEfwxwy-viuGSJzS-R
 
 山田哲義、Thomas Giovansili、川上恵里加による量子コンピューティングの解説記事がフランスの同窓会誌に掲載されました！
 
-**L'ordinateur quantique : promesses, défis et nouvelles pistes de recherche**
+**[L'ordinateur quantique : promesses, défis et nouvelles pistes de recherche](https://www.centraliens-mediterranee.fr/medias/editor/Cahiers-AIECM/N°59%20-%20Le%20Quantique/Sommaire%2059%20Le%20quantique.pdf)**
 Tetsuyoshi Yamada, Thomas Giovansili, Erika Kawakami\*
 *Les Cahiers de Centrale Méditerranée Alumni « Le quantique », N°59 (2025)*
-\[FR\] \[招待\]
+\[FR\]
 
 ![French article](https://blogger.googleusercontent.com/img/a/AVvXsEiuEfwxwy-viuGSJzS-RMvRhtKVNJyUHq3-MU5BGHXZ-82Oi8IinOAzcoafmJXfVdzh4jnpNSAK1LZSB9mJ3Pk4ta4Y_3vomPeRFMvzXveMZsso5HPl8PRooSg2nuUB9aqbQgsLikKP-FyQ-PineW5ydyfwqhvycOnCXBZp_r73qI3eRR7U67bw5DbE5Glp)
