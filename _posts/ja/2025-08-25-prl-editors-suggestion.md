@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 嬉しいニュース
+title: Ash ポスター賞受賞
 date: 2025-08-25 00:00:00+0900
 description: PRL論文がEditors' Suggestionに選出、LT30でポスター賞受賞
 tags: publication award

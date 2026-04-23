@@ -19,7 +19,6 @@ The site was built through conversations with [Claude Code](https://docs.anthrop
 - [jekyll-polyglot](https://github.com/untra/polyglot) for English/Japanese bilingual support
 - [jekyll-scholar](https://github.com/inukshuk/jekyll-scholar) for BibTeX-based publication lists
 - [GitHub Pages](https://pages.github.com/) for hosting
-- Photos from [Unsplash](https://unsplash.com/)
 
 **Key features:**
 

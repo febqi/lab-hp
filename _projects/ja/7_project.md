@@ -19,7 +19,6 @@ category: fun
 - [jekyll-polyglot](https://github.com/untra/polyglot)（日英バイリンガル対応）
 - [jekyll-scholar](https://github.com/inukshuk/jekyll-scholar)（BibTeX論文リスト）
 - [GitHub Pages](https://pages.github.com/)（ホスティング）
-- 写真：[Unsplash](https://unsplash.com/)
 
 **主な機能：**
 
