@@ -23,6 +23,7 @@ tabs: true
 </p>
 <table class="table table-sm" style="font-size: 0.9em;">
 {% for article in site.data.tutorial_articles %}
+  {% if article.lang == "JA" %}{% continue %}{% endif %}
 <tr>
   <td style="white-space: nowrap; padding-right: 1em; color: #888;">{{ article.year }}</td>
   <td>
