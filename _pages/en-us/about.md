@@ -28,12 +28,19 @@ We are the **Floating-Electron-Based Quantum Information (FEBQI)** research team
 
 Our research focuses on electrons floating above liquid helium and solid neon as platforms for quantum information processing. These electrons exist in a pristine, defect-free environment, enabling long coherence times ideal for quantum computing.
 
+<div style="margin-top: 1.5rem;">
+
 ## Research Highlights
 
 - **Electrons on liquid helium** — Scalable electron spin qubits exploiting the clean electron-on-helium system
 - **Electrons on solid neon** — Long coherence times for both charge and spin states, targeting quantum memory
 - **Cryogenic electronics** — Development of cryogenic microwave sources for scalable quantum computation
 
+</div>
+<div style="margin-top: 1.5rem;">
+
 ## Openings
 
 We are recruiting **postdocs** and **interns** (3+ months). Please contact [Erika Kawakami](mailto:erika.kawakami@riken.jp) for details.
+
+</div>
