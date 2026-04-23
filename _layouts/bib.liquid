@@ -255,8 +255,13 @@
       {% if entry.code %}
         <a href="{{ entry.code }}" class="btn btn-sm z-depth-0" role="button">Code</a>
       {% endif %}
-      {% if entry.overleaf %}
-        <a href="{{ entry.overleaf }}" class="btn btn-sm z-depth-0" role="button">Overleaf</a>
+      {% if entry.overleaf and page.permalink == '/publications/' %}
+        {% if entry.overleaf_suppl %}
+          <a href="{{ entry.overleaf }}" class="btn btn-sm z-depth-0" role="button">Overleaf (main)</a>
+          <a href="{{ entry.overleaf_suppl }}" class="btn btn-sm z-depth-0" role="button">Overleaf (suppl.)</a>
+        {% else %}
+          <a href="{{ entry.overleaf }}" class="btn btn-sm z-depth-0" role="button">Overleaf</a>
+        {% endif %}
       {% endif %}
       {% if entry.index and page.permalink == '/publications/' %}
         <span class="pub-index" style="font-size: 0.75em; color: #999; margin-left: 4px;">{{ entry.index }}</span>
