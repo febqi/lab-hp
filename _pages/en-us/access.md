@@ -10,8 +10,8 @@ nav_order: 9
 
 ## Location
 
-**RIKEN Wako Campus, Chemistry and Materials Physics Building (S51)**
-2-1, Hirosawa, Wako, Saitama 351-0198, Japan
+**RIKEN Wako Campus, Chemistry and Materials Physics Building (S51)**<br>
+2-1, Hirosawa, Wako, Saitama 351-0198, Japan<br>
 [(35.77664, 139.61083)](https://www.google.com/maps?q=35.77664,139.61083)
 
 Lab offices: Rooms N508-1, N105-2, N108-1
