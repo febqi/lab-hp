@@ -3,8 +3,7 @@ page_id: about
 layout: about
 title: about
 permalink: /
-subtitle: >
-  <a href='https://www.riken.jp/en/research/labs/rqc/'>RIKEN Center for Quantum Computing</a> · Hakubi Research Team · Wako, Saitama, Japan
+subtitle:
 
 profile:
   align: right
@@ -24,7 +23,7 @@ latest_posts:
   limit: 3
 ---
 
-We are the **Floating-Electron-Based Quantum Information (FEBQI)** research team at RIKEN Center for Quantum Computing.
+We are the **Floating-Electron-Based Quantum Information (FEBQI)** research team at [RIKEN Center for Quantum Computing](https://www.riken.jp/en/research/labs/rqc/).
 
 Our research focuses on electrons floating above liquid helium and solid neon as platforms for quantum information processing. These electrons exist in a pristine, defect-free environment, enabling long coherence times ideal for quantum computing.
 

@@ -3,8 +3,7 @@ page_id: about
 layout: about
 title: about
 permalink: /
-subtitle: >
-  <a href='https://www.riken.jp/research/labs/rqc/'>理化学研究所 量子コンピュータ研究センター</a> · 白眉研究チーム · 埼玉県和光市
+subtitle:
 
 profile:
   align: right
@@ -24,7 +23,7 @@ latest_posts:
   limit: 3
 ---
 
-私たちは、理化学研究所 量子コンピュータ研究センターの**浮揚電子量子情報理研白眉研究チーム（FEBQI）** です。
+私たちは、[理化学研究所 量子コンピュータ研究センター](https://www.riken.jp/research/labs/rqc/)の**浮揚電子量子情報理研白眉研究チーム（FEBQI）** です。
 
 液体ヘリウムおよび固体ネオン上に浮揚する電子を量子情報処理のプラットフォームとして研究しています。これらの電子は不純物や欠陥のない清浄な環境に存在するため、長いコヒーレンス時間が期待でき、量子コンピュータ実現に向けた理想的なプラットフォームです。
 
