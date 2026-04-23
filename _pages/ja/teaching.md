@@ -4,7 +4,7 @@ layout: page
 permalink: /teaching/
 title: 教育
 description: Materiais de cursos que você ministrou. Substitua esse texto com sua descrição.
-nav: true
+nav: false
 nav_order: 6
 ---
 
