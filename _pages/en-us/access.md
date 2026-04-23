@@ -28,16 +28,25 @@ For the full campus map: [RIKEN Wako Campus Map](https://www.riken.jp/en/access/
 ## Access from Tokyo
 
 **By train:**
-- From Ikebukuro (Seibu Ikebukuro Line) → Wakoshi Station: ~20 min
+- From Ikebukuro (Tobu Tojo Line) → Wakoshi Station: ~20 min
 - From Shibuya or Shinjuku → Wakoshi Station via Fukutoshin Line (direct): ~35–40 min
 - From Wakoshi Station: ~15 min walk or taxi to RIKEN West Gate, ~25 min to the lab
+
+**By highway bus (from airports):**
+- From Haneda Airport → Wakoshi Station (direct bus available)
+- From Narita Airport → Wakoshi Station (direct bus available)
 
 ## Accommodation & Dining on Campus
 
 - **Visitor lodging:** Building E91 (east area) — contact your host to arrange
-- **Canteen:** Building C61 (lunch only on weekdays)
+- **Canteen:** Building C61 (lunch and dinner on weekdays)
 - **Convenience store:** Building C72
 - Restaurants also available near Wakoshi Station
+- [Gusto](https://www.google.com/maps/place/%E3%82%AC%E3%82%B9%E3%83%88+%E5%92%8C%E5%85%89%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E5%BA%97/@35.7829056,139.591741,15z/data=!3m1!4b1!4m6!3m5!1s0x6018ebe2121d09a5:0xedb2b9eeca16ef16!8m2!3d35.782907!4d139.610195!16s%2Fg%2F1vg_cx20?entry=tts) (family restaurant) is also available nearby
+
+## Campus Map
+
+![RIKEN Wako Campus Map](/assets/img/campus_map.png){: style="width:100%; border-radius:8px; margin-top:1em;"}
 
 ## Contact
 
