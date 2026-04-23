@@ -2,8 +2,8 @@
 page_id: publications
 layout: page
 permalink: /publications/
-title: 発表論文
-description: 発表論文一覧（新しい順）。
+title: 論文
+description: 論文一覧（新しい順）。
 nav: true
 nav_order: 2
 ---
