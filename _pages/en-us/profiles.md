@@ -9,8 +9,16 @@ nav_order: 3
 
 ---
 
-<a href="{{ '/blog/2024/team-photo/' | relative_url }}"><img src="{{ '/assets/img/team_pic.png' | relative_url }}" class="img-fluid rounded z-depth-1" alt="FEBQI team photo" style="max-width:320px; width:100%;"></a>
-<p style="font-size: 0.9em; color: #666; margin-top: 0.5rem;">Left to right: Rie, Oleksiy, Erika, Ash, Yiran, Yumi, Ivan</p>
+<div style="display:flex; gap:1.5rem; flex-wrap:wrap; align-items:flex-start;">
+<div style="flex:1 1 280px;">
+<a href="{{ '/blog/2024/team-photo/' | relative_url }}"><img src="{{ '/assets/img/team_pic.png' | relative_url }}" class="img-fluid rounded z-depth-1" alt="FEBQI team photo" style="width:100%;"></a>
+<p style="font-size: 0.85em; color: #666; margin-top: 0.4rem;">Left to right: Rie, Oleksiy, Erika, Ash, Yiran, Yumi, Ivan</p>
+</div>
+<div style="flex:1 1 280px;">
+<a href="{{ '/blog/2026/xianjing-visit/' | relative_url }}"><img src="{{ '/assets/img/xianjing_visit_2026.jpg' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Xianjing visit 2026" style="width:100%;"></a>
+<p style="font-size: 0.85em; color: #666; margin-top: 0.4rem;">Clockwise from left: Hochan, Takuma, Oleksiy, Jun, Ash, Yiran, Xianjing, Erika (Ivan on camera)</p>
+</div>
+</div>
 
 ## Team Members
 
