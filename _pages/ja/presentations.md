@@ -11,64 +11,67 @@ nav_order: 3
 <p style="font-size: 0.9em; margin-bottom: 0.5em;">
   未来の日付は予定されている発表を表します。
 </p>
-<p style="font-size: 0.9em; margin-bottom: 1.5em;">
+<p style="font-size: 0.9em; margin-bottom: 1em;">
   <u>下線</u>: FEBQIメンバー &nbsp;|&nbsp; <sup>*</sup>: 責任著者/発表者
 </p>
 
-{% assign sorted_presentations = site.data.presentations | sort: "year" | reverse %}
-{% assign current_year = 0 %}
+{% assign years = site.data.presentations | map: "year" | uniq | sort | reverse %}
 
-{% for pres in sorted_presentations %}
-  {% if pres.year != current_year %}
-    {% assign current_year = pres.year %}
-<h2>{{ current_year }}</h2>
-  {% endif %}
+<ul class="tab" data-tab="tab-presentations-ja">
+  {% for year in years %}
+    <li{% if forloop.first %} class="active"{% endif %}><a href="#">{{ year }}</a></li>
+  {% endfor %}
+  <li><a href="#">〜2022年</a></li>
+</ul>
 
-<div class="publication-item" style="margin-bottom: 1em;">
-  <div>
-    <strong>{{ pres.title }}</strong>
-    {% if pres.invited %}
-      <span class="btn btn-sm z-depth-0" style="background-color:#fff3e0; color:#e65100; cursor:default; font-size:0.75em; vertical-align:middle;">招待</span>
-    {% endif %}
-    {% if pres.reviewed %}
-      <span class="btn btn-sm z-depth-0" style="background-color:#f1f8e9; color:#33691e; cursor:default; font-size:0.75em; vertical-align:middle;">審査あり</span>
-    {% endif %}
-  </div>
-  <div>
-    {{ pres.presenter_html }}
-  </div>
-  <div class="periodical" style="font-size: 0.9em;">
-    <em>{{ pres.conference }}</em>{% if pres.venue %}, {{ pres.venue }}{% endif %} ({{ pres.date }})
-  </div>
-  <div class="links">
-    {% if pres.type == "Oral" %}
-      <span class="btn btn-sm z-depth-0" style="background-color:#e8f4f8; color:#2a7ae2; cursor:default;">口頭</span>
-    {% else %}
-      <span class="btn btn-sm z-depth-0" style="background-color:#f0f0f0; color:#555; cursor:default;">ポスター</span>
-    {% endif %}
-    {% if pres.lang == "en" %}
-      <span class="btn btn-sm z-depth-0" style="background-color:#e8eaf6; color:#283593; cursor:default;">英語</span>
-    {% endif %}
-    {% if pres.url %}
-      <a href="{{ pres.url }}" class="btn btn-sm z-depth-0" role="button">リンク</a>
-    {% endif %}
-  </div>
-</div>
-
+<ul id="tab-presentations-ja" class="tab-content">
+{% for year in years %}
+<li{% if forloop.first %} class="active"{% endif %}>
+{% assign year_pres = site.data.presentations | where: "year", year %}
+<table class="table table-sm" style="font-size: 0.9em;">
+{% for pres in year_pres %}
+<tr>
+  <td style="white-space: nowrap; padding-right: 1em; color: #888;">{{ pres.date }}</td>
+  <td>
+    <div>
+      <strong>{{ pres.title }}</strong>
+      {% if pres.invited %}<span class="btn btn-sm z-depth-0" style="background-color:#fff3e0; color:#e65100; cursor:default; font-size:0.75em; vertical-align:middle;">招待</span>{% endif %}
+      {% if pres.reviewed %}<span class="btn btn-sm z-depth-0" style="background-color:#f1f8e9; color:#33691e; cursor:default; font-size:0.75em; vertical-align:middle;">審査あり</span>{% endif %}
+    </div>
+    <div>{{ pres.presenter_html }}</div>
+    <div style="font-size:0.9em;"><em>{{ pres.conference }}</em>{% if pres.venue %}, {{ pres.venue }}{% endif %}</div>
+    <div class="links">
+      {% if pres.type == "Oral" %}<span class="btn btn-sm z-depth-0" style="background-color:#e8f4f8; color:#2a7ae2; cursor:default;">口頭</span>
+      {% else %}<span class="btn btn-sm z-depth-0" style="background-color:#f0f0f0; color:#555; cursor:default;">ポスター</span>{% endif %}
+      {% if pres.lang == "en" %}<span class="btn btn-sm z-depth-0" style="background-color:#e8eaf6; color:#283593; cursor:default;">英語</span>{% endif %}
+      {% if pres.url %}<a href="{{ pres.url }}" class="btn btn-sm z-depth-0" role="button">リンク</a>{% endif %}
+    </div>
+  </td>
+</tr>
+{% endfor %}
+</table>
+</li>
 {% endfor %}
 
-<details>
-<summary style="color:#999; font-size:0.9em; cursor:pointer; margin-top:1.5rem;">― 2023年以前 ―</summary>
+<li>
+<table class="table table-sm" style="font-size: 0.9em;">
 {% for pres in site.data.presentations_old %}
-<div style="margin-bottom:0.8rem; padding-top:0.5rem; border-top:1px solid var(--global-divider-color);">
-  <span style="font-size:0.85em; color:#888;">{{ pres.date }}</span>
-  &nbsp;<span class="btn btn-sm z-depth-0" style="background-color:#eee; color:#555; cursor:default; font-size:0.75em;">{{ pres.type }}</span>
-  <div>{{ pres.presenter_html }}<br>{{ pres.title }}<br><em>{{ pres.conference }}</em>{% if pres.venue %}, {{ pres.venue }}{% endif %}</div>
-  <div class="links">
-    {% if pres.invited %}<span class="btn btn-sm z-depth-0" style="background-color:#fff3e0; color:#e65100; cursor:default;">招待</span>{% endif %}
-    {% if pres.reviewed %}<span class="btn btn-sm z-depth-0" style="background-color:#f1f8e9; color:#33691e; cursor:default;">審査あり</span>{% endif %}
-    {% if pres.url %}<a href="{{ pres.url }}" class="btn btn-sm z-depth-0" role="button">リンク</a>{% endif %}
-  </div>
-</div>
+<tr>
+  <td style="white-space: nowrap; padding-right: 1em; color: #888;">{{ pres.date }}</td>
+  <td>
+    <div>{{ pres.title }}</div>
+    <div>{{ pres.presenter_html }}</div>
+    <div style="font-size:0.9em;"><em>{{ pres.conference }}</em>{% if pres.venue %}, {{ pres.venue }}{% endif %}</div>
+    <div class="links">
+      <span class="btn btn-sm z-depth-0" style="background-color:#eee; color:#555; cursor:default; font-size:0.75em;">{{ pres.type }}</span>
+      {% if pres.invited %}<span class="btn btn-sm z-depth-0" style="background-color:#fff3e0; color:#e65100; cursor:default;">招待</span>{% endif %}
+      {% if pres.reviewed %}<span class="btn btn-sm z-depth-0" style="background-color:#f1f8e9; color:#33691e; cursor:default;">審査あり</span>{% endif %}
+      {% if pres.url %}<a href="{{ pres.url }}" class="btn btn-sm z-depth-0" role="button">リンク</a>{% endif %}
+    </div>
+  </td>
+</tr>
 {% endfor %}
-</details>
+</table>
+</li>
+
+</ul>

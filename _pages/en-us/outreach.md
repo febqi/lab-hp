@@ -8,12 +8,18 @@ nav: true
 nav_order: 7
 ---
 
-## Review / Tutorial Articles
+<ul class="tab" data-tab="tab-outreach-en">
+  <li class="active"><a href="#">Review Articles</a></li>
+  <li><a href="#">Outreach Seminars</a></li>
+  <li><a href="#">Before 2023</a></li>
+</ul>
 
+<ul id="tab-outreach-en" class="tab-content">
+
+<li class="active">
 <p style="font-size: 0.9em; margin-bottom: 1em;">
   <u>Underline</u>: FEBQI lab member &nbsp;|&nbsp; <sup>*</sup>: Corresponding author
 </p>
-
 <table class="table table-sm" style="font-size: 0.9em;">
 {% for article in site.data.tutorial_articles %}
 <tr>
@@ -33,13 +39,12 @@ nav_order: 7
 </tr>
 {% endfor %}
 </table>
+</li>
 
-## Outreach Activities & Seminars
-
+<li>
 <p style="font-size: 0.9em; margin-bottom: 1em;">
   <u>Underline</u>: FEBQI lab member
 </p>
-
 <table class="table table-sm" style="font-size: 0.9em;">
 {% for act in site.data.outreach_activities %}
 <tr>
@@ -56,9 +61,9 @@ nav_order: 7
 </tr>
 {% endfor %}
 </table>
+</li>
 
-<details>
-<summary style="color:#999; font-size:0.9em; cursor:pointer; margin-top:1.5rem;">― Before 2023 ―</summary>
+<li>
 <table class="table table-sm" style="font-size: 0.9em; margin-top:0.5rem;">
 {% for act in site.data.outreach_activities_old %}
 <tr>
@@ -75,4 +80,6 @@ nav_order: 7
 </tr>
 {% endfor %}
 </table>
-</details>
+</li>
+
+</ul>
