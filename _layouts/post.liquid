@@ -102,4 +102,21 @@ layout: default
   {% if site.giscus and page.giscus_comments %}
     {% include giscus.liquid %}
   {% endif %}
+
+  <nav style="display:flex; justify-content:space-between; margin-top:2rem; padding-top:1rem; border-top:1px solid var(--global-divider-color); font-size:0.9em;">
+    <div style="flex:1; text-align:left;">
+      {% if page.previous %}
+        <a href="{{ page.previous.url | relative_url }}" style="text-decoration:none; color:var(--global-text-color-light);">
+          <span style="font-size:1.2em;">&#9664;</span> {{ page.previous.title }}
+        </a>
+      {% endif %}
+    </div>
+    <div style="flex:1; text-align:right;">
+      {% if page.next %}
+        <a href="{{ page.next.url | relative_url }}" style="text-decoration:none; color:var(--global-text-color-light);">
+          {{ page.next.title }} <span style="font-size:1.2em;">&#9654;</span>
+        </a>
+      {% endif %}
+    </div>
+  </nav>
 </div>
