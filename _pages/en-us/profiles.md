@@ -16,7 +16,7 @@ nav_order: 3
 
 | Role | Name |
 |------|------|
-| RIKEN Hakubi Team Leader | Erika Kawakami &nbsp; erika.kawakami[at]riken.jp |
+| RIKEN Hakubi Team Leader | [Erika Kawakami]({{ '/members/erika/' | relative_url }}) &nbsp; erika.kawakami[at]riken.jp |
 | Technical Scientist | Ivan Grytsenko |
 | Postdoc | Asher Jennings |
 | Postdoc | Jun Wang |
