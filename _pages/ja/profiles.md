@@ -22,6 +22,7 @@ nav_order: 3
 | ポスドク | Jun Wang |
 | IPA学生 | Yiran Tian |
 | トレーニー | Hochan Chung |
+| トレーニー | 平原拓真 |
 | 研究パートタイマー | Oleksiy Rybalko |
 | 事務補佐員 | 中島由美 |
 | 事務パートタイマー | 石川理恵 |

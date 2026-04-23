@@ -22,6 +22,7 @@ nav_order: 3
 | Postdoc | Jun Wang |
 | IPA Student | Yiran Tian |
 | Trainee | Hochan Chung |
+| Trainee | Takuma Hirahara |
 | Research Part Timer | Oleksiy Rybalko |
 | Administrative Assistant | Yumi Nakashima |
 | Administrative Part Timer | Rie Ishikawa |
