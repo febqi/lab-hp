@@ -10,7 +10,7 @@ category: fun
 
 このウェブサイトは [Jekyll](https://jekyllrb.com/) で構築され、[GitHub Pages](https://pages.github.com/) でホスティングされています。テーマは [al-folio](https://github.com/alshedivat/al-folio) を使用し、多言語対応は [jekyll-polyglot](https://github.com/untra/polyglot) で実現しています。
 
-サイトの構築はラボのPIが指示を出し、**[Claude Code](https://claude.ai/code)**（AnthropicのAIコーディングアシスタント）が全てのコードを書くという形で作られました。レイアウトのカスタマイズやCSSの修正から、新規ページの追加、文献管理、ブログ記事の作成まで、Claude Codeが担当しています。同じようなサイトを作りたい方は、まずソースコードをgitでローカルにクローンし、あとはClaude Codeに指示を出すだけ — ファイルの編集からGitHubへのpushまで全てやってくれます。日常的なメンテナンスも同様で、例えば新しい論文を追加するときは、ジャーナルページのURLをClaude Codeに渡すだけで、BibTeXの更新からpushまで全て対応してくれます。
+サイトの構築はウェブ担当者が日本語または英語で指示を出し、[Claude Code](https://docs.anthropic.com/en/docs/claude-code/overview)（AnthropicのAIコーディングアシスタント）が全てのコードを書き、日英の翻訳も担当し、GitHubへのpushまで行いました。レイアウトのカスタマイズやCSSの修正から、新規ページの追加、文献管理、ブログ記事の作成まで、Claude Codeが担当しています。同じようなサイトを作りたい方は、まずソースコードをgitでローカルにクローンし、あとはClaude Codeに指示を出すだけ — ファイルの編集からGitHubへのpushまで全てやってくれます。日常的なメンテナンスも同様で、例えば新しい論文を追加するときは、ジャーナルページのURLをClaude Codeに渡すだけで、BibTeXの更新からpushまで全て対応してくれます。
 
 **使用技術：**
 
@@ -23,11 +23,9 @@ category: fun
 
 **主な機能：**
 
-- 日英バイリンガル対応（jekyll-polyglot使用）
-- BibTeXソースによる論文リスト（[jekyll-scholar](https://github.com/inukshuk/jekyll-scholar) 使用）
 - レスポンシブデザイン・ダーク/ライトモード対応
-- トップページにサムネイル付きブログカード表示
+- トップページにサムネイル付きブログカード表示（新記事追加で自動更新）
 
 **ソースコード：**
 
-全ソースコードは公開しています — [リポジトリ](/repositories/) ページへ。
+全ソースコードは公開しています — [リポジトリ]({{ '/repositories/' | relative_url }}) ページへ。

@@ -56,3 +56,23 @@ nav_order: 7
 </tr>
 {% endfor %}
 </table>
+
+<details>
+<summary style="color:#999; font-size:0.9em; cursor:pointer; margin-top:1.5rem;">― Before 2023 ―</summary>
+<table class="table table-sm" style="font-size: 0.9em; margin-top:0.5rem;">
+{% for act in site.data.outreach_activities_old %}
+<tr>
+  <td style="white-space: nowrap; padding-right: 1em; color: #888;">{{ act.date }}</td>
+  <td>
+    {{ act.presenter_html }}<br>
+    {{ act.title }}<br>
+    <em>{{ act.venue }}</em>
+    <div class="links">
+      <span class="btn btn-sm z-depth-0" style="background-color:#f0f0f0; color:#555; cursor:default;">{{ act.format }}</span>
+      {% if act.url %}<a href="{{ act.url }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Link</a>{% endif %}
+    </div>
+  </td>
+</tr>
+{% endfor %}
+</table>
+</details>

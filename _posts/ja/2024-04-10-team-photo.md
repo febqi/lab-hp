@@ -8,6 +8,6 @@ categories: news
 thumbnail: /assets/img/team_pic.png
 ---
 
-![FEBQIチーム写真](/assets/img/team_pic.png)
+![FEBQIチーム写真]({{ '/assets/img/team_pic.png' | relative_url }})
 
 <p style="font-size: 0.9em; color: #666;">左から: Rie, Oleksiy, Erika, Ash, Yiran, Yumi, Ivan</p>

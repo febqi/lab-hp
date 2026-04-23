@@ -56,3 +56,19 @@ nav_order: 3
 </div>
 
 {% endfor %}
+
+<details>
+<summary style="color:#999; font-size:0.9em; cursor:pointer; margin-top:1.5rem;">― 2023年以前 ―</summary>
+{% for pres in site.data.presentations_old %}
+<div style="margin-bottom:0.8rem; padding-top:0.5rem; border-top:1px solid var(--global-divider-color);">
+  <span style="font-size:0.85em; color:#888;">{{ pres.date }}</span>
+  &nbsp;<span class="btn btn-sm z-depth-0" style="background-color:#eee; color:#555; cursor:default; font-size:0.75em;">{{ pres.type }}</span>
+  <div>{{ pres.presenter_html }}<br>{{ pres.title }}<br><em>{{ pres.conference }}</em>{% if pres.venue %}, {{ pres.venue }}{% endif %}</div>
+  <div class="links">
+    {% if pres.invited %}<span class="btn btn-sm z-depth-0" style="background-color:#fff3e0; color:#e65100; cursor:default;">招待</span>{% endif %}
+    {% if pres.reviewed %}<span class="btn btn-sm z-depth-0" style="background-color:#f1f8e9; color:#33691e; cursor:default;">審査あり</span>{% endif %}
+    {% if pres.url %}<a href="{{ pres.url }}" class="btn btn-sm z-depth-0" role="button">リンク</a>{% endif %}
+  </div>
+</div>
+{% endfor %}
+</details>
