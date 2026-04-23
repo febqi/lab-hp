@@ -10,10 +10,7 @@ profile:
   align: right
   image: team_pic.png
   image_circular: false
-  more_info: >
-    <p>S51棟</p>
-    <p>〒351-0198 埼玉県和光市広沢2-1</p>
-    <p>rikenEonHe@gmail.com</p>
+  more_info:
 
 selected_papers: true
 social: true

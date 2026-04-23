@@ -10,11 +10,7 @@ profile:
   align: right
   image: team_pic.png
   image_circular: false
-  more_info: >
-    <p>Building S51</p>
-    <p>2-1 Hirosawa, Wako</p>
-    <p>Saitama 351-0198, Japan</p>
-    <p>rikenEonHe@gmail.com</p>
+  more_info:
 
 selected_papers: true
 social: true
