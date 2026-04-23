@@ -25,11 +25,11 @@ latest_posts:
 
 We are the **Floating-Electron-Based Quantum Information (FEBQI)** research team at [RIKEN Center for Quantum Computing](https://www.riken.jp/en/research/labs/rqc/).
 
-Our research focuses on electrons floating above liquid helium and solid neon as platforms for quantum information processing. These electrons exist in a pristine, defect-free environment, enabling long coherence times ideal for quantum computing.
+Our research focuses on electrons floating above liquid helium and solid neon as platforms for quantum information processing. Suspended in vacuum just above the surface, these electrons exist in a pristine, defect-free environment, enabling long coherence times ideal for quantum computing.
 
-## Research Highlights
+## Research Topics
 
-- **Electrons on liquid helium** — Scalable electron spin qubits exploiting the clean electron-on-helium system
+- **Electrons on liquid helium** — Plasmon excitations, quantum simulation, and electron spin qubits
 - **Electrons on solid neon** — Long coherence times for both charge and spin states, targeting quantum memory
 - **Cryogenic electronics** — Development of cryogenic microwave sources for scalable quantum computation
 

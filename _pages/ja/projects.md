@@ -3,7 +3,7 @@ page_id: projects
 layout: page
 title: プロジェクト
 permalink: /projects/
-description: Uma crescente coleção de seus projetos interessantes.
+description: 研究プロジェクト・活動紹介
 nav: true
 nav_order: 3
 display_categories: [research, fun]
