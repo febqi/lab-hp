@@ -10,21 +10,15 @@ tabs: true
 ---
 
 <ul class="tab" data-tab="tab-outreach-ja">
-  <li class="active"><a href="#">書籍</a></li>
-  <li><a href="#">解説記事</a></li>
-  <li><a href="#">アウトリーチセミナー</a></li>
-  <li><a href="#">〜2023年</a></li>
+  <li class="active"><a href="#">解説記事</a></li>
+  <li><a href="#">書籍</a></li>
+  <li><a href="#">アウトリーチ・セミナー</a></li>
+  <li><a href="#">アウトリーチ・セミナー(〜2023年)</a></li>
 </ul>
 
 <ul id="tab-outreach-ja" class="tab-content">
 
 <li class="active">
-<div class="publications">
-{% bibliography --file ja_books %}
-</div>
-</li>
-
-<li>
 <p style="font-size: 0.9em; margin-bottom: 1em;">
   <u>下線</u>: FEBQI研究室メンバー &nbsp;|&nbsp; <sup>*</sup>: 責任著者（Corresponding author）
 </p>
@@ -49,6 +43,12 @@ tabs: true
 </tr>
 {% endfor %}
 </table>
+</li>
+
+<li>
+<div class="publications">
+{% bibliography --file ja_books %}
+</div>
 </li>
 
 <li>
