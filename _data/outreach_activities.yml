@@ -6,6 +6,7 @@
   venue: 文部科学省「一家に１枚　量子技術」
   venue_en: "MEXT 「一家に１枚　量子技術」 web article"
   format: web article
+  lang: ja
   url: https://q-portal.riken.jp/poster-quantum/colums/colum2-4.html
 
 - year: 2024
@@ -16,6 +17,7 @@
   venue: サイエンスフロントmitaka
   venue_en: Science Front Mitaka
   format: seminar
+  lang: ja
   url: https://www.mitaka-univ.org/kouza/A2454200
 
 - year: 2024
@@ -26,6 +28,7 @@
   venue: 次世代量子科学・物性工学討論会／慶應義塾大学日吉キャンパス
   venue_en: "Next Generation Quantum Science Symposium, Keio University (Hiyoshi)"
   format: seminar
+  lang: ja
 
 - year: 2023
   date: "Dec 1 & 8, 2023"
@@ -35,6 +38,7 @@
   venue: 奈良女子大学・現代科学の最前線 ―数学・宇宙・物質・生命・情報のフロンティア―
   venue_en: "Nara Women's University, Frontiers of Contemporary Science"
   format: lecture
+  lang: ja
 
 - year: 2023
   date: "Nov 2023"
@@ -65,4 +69,5 @@
   venue: 研究者のための＋αシリーズ Vol.19 オンラインセミナー
   venue_en: "JST \"Sekai\" Online Seminar +α Series Vol. 19"
   format: seminar
+  lang: ja
   url: https://www.jst.go.jp/innov-jinzai/sekai/event/event20230616.html

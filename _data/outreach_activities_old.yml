@@ -5,6 +5,7 @@
   title: "人生が酸っぱいレモンなら、それで美味しいレモネードを作ろう"
   venue: "渋谷教育学園渋谷中学高等学校 創立記念講演会"
   format: lecture
+  lang: ja
 
 - date: "2023年2月"
   presenter_html: '<span class="author"><em>Erika Kawakami</em></span>'
@@ -18,18 +19,21 @@
   title: "量子コンピューター入門"
   venue: "奈良女子大学・現代科学の最前線-数学・宇宙・物質・生命・情報のフロンティア-"
   format: lecture
+  lang: ja
 
 - date: "2022年10月"
   presenter_html: '<span class="author"><em>川上恵里加</em></span>'
   title: "真空中に浮かんだ電子で量子ビットを作る"
   venue: "東京理科大学・物理学から見る理学の最前線"
   format: lecture
+  lang: ja
 
 - date: "2022年9月"
   presenter_html: '<span class="author"><em>川上恵里加</em></span>'
   title: "量子系をシミュレートしよう (Python-QuTiP)"
   venue: "QEd 2022 サマースクール"
   format: school
+  lang: ja
   url: "https://www.sqei.c.u-tokyo.ac.jp/qed/summerschool/"
 
 - date: "2022年3月"
@@ -37,12 +41,14 @@
   title: "浮いている電子で量子ビットを作ろう!"
   venue: "慶應義塾大学スピントロニクス研究開発センター・量子技術セミナー＆研究者キャリア座談会"
   format: seminar
+  lang: ja
 
 - date: "2022年3月"
   presenter_html: '<span class="author"><em>川上恵里加</em></span>'
   title: "液体ヘリウム上に浮いている電子を用いた研究 ー高性能な量子ビット実現へ向けてー"
   venue: "東京大学理学部物理学科・談話会"
   format: seminar
+  lang: ja
   url: "https://www.phys.s.u-tokyo.ac.jp/colloquium/32614/"
 
 - date: "2021年12月"
@@ -57,6 +63,7 @@
   title: "やっぱり量子が好き"
   venue: "第6回 やっぱり物理が好き！ ～物理に進んだ女子学生・院生のキャリア～"
   format: seminar
+  lang: ja
   url: "https://www.soken.ac.jp/event/7149/"
 
 - date: "2021年9月"
@@ -64,6 +71,7 @@
   title: '"量子技術人材におけるジェンダー平等"'
   venue: "量子技術教育プログラム：サマースクール"
   format: seminar
+  lang: ja
   url: "https://www.sqei.c.u-tokyo.ac.jp/qed/summerschool_member.pdf"
 
 - date: "2021年9月"
@@ -78,6 +86,7 @@
   title: "「浮揚電子」による量子コンピュータ基礎技術開発への挑戦"
   venue: "量子ICTフォーラム"
   format: interview
+  lang: ja
   url: "https://qforum.org/topics/young_interview07"
 
 - date: "2021年2月"
@@ -85,3 +94,4 @@
   title: "新研究室主宰者の紹介"
   venue: "RIKEN news"
   format: interview
+  lang: ja

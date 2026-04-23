@@ -50,6 +50,7 @@ tabs: true
 </p>
 <table class="table table-sm" style="font-size: 0.9em;">
 {% for act in site.data.outreach_activities %}
+  {% if act.lang == "ja" %}{% continue %}{% endif %}
 <tr>
   <td style="white-space: nowrap; padding-right: 1em; color: #888;">{{ act.date }}</td>
   <td>
@@ -64,6 +65,7 @@ tabs: true
 </tr>
 {% endfor %}
 {% for act in site.data.outreach_activities_old %}
+  {% if act.lang == "ja" %}{% continue %}{% endif %}
 <tr>
   <td style="white-space: nowrap; padding-right: 1em; color: #888;">{{ act.date }}</td>
   <td>
