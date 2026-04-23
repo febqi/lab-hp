@@ -21,4 +21,4 @@ The site was developed primarily through conversations with **[Claude Code](http
 
 **Source code:**
 
-The full source code is publicly available at [github.com/erikawa-e/lab-hp](https://github.com/erikawa-e/lab-hp).
+The full source code is publicly available — see the [Repositories](/repositories/) page.

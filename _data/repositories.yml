@@ -1,10 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - erikawa-e
 
 repo_description_lines_max: 2
 
 github_repos:
+  - erikawa-e/lab-hp
   - george-gca/multi-language-al-folio
   - alshedivat/al-folio
   - jekyll/jekyll

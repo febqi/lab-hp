@@ -21,4 +21,4 @@ category: fun
 
 **ソースコード：**
 
-全ソースコードは [github.com/erikawa-e/lab-hp](https://github.com/erikawa-e/lab-hp) で公開しています。
+全ソースコードは公開しています — [リポジトリ](/repositories/) ページへ。
