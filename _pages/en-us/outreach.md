@@ -12,7 +12,7 @@ tabs: true
 <ul class="tab" data-tab="tab-outreach-en">
   <li class="active"><a href="#">Review Articles</a></li>
   <li><a href="#">Outreach & Seminars</a></li>
-  <li><a href="#">Before 2023</a></li>
+  <li><a href="#">Outreach & Seminars (Before 2023)</a></li>
 </ul>
 
 <ul id="tab-outreach-en" class="tab-content">
