@@ -27,6 +27,12 @@ nav_order: 3
 <div class="publication-item" style="margin-bottom: 1em;">
   <div>
     <strong>{{ pres.title }}</strong>
+    {% if pres.invited %}
+      <span class="btn btn-sm z-depth-0" style="background-color:#fff3e0; color:#e65100; cursor:default; font-size:0.75em; vertical-align:middle;">招待</span>
+    {% endif %}
+    {% if pres.reviewed %}
+      <span class="btn btn-sm z-depth-0" style="background-color:#f1f8e9; color:#33691e; cursor:default; font-size:0.75em; vertical-align:middle;">審査あり</span>
+    {% endif %}
   </div>
   <div>
     {{ pres.presenter_html }}
@@ -39,12 +45,6 @@ nav_order: 3
       <span class="btn btn-sm z-depth-0" style="background-color:#e8f4f8; color:#2a7ae2; cursor:default;">口頭</span>
     {% else %}
       <span class="btn btn-sm z-depth-0" style="background-color:#f0f0f0; color:#555; cursor:default;">ポスター</span>
-    {% endif %}
-    {% if pres.invited %}
-      <span class="btn btn-sm z-depth-0" style="background-color:#fff3e0; color:#e65100; cursor:default;">招待</span>
-    {% endif %}
-    {% if pres.reviewed %}
-      <span class="btn btn-sm z-depth-0" style="background-color:#f1f8e9; color:#33691e; cursor:default;">審査あり</span>
     {% endif %}
     {% if pres.lang == "en" %}
       <span class="btn btn-sm z-depth-0" style="background-color:#e8eaf6; color:#283593; cursor:default;">英語</span>

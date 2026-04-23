@@ -16,14 +16,14 @@ nav_order: 9
 
 研究室: N508-1, N105-2, N108-1号室
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3233.0!2d139.6108!3d35.7766!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018ead7c7b8ffd1%3A0x8fd14fb11e729e!2sRIKEN%20Wako%20Campus!5e0!3m2!1sja!2sjp!4v1" width="100%" height="250" style="border:0; border-radius:8px;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://maps.google.com/maps?q=35.77664,139.61083&z=17&output=embed" width="100%" height="250" style="border:0; border-radius:8px;" allowfullscreen="" loading="lazy"></iframe>
 
 ## 来訪の際
 
 来訪時は事前にホストから受け取った**入構番号**を持参の上、**西門**で手続きをしてください。
 研究室はキャンパス南エリア（S51棟）にあり、西門から徒歩約10分です。
 
-![理研 和光キャンパスマップ](/assets/img/campus_map.png)
+![理研 和光キャンパスマップ]({{ '/assets/img/campus_map.png' | relative_url }})
 
 構内マップ: [理研 和光キャンパスマップ](https://www.riken.jp/access/wako-map/index.html)
 
