@@ -10,13 +10,20 @@ nav_order: 9
 
 ## 所在地
 
+<div style="display:flex; gap:1.5rem; align-items:flex-start; flex-wrap:wrap;">
+<div style="flex:1 1 220px;">
+
 **理化学研究所 和光キャンパス S51棟**
 〒351-0198 埼玉県和光市広沢2-1
 [(35.77664, 139.61083)](https://www.google.com/maps?q=35.77664,139.61083)
 
 研究室: N508-1, N105-2, N108-1号室
 
-<iframe src="https://maps.google.com/maps?q=35.77664,139.61083&z=17&output=embed" width="100%" height="250" style="border:0; border-radius:8px;" allowfullscreen="" loading="lazy"></iframe>
+</div>
+<div style="flex:1 1 300px;">
+<iframe src="https://maps.google.com/maps?q=35.77664,139.61083&z=14&output=embed" width="100%" height="350" style="border:0; border-radius:8px;" allowfullscreen="" loading="lazy"></iframe>
+</div>
+</div>
 
 ## 来訪の際
 
