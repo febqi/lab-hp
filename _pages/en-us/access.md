@@ -23,7 +23,7 @@ The lab is located in the south area of campus (Building S51), about 10 min walk
 
 <div style="display:flex; gap:1.5rem; align-items:flex-start; flex-wrap:wrap; margin-top:1rem;">
 <div style="flex:1 1 300px;">
-<iframe src="https://maps.google.com/maps?q=35.77664,139.61083&ll=35.782,139.610&z=14&output=embed" width="100%" height="300" style="border:0; border-radius:8px;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://maps.google.com/maps?q=35.77664,139.61083&ll=35.782,139.610&z=14&hl=en&output=embed" width="100%" height="300" style="border:0; border-radius:8px;" allowfullscreen="" loading="lazy"></iframe>
 </div>
 <div style="flex:1 1 300px;">
 <img src="{{ '/assets/img/campus_map.png' | relative_url }}" style="width:100%; height:300px; object-fit:cover; border-radius:8px;" alt="RIKEN Wako Campus Map">
