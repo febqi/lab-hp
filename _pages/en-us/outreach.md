@@ -6,6 +6,7 @@ title: outreach
 description: Review & tutorial articles, public lectures, and more
 nav: true
 nav_order: 7
+tabs: true
 ---
 
 <ul class="tab" data-tab="tab-outreach-en">

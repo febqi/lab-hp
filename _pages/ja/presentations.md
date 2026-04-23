@@ -6,6 +6,7 @@ title: 発表
 description: 口頭・ポスター発表一覧。
 nav: true
 nav_order: 3
+tabs: true
 ---
 
 <p style="font-size: 0.9em; margin-bottom: 0.5em;">

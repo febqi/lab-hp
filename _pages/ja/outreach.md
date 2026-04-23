@@ -6,6 +6,7 @@ title: アウトリーチ
 description: 解説記事・一般向け講演など
 nav: true
 nav_order: 7
+tabs: true
 ---
 
 <ul class="tab" data-tab="tab-outreach-ja">

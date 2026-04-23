@@ -6,6 +6,7 @@ title: presentations
 description: Oral and poster presentations.
 nav: true
 nav_order: 3
+tabs: true
 ---
 
 <p style="font-size: 0.9em; margin-bottom: 0.5em;">
