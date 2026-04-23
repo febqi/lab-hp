@@ -3,7 +3,7 @@ page_id: publications
 layout: page
 permalink: /publications/
 title: 発表論文
-description: 発表論文一覧（新しい順）。jekyll-scholarにより自動生成。
+description: 発表論文一覧（新しい順）。
 nav: true
 nav_order: 2
 ---
