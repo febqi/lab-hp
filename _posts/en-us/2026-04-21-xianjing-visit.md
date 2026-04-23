@@ -9,4 +9,4 @@ categories: news
 
 Xianjing is visiting us for one week starting today.
 
-{% include figure.liquid path="assets/img/xianjing_visit_2026.jpg" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid path="assets/img/xianjing_visit_2026.jpg" class="img-fluid rounded z-depth-1" caption="Clockwise from left: Hochan, Takuma, Oleksiy, Jun, Ash, Yiran, Xianjing, Erika (Ivan on camera)" %}

@@ -9,4 +9,4 @@ categories: news
 
 Xianjingが今日から1週間滞在します。
 
-{% include figure.liquid path="assets/img/xianjing_visit_2026.jpg" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid path="assets/img/xianjing_visit_2026.jpg" class="img-fluid rounded z-depth-1" caption="左から時計回りに: Hochan, Takuma, Oleksiy, Jun, Ash, Yiran, Xianjing, Erika（撮影: Ivan）" %}
