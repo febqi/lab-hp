@@ -36,6 +36,14 @@
   journal_url: "https://www.tkd-pbl.com/book/b10094523.html"
   invited: true
 
+- year: 2017
+  lang: JA
+  authors_html: "<em>Erika Kawakami</em><sup>*</sup>"
+  authors_ja_html: "<em>川上恵里加</em><sup>*</sup>"
+  title: "Si量子ドット中の単一電子スピンを用いた量子コンピューターの実現へ向けて"
+  journal: "日本物理学会誌 72, 334 (2017)"
+  invited: true
+
 - year: 2023
   lang: JA
   authors_html: "<em>Erika Kawakami</em><sup>*</sup>"
