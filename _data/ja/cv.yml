@@ -1,29 +1,29 @@
 - title: 職歴
   type: time_table
   contents:
-    - title: 理研白眉チームリーダー（主）
+    - title: 理研研究白眉チームリーダー（本務）
       institution: 理化学研究所 開拓研究本部（PRI）
       year: 2025年4月 – 現在
-    - title: 理研白眉チームリーダー（兼）
+    - title: 理研研究白眉チームリーダー（兼務）
       institution: 理化学研究所 量子コンピュータ研究センター（RQC）
       year: 2021年4月 – 現在
-    - title: 理研白眉チームリーダー（主）
+    - title: 理研研究白眉チームリーダー（本務）
       institution: 理化学研究所 開拓研究本部（CPR）
       year: 2020年9月 – 2025年3月
-    - title: 理研白眉チームリーダー（兼）
+    - title: 理研研究白眉チームリーダー（兼務）
       institution: 理化学研究所 創発物性科学研究センター（CEMS）
       year: 2020年9月 – 2021年3月
-    - title: さきがけ研究者（兼）
+    - title: さきがけ研究者（兼務）
       institution: 科学技術振興機構（JST）
       year: 2017年10月 – 2021年3月
-    - title: ポスドク研究員（主）
+    - title: ポスドク研究員（本務）
       institution: 沖縄科学技術大学院大学（OIST）
       year: 2016年10月 – 2020年8月
 
 - title: 学歴
   type: time_table
   contents:
-    - title: 博士（応用物理学）
+    - title: 博士
       institution: デルフト工科大学（オランダ）
       year: 2011年9月 – 2016年9月
     - title: 修士（工学）
@@ -32,7 +32,7 @@
     - title: エンジニア学位
       institution: エコール・サントラル・マルセイユ（フランス）
       year: 2007年9月 – 2009年9月
-    - title: 学士（応用物理・物理情報工学）
+    - title: 学士課程在学
       institution: 慶應義塾大学 理工学部
       year: 2005年4月 – 2009年9月
 
@@ -117,7 +117,7 @@
   contents:
     - "2021年5月–現在: 委員, 文部科学省 量子科学技術委員会"
     - "2026年–現在: フランス国立研究機構（ANR）研究提案 審査委員"
-    - "2025年–現在: Editor, <em>Scientific Reports</em>"
+    - "2025年–現在: 編集委員, <em>Scientific Reports</em>"
     - "2024年–現在: 副議長, 理研科学者会議 運営委員会"
     - "2024年–現在: 米国エネルギー省（DOE）研究提案 審査委員"
     - "2025年: オーストリア科学基金（FWF）研究提案 審査委員"

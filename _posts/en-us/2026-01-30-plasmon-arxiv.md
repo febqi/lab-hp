@@ -5,7 +5,7 @@ date: 2026-01-30 00:00:00+0900
 description: Our plasmon paper is now on arXiv
 tags: publication
 categories: news
-thumbnail: https://lh3.googleusercontent.com/sitesv/AA5AbUBSH2bqqCxsrQvnBFB2rwWQAjpbKtbFTj1gu3yY9VqispfpBNxrvPnkOzvGbDOtRFr5vYpn_7tDjZ--dk4he9keHtOtm7rLlS67eOUHlHqurVp0y9Eqp8g56eTbfS7uU0THsr-PgSUrdUJE4bxVelxTJycvqtFtNTWhYij6LfmCRGgaxxltKG63U4Vef6OLqCKtZDIjcwBphn7iNtumk6QQ1d0GvBUIVZldgrc=w1280
+thumbnail: /assets/img/plasmon.png
 ---
 
 Our plasmon paper is now on arXiv! New results on collective excitations (plasmon modes) of electrons floating on liquid helium.
@@ -14,4 +14,4 @@ Our plasmon paper is now on arXiv! New results on collective excitations (plasmo
 Asher Jennings\*, Ivan Grytsenko, Thomas Giovansili, Itay Josef Barabash, Oleksiy Rybalko, Yiran Tian, Jun Wang, Hiroki Ikegami, and Erika Kawakami\*
 [arXiv:2601.22552](https://arxiv.org/abs/2601.22552) (2026)
 
-![plasmon paper figure](https://lh3.googleusercontent.com/sitesv/AA5AbUBSH2bqqCxsrQvnBFB2rwWQAjpbKtbFTj1gu3yY9VqispfpBNxrvPnkOzvGbDOtRFr5vYpn_7tDjZ--dk4he9keHtOtm7rLlS67eOUHlHqurVp0y9Eqp8g56eTbfS7uU0THsr-PgSUrdUJE4bxVelxTJycvqtFtNTWhYij6LfmCRGgaxxltKG63U4Vef6OLqCKtZDIjcwBphn7iNtumk6QQ1d0GvBUIVZldgrc=w1280)
+![plasmon paper figure](/assets/img/plasmon.png)
