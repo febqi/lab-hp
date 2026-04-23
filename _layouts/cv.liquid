@@ -52,6 +52,9 @@ layout: default
           </div>
         {% endfor %}
       </div>
+      {% if content != '' %}
+        <div class="cv">{{ content }}</div>
+      {% endif %}
     </article>
   </div>
 {% else %}
