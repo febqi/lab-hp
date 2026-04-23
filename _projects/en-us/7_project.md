@@ -10,7 +10,7 @@ category: fun
 
 This lab website is built with [Jekyll](https://jekyllrb.com/) and hosted on [GitHub Pages](https://pages.github.com/), using the [al-folio](https://github.com/alshedivat/al-folio) theme with multilingual support via [jekyll-polyglot](https://github.com/untra/polyglot).
 
-The site was built through conversations with **[Claude Code](https://claude.ai/code)** (Anthropic's AI coding assistant) — the lab PI gave instructions and Claude Code wrote all the code. Claude Code handled everything from layout customization and CSS fixes to adding new pages, bibliography management, and blog posts. If you'd like to build something similar, the source code is a good starting point and Claude Code can do the rest. Day-to-day maintenance is also easy — for example, adding a new publication just requires sharing the journal page URL with Claude Code, and it handles the rest.
+The site was built through conversations with **[Claude Code](https://claude.ai/code)** (Anthropic's AI coding assistant) — the lab PI gave instructions and Claude Code wrote all the code. Claude Code handled everything from layout customization and CSS fixes to adding new pages, bibliography management, and blog posts. If you'd like to build something similar: clone the source code locally with git, then let Claude Code do the rest — editing files and pushing changes to GitHub. Day-to-day maintenance works the same way: for example, adding a new publication just requires sharing the journal page URL with Claude Code, and it handles everything from updating the BibTeX to pushing the changes.
 
 **Tech stack:**
 

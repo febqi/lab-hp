@@ -10,7 +10,7 @@ category: fun
 
 このウェブサイトは [Jekyll](https://jekyllrb.com/) で構築され、[GitHub Pages](https://pages.github.com/) でホスティングされています。テーマは [al-folio](https://github.com/alshedivat/al-folio) を使用し、多言語対応は [jekyll-polyglot](https://github.com/untra/polyglot) で実現しています。
 
-サイトの構築はラボのPIが指示を出し、**[Claude Code](https://claude.ai/code)**（AnthropicのAIコーディングアシスタント）が全てのコードを書くという形で作られました。レイアウトのカスタマイズやCSSの修正から、新規ページの追加、文献管理、ブログ記事の作成まで、Claude Codeが担当しています。同じようなサイトを作りたい方は、ソースコードを出発点にして、あとはClaude Codeに指示を出せば再現できます。日常的なメンテナンスも簡単で、例えば新しい論文を追加するときは、論文のジャーナルページのURLをClaude Codeに渡すだけで追加してくれます。
+サイトの構築はラボのPIが指示を出し、**[Claude Code](https://claude.ai/code)**（AnthropicのAIコーディングアシスタント）が全てのコードを書くという形で作られました。レイアウトのカスタマイズやCSSの修正から、新規ページの追加、文献管理、ブログ記事の作成まで、Claude Codeが担当しています。同じようなサイトを作りたい方は、まずソースコードをgitでローカルにクローンし、あとはClaude Codeに指示を出すだけ — ファイルの編集からGitHubへのpushまで全てやってくれます。日常的なメンテナンスも同様で、例えば新しい論文を追加するときは、ジャーナルページのURLをClaude Codeに渡すだけで、BibTeXの更新からpushまで全て対応してくれます。
 
 **使用技術：**
 
