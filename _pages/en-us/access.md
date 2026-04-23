@@ -34,8 +34,6 @@ The lab is located in the south area of campus (Building S51), about 10 min walk
 
 For the full campus map: [RIKEN Wako Campus Map](https://www.riken.jp/en/access/wako-map/index.html)
 
-## Access from Tokyo
-
 **By train:**
 - From Ikebukuro (Tobu Tojo Line) → Wakoshi Station: ~20 min
 - From Shibuya or Shinjuku → Wakoshi Station via Fukutoshin Line (direct): ~35–40 min
