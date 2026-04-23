@@ -12,7 +12,6 @@ tabs: true
 <ul class="tab" data-tab="tab-outreach-en">
   <li class="active"><a href="#">Review Articles</a></li>
   <li><a href="#">Outreach & Seminars</a></li>
-  <li><a href="#">Outreach & Seminars (Before 2023)</a></li>
 </ul>
 
 <ul id="tab-outreach-en" class="tab-content">
@@ -64,11 +63,6 @@ tabs: true
   </td>
 </tr>
 {% endfor %}
-</table>
-</li>
-
-<li>
-<table class="table table-sm" style="font-size: 0.9em; margin-top:0.5rem;">
 {% for act in site.data.outreach_activities_old %}
 <tr>
   <td style="white-space: nowrap; padding-right: 1em; color: #888;">{{ act.date }}</td>
