@@ -18,3 +18,11 @@ nav_order: 2
 {% bibliography %}
 
 </div>
+
+## 書籍
+
+<div class="publications">
+
+{% bibliography --file ja_books %}
+
+</div>
