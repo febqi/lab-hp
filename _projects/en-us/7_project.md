@@ -12,6 +12,15 @@ This lab website is built with [Jekyll](https://jekyllrb.com/) and hosted on [Gi
 
 The site was developed primarily through conversations with **[Claude Code](https://claude.ai/code)** (Anthropic's AI coding assistant), which handled everything from layout customization and CSS fixes to adding new pages, bibliography management, and blog posts.
 
+**Tech stack:**
+
+- [Jekyll](https://jekyllrb.com/) static site generator
+- [al-folio](https://github.com/alshedivat/al-folio) theme with [multi-language](https://github.com/george-gca/multi-language-al-folio) fork
+- [jekyll-polyglot](https://github.com/untra/polyglot) for English/Japanese bilingual support
+- [jekyll-scholar](https://github.com/inukshuk/jekyll-scholar) for BibTeX-based publication lists
+- [GitHub Pages](https://pages.github.com/) for hosting
+- Photos from [Unsplash](https://unsplash.com/)
+
 **Key features:**
 
 - Bilingual (English / Japanese) via jekyll-polyglot
