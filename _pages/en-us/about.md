@@ -36,5 +36,3 @@ Our research focuses on electrons floating above liquid helium and solid neon as
 ## Openings
 
 We are recruiting **postdocs** and **interns** (3+ months). Please contact [Erika Kawakami](mailto:erika.kawakami@riken.jp) for details.
-
-<div style="margin-bottom: 2rem;"></div>

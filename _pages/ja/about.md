@@ -36,5 +36,3 @@ latest_posts:
 ## 募集
 
 **ポスドク・インターン（3ヶ月以上）** を募集中です。[川上恵里加](mailto:erika.kawakami@riken.jp)までご連絡ください。
-
-<div style="margin-bottom: 2rem;"></div>
