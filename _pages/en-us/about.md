@@ -3,7 +3,7 @@ page_id: about
 layout: about
 title: about
 permalink: /
-subtitle:
+subtitle: '<a href="https://sites.google.com/view/febqi/" target="_blank" style="font-size:0.85em; color:#888;">Previous website</a>'
 
 profile:
   align: right
@@ -36,5 +36,3 @@ Our research focuses on electrons floating above liquid helium and solid neon as
 ## Openings
 
 We are recruiting **postdocs** and **interns** (3+ months). Please contact [Erika Kawakami](mailto:erika.kawakami@riken.jp) for details.
-
-<p style="font-size:0.85em; color:#888; margin-top:2rem;">Previous website: <a href="https://sites.google.com/view/febqi/" target="_blank">https://sites.google.com/view/febqi/</a></p>
