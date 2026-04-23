@@ -8,6 +8,14 @@ nav: true
 nav_order: 7
 ---
 
+## 書籍
+
+<div class="publications">
+
+{% bibliography --file ja_books %}
+
+</div>
+
 ## 解説記事
 
 <p style="font-size: 0.9em; margin-bottom: 1em;">
