@@ -10,29 +10,26 @@ nav_order: 9
 
 ## 所在地
 
-<div style="display:flex; gap:1.5rem; align-items:flex-start; flex-wrap:wrap;">
-<div style="flex:1 1 220px;">
-
 **理化学研究所 和光キャンパス 物質科学研究棟(S51)**
 〒351-0198 埼玉県和光市広沢2-1
 [(35.77664, 139.61083)](https://www.google.com/maps?q=35.77664,139.61083)
 
 研究室: N508-1, N105-2, N108-1号室
 
-</div>
-<div style="flex:1 1 300px;">
-<iframe src="https://maps.google.com/maps?q=35.77664,139.61083&z=14&output=embed" width="100%" height="350" style="border:0; border-radius:8px;" allowfullscreen="" loading="lazy"></iframe>
-</div>
-</div>
-
 ## 来訪の際
 
 来訪時は事前にホストから受け取った**入構番号**を持参の上、**西門**で手続きをしてください。
 研究室はキャンパス南エリア（S51棟）にあり、西門から徒歩約10分です。
 
-![理研 和光キャンパスマップ]({{ '/assets/img/campus_map.png' | relative_url }})
-
-構内マップ: [理研 和光キャンパスマップ](https://www.riken.jp/access/wako-map/index.html)
+<div style="display:flex; gap:1.5rem; align-items:flex-start; flex-wrap:wrap; margin-top:1rem;">
+<div style="flex:1 1 300px;">
+<iframe src="https://maps.google.com/maps?q=35.77664,139.61083&z=14&output=embed" width="100%" height="300" style="border:0; border-radius:8px;" allowfullscreen="" loading="lazy"></iframe>
+</div>
+<div style="flex:1 1 300px;">
+<img src="{{ '/assets/img/campus_map.png' | relative_url }}" style="width:100%; height:300px; object-fit:cover; border-radius:8px;" alt="理研 和光キャンパスマップ">
+<p style="font-size:0.85em; margin-top:0.4rem;"><a href="https://www.riken.jp/access/wako-map/index.html" target="_blank">構内マップ（全体）</a></p>
+</div>
+</div>
 
 **電車でお越しの場合：**
 - 池袋（東武東上線）→ 和光市駅：約20分

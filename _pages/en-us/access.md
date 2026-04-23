@@ -10,29 +10,26 @@ nav_order: 9
 
 ## Location
 
-<div style="display:flex; gap:1.5rem; align-items:flex-start; flex-wrap:wrap;">
-<div style="flex:1 1 220px;">
-
 **RIKEN Wako Campus, Chemistry and Materials Physics Building (S51)**
 2-1, Hirosawa, Wako, Saitama 351-0198, Japan
 [(35.77664, 139.61083)](https://www.google.com/maps?q=35.77664,139.61083)
 
 Lab offices: Rooms N508-1, N105-2, N108-1
 
-</div>
-<div style="flex:1 1 300px;">
-<iframe src="https://maps.google.com/maps?q=35.77664,139.61083&z=14&output=embed" width="100%" height="350" style="border:0; border-radius:8px;" allowfullscreen="" loading="lazy"></iframe>
-</div>
-</div>
-
 ## Visiting
 
 Please report to the **West Gate** with your entry number (provided in advance by your host).
 The lab is located in the south area of campus (Building S51), about 10 min walk from the West Gate.
 
-![RIKEN Wako Campus Map]({{ '/assets/img/campus_map.png' | relative_url }})
-
-For the full campus map: [RIKEN Wako Campus Map](https://www.riken.jp/en/access/wako-map/index.html)
+<div style="display:flex; gap:1.5rem; align-items:flex-start; flex-wrap:wrap; margin-top:1rem;">
+<div style="flex:1 1 300px;">
+<iframe src="https://maps.google.com/maps?q=35.77664,139.61083&z=14&output=embed" width="100%" height="300" style="border:0; border-radius:8px;" allowfullscreen="" loading="lazy"></iframe>
+</div>
+<div style="flex:1 1 300px;">
+<img src="{{ '/assets/img/campus_map.png' | relative_url }}" style="width:100%; height:300px; object-fit:cover; border-radius:8px;" alt="RIKEN Wako Campus Map">
+<p style="font-size:0.85em; margin-top:0.4rem;"><a href="https://www.riken.jp/en/access/wako-map/index.html" target="_blank">Full campus map</a></p>
+</div>
+</div>
 
 **By train:**
 - From Ikebukuro (Tobu Tojo Line) → Wakoshi Station: ~20 min
