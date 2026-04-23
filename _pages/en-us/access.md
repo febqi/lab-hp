@@ -13,7 +13,7 @@ nav_order: 9
 <div style="display:flex; gap:1.5rem; align-items:flex-start; flex-wrap:wrap;">
 <div style="flex:1 1 220px;">
 
-**RIKEN Wako Campus, Building S51**
+**RIKEN Wako Campus, Chemistry and Materials Physics Building (S51)**
 2-1, Hirosawa, Wako, Saitama 351-0198, Japan
 [(35.77664, 139.61083)](https://www.google.com/maps?q=35.77664,139.61083)
 
@@ -36,7 +36,7 @@ For the full campus map: [RIKEN Wako Campus Map](https://www.riken.jp/en/access/
 
 **By train:**
 - From Ikebukuro (Tobu Tojo Line) → Wakoshi Station: ~20 min
-- From Shibuya or Shinjuku → Wakoshi Station via Fukutoshin Line (direct): ~35–40 min
+- From Shibuya or Shinjuku → Wakoshi Station via Fukutoshin Line: ~35–40 min
 - From Wakoshi Station: ~15 min walk to RIKEN West Gate, ~25 min to the lab
 
 **By highway bus (from airports):**
