@@ -7,4 +7,4 @@ tags: funding collaboration
 categories: news
 ---
 
-Our project "Realization of Spin Qubits Using Floating Electrons on Solid Neon" has been selected for the JST ASPIRE program, launching an international collaboration with researchers in Germany and the USA!
+Our international collaborative project "Realization of Spin Qubits Using Floating Electrons on Solid Neon" has been selected for the JST ASPIRE program and officially started in December 2025, in collaboration with Mónica Benito (University of Augsburg, Germany), Dafei Jin (University of Notre Dame, USA), and Xianjing Zhou (Florida State University, USA).
