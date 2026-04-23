@@ -2,7 +2,7 @@
 page_id: project_3
 layout: page
 title: Cryogenic Electronics
-description: Cryogenic microwave sources for scaling up qubit numbers
+description: Cryogenic microwave sources for scalable quantum computation
 img: assets/img/7.jpg
 importance: 3
 category: research

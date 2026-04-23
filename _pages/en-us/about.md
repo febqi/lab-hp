@@ -32,7 +32,7 @@ Our research focuses on electrons floating above liquid helium and solid neon as
 
 - **Electrons on liquid helium** — Scalable electron spin qubits exploiting the clean electron-on-helium system
 - **Electrons on solid neon** — Long coherence times for both charge and spin states, targeting quantum memory
-- **Cryogenic electronics** — Development of cryogenic microwave sources for scaling up qubit numbers
+- **Cryogenic electronics** — Development of cryogenic microwave sources for scalable quantum computation
 
 ## Openings
 
