@@ -7,7 +7,6 @@ subtitle: '<a href="https://sites.google.com/view/febqi/" target="_blank" style=
 
 profile:
   align: right
-  image: team_pic.png
   image_circular: false
   more_info:
 
