@@ -4,8 +4,8 @@
   lang: ja
   title: "真空中に浮かぶ電子を用いた量子制御の基礎研究"
   conference: "日本物理学会春季大会"
-  presenter_html: '<span class="author"><em>川上恵里加</em><sup>*</sup></span>'
-  presenter_en_html: '<span class="author"><em>Erika Kawakami</em><sup>*</sup></span>'
+  presenter_html: '<span class="author"><u>川上恵里加</u><sup>*</sup></span>'
+  presenter_en_html: '<span class="author"><u>Erika Kawakami</u><sup>*</sup></span>'
   invited: true
   venue: "Online"
 
@@ -15,7 +15,7 @@
   lang: en
   title: "Coupling Electrons on Solid Neon to a Superconducting Resonator"
   conference: "March meeting 2026"
-  presenter_html: '<span class="author"><em>Jun Wang</em><sup>*</sup>, <em>Yiran Tian</em>, <em>Asher Jennings</em>, <em>Ivan Grytsenko</em>, <em>Oleksiy Rybalko</em>, Xianjing Zhou, Dafei Jin, Hirotaka Terai, and <em>Erika Kawakami</em><sup>*</sup></span>'
+  presenter_html: '<span class="author"><u>Jun Wang</u><sup>*</sup>, <u>Yiran Tian</u>, <u>Asher Jennings</u>, <u>Ivan Grytsenko</u>, <u>Oleksiy Rybalko</u>, Xianjing Zhou, Dafei Jin, Hirotaka Terai, and <u>Erika Kawakami</u><sup>*</sup></span>'
   reviewed: true
   venue: "Denver"
 
@@ -25,7 +25,7 @@
   lang: en
   title: "Coupling Floating Electrons on Liquid Helium to an LC Circuit"
   conference: "March meeting 2026"
-  presenter_html: '<span class="author"><em>Asher Jennings</em><sup>*</sup>, <em>Ivan Grytsenko</em>, <em>Jun Wang</em>, <em>Yiran Tian</em>, <em>Oleksiy Rybalko</em>, <em>Erika Kawakami</em><sup>*</sup></span>'
+  presenter_html: '<span class="author"><u>Asher Jennings</u><sup>*</sup>, <u>Ivan Grytsenko</u>, <u>Jun Wang</u>, <u>Yiran Tian</u>, <u>Oleksiy Rybalko</u>, <u>Erika Kawakami</u><sup>*</sup></span>'
   reviewed: true
   venue: "Denver"
 
@@ -35,8 +35,8 @@
   lang: ja
   title: "浮揚電子：真空中に拓く新しい量子ビットの可能性"
   conference: "応用物理学会春季学術講演会"
-  presenter_html: '<span class="author"><em>川上恵里加</em><sup>*</sup></span>'
-  presenter_en_html: '<span class="author"><em>Erika Kawakami</em><sup>*</sup></span>'
+  presenter_html: '<span class="author"><u>川上恵里加</u><sup>*</sup></span>'
+  presenter_en_html: '<span class="author"><u>Erika Kawakami</u><sup>*</sup></span>'
   invited: true
   venue: "東京科学大学"
   venue_en: "Science Tokyo"
@@ -47,8 +47,8 @@
   lang: ja
   title: "液体ヘリウム・固体ネオン上の浮揚電子を用いた量子ビット"
   conference: "応用物理学会・量子エレクトロニクス研究会「量子コンピュータ研究の最前線 ～ハードウェアから応用・連携技術まで～」"
-  presenter_html: '<span class="author"><em>川上恵里加</em><sup>*</sup></span>'
-  presenter_en_html: '<span class="author"><em>Erika Kawakami</em><sup>*</sup></span>'
+  presenter_html: '<span class="author"><u>川上恵里加</u><sup>*</sup></span>'
+  presenter_en_html: '<span class="author"><u>Erika Kawakami</u><sup>*</sup></span>'
   invited: true
   url: "https://annex.jsap.or.jp/qe/qcomputing2025.html"
   venue: "東京大学山中寮"
@@ -60,7 +60,7 @@
   lang: en
   title: "Long-Coherence-Time Charge Qubits with Electrons on Solid Neon"
   conference: "QIE2025"
-  presenter_html: '<span class="author"><em>Erika Kawakami</em><sup>*</sup></span>'
+  presenter_html: '<span class="author"><u>Erika Kawakami</u><sup>*</sup></span>'
   invited: true
   url: "https://annex.jsap.or.jp/qie/QIE2025/"
   venue: "OIST, Japan"
@@ -71,8 +71,8 @@
   lang: ja
   title: "浮揚電子による量子ビット"
   conference: "量子力学100周年研究会：量子基礎・量子情報のこれまでとこれから"
-  presenter_html: '<span class="author"><em>川上恵里加</em><sup>*</sup></span>'
-  presenter_en_html: '<span class="author"><em>Erika Kawakami</em><sup>*</sup></span>'
+  presenter_html: '<span class="author"><u>川上恵里加</u><sup>*</sup></span>'
+  presenter_en_html: '<span class="author"><u>Erika Kawakami</u><sup>*</sup></span>'
   invited: true
   url: "https://indico.yukawa.kyoto-u.ac.jp/event/64/"
   venue: "京都大学基礎物理学研究所"
@@ -84,7 +84,7 @@
   lang: en
   title: "Exploring Quantum States of Electron Ensembles on Liquid Helium"
   conference: "ULT2025"
-  presenter_html: '<span class="author"><em>Asher Jennings</em><sup>*</sup></span>'
+  presenter_html: '<span class="author"><u>Asher Jennings</u><sup>*</sup></span>'
   invited: true
   url: "https://www.lancaster.ac.uk/physics/research/ult-2025/"
   venue: "Lancaster, UK"
@@ -95,7 +95,7 @@
   lang: en
   title: "Floating Electrons Coupled to Resonators"
   conference: "LT30"
-  presenter_html: '<span class="author"><em>Erika Kawakami</em><sup>*</sup></span>'
+  presenter_html: '<span class="author"><u>Erika Kawakami</u><sup>*</sup></span>'
   invited: true
   venue: "Bilbao, Spain"
 
@@ -105,7 +105,7 @@
   lang: en
   title: "Coupling Electrons on Solid Neon to a Superconducting Resonator"
   conference: "LT30"
-  presenter_html: '<span class="author"><em>Jun Wang</em><sup>*</sup>, <em>Yiran Tian</em>, <em>Asher Jennings</em>, <em>Ivan Grytsenko</em>, <em>Oleksiy Rybalko</em>, Xianjing Zhou, Dafei Jin, Hirotaka Terai, and <em>Erika Kawakami</em><sup>*</sup></span>'
+  presenter_html: '<span class="author"><u>Jun Wang</u><sup>*</sup>, <u>Yiran Tian</u>, <u>Asher Jennings</u>, <u>Ivan Grytsenko</u>, <u>Oleksiy Rybalko</u>, Xianjing Zhou, Dafei Jin, Hirotaka Terai, and <u>Erika Kawakami</u><sup>*</sup></span>'
   reviewed: true
   venue: "Bilbao, Spain"
 
@@ -115,7 +115,7 @@
   lang: en
   title: "RF Reflectometry for Electrons on Helium"
   conference: "LT30"
-  presenter_html: '<span class="author"><em>Asher Jennings</em><sup>*</sup>, <em>Ivan Grytsenko</em>, <em>Jun Wang</em>, <em>Yiran Tian</em>, <em>Oleksiy Rybalko</em>, <em>Erika Kawakami</em><sup>*</sup></span>'
+  presenter_html: '<span class="author"><u>Asher Jennings</u><sup>*</sup>, <u>Ivan Grytsenko</u>, <u>Jun Wang</u>, <u>Yiran Tian</u>, <u>Oleksiy Rybalko</u>, <u>Erika Kawakami</u><sup>*</sup></span>'
   reviewed: true
   venue: "Bilbao, Spain"
 
@@ -125,7 +125,7 @@
   lang: en
   title: "Realizing Qubits with Electrons Floating on Cryogenic Substrates"
   conference: "Joint International Workshop on Quantum Computing"
-  presenter_html: '<span class="author"><em>Erika Kawakami</em><sup>*</sup></span>'
+  presenter_html: '<span class="author"><u>Erika Kawakami</u><sup>*</sup></span>'
   invited: true
   url: "https://sites.google.com/phys.ncku.edu.tw/joint-international-workshop/introduction"
   venue: "National Cheng Kung University, Taiwan"
