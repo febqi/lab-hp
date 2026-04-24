@@ -12,7 +12,7 @@ profile:
   more_info:
 
 selected_papers: true
-social: true
+social: false
 
 announcements:
   enabled: false
