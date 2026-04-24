@@ -6,6 +6,10 @@ title: 川上恵里加
 nav: false
 ---
 
+<div style="display:flex; gap:2rem; align-items:flex-start; flex-wrap:wrap; margin-bottom:1rem;">
+  <img src="{{ '/assets/img/Erika_sax.png' | relative_url }}" alt="川上恵里加" style="width:180px; border-radius:8px; flex-shrink:0;">
+  <div>
+
 <p><strong>理研白眉研究チームリーダー</strong><br>
 理化学研究所 量子コンピュータ研究センター<br>
 <a href="mailto:erika.kawakami@riken.jp">erika.kawakami@riken.jp</a></p>
@@ -23,5 +27,8 @@ nav: false
     <a href="https://www.linkedin.com/in/erika-kawakami-71721b78/" target="_blank" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
   </span>
 </p>
+
+  </div>
+</div>
 
 <p>Erika Kawakami received her Ph.D. from Delft University of Technology in the Netherlands and was a postdoctoral researcher at the Okinawa Institute of Science and Technology (OIST) in Japan before starting her research group at RIKEN. Her research focuses on quantum information processing using electrons on helium and solid neon.</p>
