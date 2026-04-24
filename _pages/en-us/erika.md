@@ -14,9 +14,8 @@ RIKEN Center for Quantum Computing<br>
   <a href="{{ '/cv/' | relative_url }}"><i class="ai ai-cv"></i> Curriculum Vitae</a><br>
   <a href="https://researchmap.jp/erika_kawakami?lang=en" target="_blank"><span style="font-size:0.9em;">rm</span> researchmap</a><br>
   <a href="https://drive.google.com/drive/u/1/folders/19bQVEo9E_z0LGQK1olgqhwdJ72zb79pF" target="_blank"><i class="fas fa-graduation-cap"></i> PhD thesis</a><br>
+  <a href="https://scholar.google.com/citations?user=TAB1HEcAAAAJ&hl=en" target="_blank"><i class="ai ai-google-scholar"></i> Google Scholar</a><br>
   <span style="font-size: 1.2em;">
-    <a href="https://scholar.google.com/citations?user=qc6CJjYAAAAJ" target="_blank" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
-    &nbsp;
     <a href="https://orcid.org/0000-0002-0393-3880" target="_blank" title="ORCID"><i class="ai ai-orcid"></i></a>
     &nbsp;
     <a href="https://www.webofscience.com/wos/author/record/AAA-9271-2021" target="_blank" title="Web of Science / Publons"><i class="ai ai-publons"></i></a>
