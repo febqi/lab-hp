@@ -5,7 +5,10 @@ date: 2023-02-01 00:00:00+0900
 description: 在日フランス大使館「Portraits de femmes en sciences」掲載インタビュー（2023年2月）
 tags: interview outreach
 categories: news
+thumbnail: assets/img/cover_cat.png
 ---
+
+{% include figure.liquid path="assets/img/cover_cat.png" class="img-fluid rounded z-depth-1" style="max-width:300px; float:right; margin-left:1.5rem; margin-bottom:1rem;" %}
 
 *在日フランス大使館「Portraits de femmes en sciences」掲載（2023年2月）*
 
