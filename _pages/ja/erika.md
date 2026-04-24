@@ -19,7 +19,7 @@ nav: false
       &nbsp;
       <a href="https://www.webofscience.com/wos/author/record/AAA-9271-2021" target="_blank" title="Web of Science / Publons"><i class="ai ai-publons"></i></a>
       &nbsp;
-      <a href="https://researchmap.jp/erika_kawakami" target="_blank" title="researchmap" style="font-size:0.75em; font-weight:bold; background:#00a0e9; color:#fff; padding:2px 5px; border-radius:3px; vertical-align:middle; text-decoration:none;">rm</a>
+      <a href="https://researchmap.jp/erika_kawakami" target="_blank" title="researchmap" style="font-size:0.85em; font-weight:bold; vertical-align:middle; text-decoration:none;">rm</a>
       &nbsp;
       <a href="https://www.linkedin.com/in/erika-kawakami-71721b78/" target="_blank" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
       &nbsp;
