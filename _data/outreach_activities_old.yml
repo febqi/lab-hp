@@ -35,6 +35,8 @@
   format: school
   lang: ja
   url: "https://www.sqei.c.u-tokyo.ac.jp/qed/summerschool/"
+  url2: "https://erikawa-e.github.io/lab-hp/repositories/"
+  url2_label: "Code"
 
 - date: "2022年3月"
   presenter_html: '<span class="author"><em>川上恵里加</em></span>'
