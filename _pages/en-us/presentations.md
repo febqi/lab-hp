@@ -12,6 +12,9 @@ tabs: true
 <p style="font-size: 0.9em; margin-bottom: 0.5em;">
   Future dates represent scheduled events.
 </p>
+<p style="font-size: 0.9em; margin-bottom: 0.5em;">
+  Japanese-language presentations are listed on the Japanese page only.
+</p>
 <p style="font-size: 0.9em; margin-bottom: 1em;">
   <u>Underline</u>: FEBQI lab member &nbsp;|&nbsp; <sup>*</sup>: Corresponding author/presenter
 </p>
