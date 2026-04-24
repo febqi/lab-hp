@@ -36,11 +36,11 @@ tabs: true
   <td>
     <div>
       <strong>{{ pres.title }}</strong>
-      {% if pres.type == "Oral" %}<span class="btn btn-sm z-depth-0" style="background-color:#e8f4f8; color:#2a7ae2; cursor:default; font-size:0.75em; vertical-align:middle; padding:0.1em 0.35em; line-height:1.2;">口頭</span>
-      {% else %}<span class="btn btn-sm z-depth-0" style="background-color:#f0f0f0; color:#555; cursor:default; font-size:0.75em; vertical-align:middle; padding:0.1em 0.35em; line-height:1.2;">ポスター</span>{% endif %}
-      {% if pres.invited %}<span class="btn btn-sm z-depth-0" style="background-color:#fff3e0; color:#e65100; cursor:default; font-size:0.75em; vertical-align:middle; padding:0.1em 0.35em; line-height:1.2;">招待</span>{% endif %}
-      {% if pres.reviewed %}<span class="btn btn-sm z-depth-0" style="background-color:#f1f8e9; color:#33691e; cursor:default; font-size:0.75em; vertical-align:middle; padding:0.1em 0.35em; line-height:1.2;">審査あり</span>{% endif %}
-      {% if pres.lang == "en" %}<span class="btn btn-sm z-depth-0" style="background-color:#e8eaf6; color:#283593; cursor:default; font-size:0.75em; vertical-align:middle; padding:0.1em 0.35em; line-height:1.2;">英語</span>{% endif %}
+      {% if pres.type == "Oral" %}<span class="badge" style="background:#aaa; color:#fff; font-size:0.8em;">口頭</span>
+      {% else %}<span class="badge" style="background:#aaa; color:#fff; font-size:0.8em;">ポスター</span>{% endif %}
+      {% if pres.invited %}&nbsp;<span class="badge" style="background:#888; color:#fff; font-size:0.8em;">招待</span>{% endif %}
+      {% if pres.reviewed %}&nbsp;<span class="badge" style="background:#555; color:#fff; font-size:0.8em;">審査あり</span>{% endif %}
+      {% if pres.lang == "en" %}&nbsp;<span class="badge" style="background:#888; color:#fff; font-size:0.8em;">英語</span>{% endif %}
     </div>
     <div>{{ pres.presenter_html }}</div>
     <div style="font-size:0.9em;"><em>{{ pres.conference }}</em>{% if pres.venue %}, {{ pres.venue }}{% endif %}</div>

@@ -37,11 +37,11 @@ tabs: true
   <td>
     <div>
       <strong>{{ pres.title }}</strong>
-      {% if pres.type == "Oral" %}<span class="btn btn-sm z-depth-0" style="background-color:#e8f4f8; color:#2a7ae2; cursor:default; font-size:0.75em; vertical-align:middle; padding:0.1em 0.35em; line-height:1.2;">Oral</span>
-      {% else %}<span class="btn btn-sm z-depth-0" style="background-color:#f0f0f0; color:#555; cursor:default; font-size:0.75em; vertical-align:middle; padding:0.1em 0.35em; line-height:1.2;">Poster</span>{% endif %}
-      {% if pres.invited %}<span class="btn btn-sm z-depth-0" style="background-color:#fff3e0; color:#e65100; cursor:default; font-size:0.75em; vertical-align:middle; padding:0.1em 0.35em; line-height:1.2;">Invited</span>{% endif %}
-      {% if pres.reviewed %}<span class="btn btn-sm z-depth-0" style="background-color:#f1f8e9; color:#33691e; cursor:default; font-size:0.75em; vertical-align:middle; padding:0.1em 0.35em; line-height:1.2;">Reviewed</span>{% endif %}
-      {% if pres.lang == "ja" %}<span class="btn btn-sm z-depth-0" style="background-color:#fce4ec; color:#880e4f; cursor:default; font-size:0.75em; vertical-align:middle; padding:0.1em 0.35em; line-height:1.2;">Japanese</span>{% endif %}
+      {% if pres.type == "Oral" %}<span class="badge" style="background:#aaa; color:#fff; font-size:0.8em;">Oral</span>
+      {% else %}<span class="badge" style="background:#aaa; color:#fff; font-size:0.8em;">Poster</span>{% endif %}
+      {% if pres.invited %}&nbsp;<span class="badge" style="background:#888; color:#fff; font-size:0.8em;">Invited</span>{% endif %}
+      {% if pres.reviewed %}&nbsp;<span class="badge" style="background:#555; color:#fff; font-size:0.8em;">Reviewed</span>{% endif %}
+      {% if pres.lang == "ja" %}&nbsp;<span class="badge" style="background:#888; color:#fff; font-size:0.8em;">Japanese</span>{% endif %}
     </div>
     <div>{% if pres.presenter_en_html %}{{ pres.presenter_en_html }}{% else %}{{ pres.presenter_html }}{% endif %}</div>
     <div style="font-size:0.9em;"><em>{{ pres.conference }}</em>{% if pres.venue_en %}, {{ pres.venue_en }}{% elsif pres.venue %}, {{ pres.venue }}{% endif %}</div>
