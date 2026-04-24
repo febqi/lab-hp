@@ -16,7 +16,7 @@ nav: false
 
 <p style="margin-top: 0.5rem; line-height: 2.0;">
   <a href="{{ '/cv/' | relative_url }}"><i class="ai ai-cv"></i> Curriculum Vitae</a><br>
-  <a href="https://researchmap.jp/erika_kawakami" target="_blank"><span style="font-size:0.9em;">rm</span> researchmap</a><br>
+  <a href="https://researchmap.jp/erika_kawakami" target="_blank">rm researchmap</a><br>
   <a href="https://drive.google.com/drive/u/1/folders/19bQVEo9E_z0LGQK1olgqhwdJ72zb79pF" target="_blank"><i class="fas fa-graduation-cap"></i> PhD thesis</a><br>
   <a href="https://scholar.google.com/citations?user=TAB1HEcAAAAJ&hl=en" target="_blank"><i class="ai ai-google-scholar"></i> Google Scholar</a><br>
   <span style="font-size: 1.2em;">
