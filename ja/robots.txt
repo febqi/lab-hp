@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://erikawa-e.github.io/lab-hp/sitemap.xml
+Sitemap: https://febqi.github.io/lab-hp/sitemap.xml
