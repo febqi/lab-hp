@@ -46,3 +46,14 @@ nav_order: 4
   {% endfor %}
 </div>
 {% endif %}
+
+## Code Tutorials
+
+<table class="table table-sm" style="font-size: 0.95em;">
+  <tr>
+    <td><a href="https://sites.google.com/view/febqi/codes/qutip-%E6%97%A5%E6%9C%AC%E8%AA%9E-intro?authuser=0" target="_blank">QuTiP Introduction</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://sites.google.com/view/febqi/codes/mathematica?authuser=0" target="_blank">Mathematica code: ブロッホ球を書こう！</a></td>
+  </tr>
+</table>
