@@ -5,7 +5,7 @@
   type: Oral
   lang: E
   title: "Cryogenic microwave source for qubit read-out"
-  presenter_html: '<span class="author"><em>Ivan Grytsenko</em><sup>*</sup></span>, Oleksiy Rybalko, Yiran Tian, Asher Jennings, Rajesh Mohan, <em>Erika Kawakami</em><sup>*</sup>'
+  presenter_html: '<span class="author"><em>Ivan Grytsenko</em></span>, <em>Oleksiy Rybalko</em>, <em>Yiran Tian</em>, <em>Asher Jennings</em>, <em>Rajesh Mohan</em>, Erika Kawakami<sup>*</sup>'
   conference: "March meeting 2024"
   reviewed: true
   venue: "Minneapolis"
@@ -15,7 +15,7 @@
   type: Oral
   lang: E
   title: "RF Reflectometry of the Rydberg State of Electrons on Helium: Towards a Helium-Based Quantum Computer"
-  presenter_html: '<span class="author"><em>Erika Kawakami</em><sup>*</sup></span>, Asher Jennings, Ivan Grytsenko, Yiran Tian, Oleksiy Rybalko'
+  presenter_html: '<span class="author"><em>Erika Kawakami</em><sup>*</sup></span>, <em>Asher Jennings</em>, <em>Ivan Grytsenko</em>, <em>Yiran Tian</em>, <em>Oleksiy Rybalko</em>'
   conference: "March meeting 2024"
   reviewed: true
   venue: "Minneapolis"
@@ -25,7 +25,7 @@
   type: Oral
   lang: E
   title: "Blueprint for quantum computing using electrons on helium and dispersive read-out of the Rydberg States"
-  presenter_html: '<span class="author"><em>Asher Jennings</em><sup>*</sup></span>, Ivan Grytsenko, Oleksiy Rybalko, Yiran Tian, Rajesh Mohan, <em>Erika Kawakami</em><sup>*</sup>'
+  presenter_html: '<span class="author"><em>Asher Jennings</em><sup>*</sup></span>, <em>Ivan Grytsenko</em>, <em>Oleksiy Rybalko</em>, <em>Yiran Tian</em>, <em>Rajesh Mohan</em>, Erika Kawakami<sup>*</sup>'
   conference: "QIE 2023"
   reviewed: true
   url: "https://groups.oist.jp/qist/1st-international-workshop-quantum-information-engineering-qie2023"
@@ -35,7 +35,7 @@
   type: Poster
   lang: E
   title: "Improvement of cryogenic LC circuit for image-charge detection of surface electrons on helium as qubit"
-  presenter_html: '<span class="author"><em>Yiran Tian</em><sup>*</sup></span>, Asher Jennings, Ivan Grytsenko, Oleksiy Rybalko, Rajesh Mohan, <em>Erika Kawakami</em><sup>*</sup>'
+  presenter_html: '<span class="author"><em>Yiran Tian</em><sup>*</sup></span>, <em>Asher Jennings</em>, <em>Ivan Grytsenko</em>, <em>Oleksiy Rybalko</em>, <em>Rajesh Mohan</em>, Erika Kawakami<sup>*</sup>'
   conference: "Okinawa School in Physics 2023: Coherent Quantum Dynamics"
   reviewed: true
   url: "https://groups.oist.jp/cqd"
@@ -55,7 +55,7 @@
   type: Poster
   lang: E
   title: "Integration of a cryogenic LC circuit to image-charge detection for surface electrons on helium"
-  presenter_html: '<span class="author"><em>Asher Jennings</em><sup>*</sup></span>, Ivan Grytsenko, Oleksiy Rybalko, <em>Erika Kawakami</em><sup>*</sup>'
+  presenter_html: '<span class="author"><em>Asher Jennings</em><sup>*</sup></span>, <em>Ivan Grytsenko</em>, <em>Oleksiy Rybalko</em>, Erika Kawakami<sup>*</sup>'
   conference: "QFS 2023"
   reviewed: true
   url: "https://qfs2023.org/programme/"
@@ -85,7 +85,7 @@
   type: Poster
   lang: J
   title: "Improvement on the cryogenic circuit with tunnel-diode for qubit read-out"
-  presenter_html: '<span class="author"><em>Ivan Grytsenko</em><sup>*</sup></span>, Rajesh Mohan, Oleksiy Rybalko, <em>Erika Kawakami</em><sup>*</sup>'
+  presenter_html: '<span class="author"><em>Ivan Grytsenko</em></span>, <em>Rajesh Mohan</em>, <em>Oleksiy Rybalko</em>, Erika Kawakami<sup>*</sup>'
   conference: "第70回応用物理学会春季学術講演会"
   reviewed: true
 
@@ -123,7 +123,7 @@
   type: Poster
   lang: E
   title: "Using a cryogenic tunable resonance circuit to image-charge detection of surface electrons on He II"
-  presenter_html: '<span class="author"><em>Ivan Grytsenko</em><sup>*</sup></span>, Asher Jennings, Oleksiy Rybalko, <em>Erika Kawakami</em><sup>*</sup>'
+  presenter_html: '<span class="author"><em>Ivan Grytsenko</em></span>, <em>Asher Jennings</em>, <em>Oleksiy Rybalko</em>, Erika Kawakami<sup>*</sup>'
   conference: "ULT2022"
   reviewed: true
   url: "https://ult2022.org/index.html"
@@ -152,7 +152,7 @@
   type: Poster
   lang: E
   title: "Cryogenic tunnel-diode-oscillator for qubit read-out"
-  presenter_html: '<span class="author"><em>D. Yoshikawa</em><sup>*</sup></span>, Ivan Grytsenko, Y. Kato, Oleksiy Rybalko, H. Nakao, N. Yamamoto, Denis Konstantinov, <em>Erika Kawakami</em><sup>*</sup>'
+  presenter_html: '<span class="author"><em>D. Yoshikawa</em></span>, <em>Ivan Grytsenko</em>, Y. Kato, <em>Oleksiy Rybalko</em>, H. Nakao, N. Yamamoto, Denis Konstantinov, Erika Kawakami<sup>*</sup>'
   conference: "LT29"
   reviewed: true
   url: "https://www.lt29.jp/"
@@ -162,7 +162,7 @@
   type: Oral
   lang: E
   title: "Integration of a cryogenic LC circuit to image-charge detection for surface electrons on helium"
-  presenter_html: '<span class="author"><em>Ivan Grytsenko</em><sup>*</sup></span>, Oleksiy Rybalko, <em>Erika Kawakami</em><sup>*</sup>'
+  presenter_html: '<span class="author"><em>Ivan Grytsenko</em></span>, <em>Oleksiy Rybalko</em>, Erika Kawakami<sup>*</sup>'
   conference: "LT29"
   reviewed: true
   url: "https://www.lt29.jp/"
@@ -220,7 +220,7 @@
   type: Poster
   lang: E
   title: "Optimization of a cryogenic LC-tank circuit for detection of the Rydberg state of electrons on helium"
-  presenter_html: '<span class="author"><em>Ivan Grytsenko</em><sup>*</sup></span>, Oleksiy Rybalko, <em>Erika Kawakami</em><sup>*</sup>'
+  presenter_html: '<span class="author"><em>Ivan Grytsenko</em></span>, <em>Oleksiy Rybalko</em>, Erika Kawakami<sup>*</sup>'
   conference: "QFS2021"
   reviewed: true
 
