@@ -19,13 +19,12 @@ nav: false
       &nbsp;
       <a href="https://www.webofscience.com/wos/author/record/AAA-9271-2021" target="_blank" title="Web of Science / Publons"><i class="ai ai-publons"></i></a>
       &nbsp;
-      <a href="https://researchmap.jp/erika_kawakami?lang=en" target="_blank" title="researchmap" style="font-size:0.85em; font-weight:bold; vertical-align:middle; text-decoration:none;">rm</a>
-      &nbsp;
       <a href="https://www.linkedin.com/in/erika-kawakami-71721b78/" target="_blank" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
-      &nbsp;
-      <a href="https://drive.google.com/drive/u/1/folders/19bQVEo9E_z0LGQK1olgqhwdJ72zb79pF" target="_blank" title="PhD Thesis"><i class="fas fa-graduation-cap"></i></a>
-      &nbsp;
-      <a href="{{ '/cv/' | relative_url }}" title="Curriculum Vitae"><i class="ai ai-cv"></i></a>
+    </p>
+    <p style="margin-top: 0.25rem; line-height: 2.0;">
+      <a href="{{ '/cv/' | relative_url }}"><i class="ai ai-cv"></i> Curriculum Vitae</a><br>
+      <a href="https://researchmap.jp/erika_kawakami?lang=en" target="_blank"><span style="font-size:0.8em; font-weight:bold;">rm</span> researchmap</a><br>
+      <a href="https://drive.google.com/drive/u/1/folders/19bQVEo9E_z0LGQK1olgqhwdJ72zb79pF" target="_blank"><i class="fas fa-graduation-cap"></i> PhD thesis</a>
     </p>
   </div>
 </div>
