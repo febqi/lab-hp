@@ -13,7 +13,7 @@ tabs: true
   Future dates represent scheduled events.
 </p>
 <p style="font-size: 0.9em; margin-bottom: 0.5em;">
-  Japanese-language presentations are listed on the Japanese page only.
+  JA-language presentations are listed on the JA page only.
 </p>
 <p style="font-size: 0.9em; margin-bottom: 1em;">
   <u>Underline</u>: FEBQI lab member &nbsp;|&nbsp; <sup>*</sup>: Corresponding author/presenter
@@ -44,7 +44,7 @@ tabs: true
       {% else %}<span class="badge" style="background:#aaa; color:#fff; font-size:0.8em;">Poster</span>{% endif %}
       {% if pres.invited %}&nbsp;<span class="badge" style="background:#888; color:#fff; font-size:0.8em;">Invited</span>{% endif %}
       {% if pres.reviewed %}&nbsp;<span class="badge" style="background:#555; color:#fff; font-size:0.8em;">Reviewed</span>{% endif %}
-      {% if pres.lang == "ja" %}&nbsp;<span class="badge" style="background:#888; color:#fff; font-size:0.8em;">Japanese</span>{% endif %}
+      {% if pres.lang == "ja" %}&nbsp;<span class="badge" style="background:#888; color:#fff; font-size:0.8em;">JA</span>{% endif %}
     </div>
     <div>{% if pres.presenter_en_html %}{{ pres.presenter_en_html }}{% else %}{{ pres.presenter_html }}{% endif %}</div>
     <div style="font-size:0.9em;"><em>{{ pres.conference }}</em>{% if pres.venue_en %}, {{ pres.venue_en }}{% elsif pres.venue %}, {{ pres.venue }}{% endif %}</div>

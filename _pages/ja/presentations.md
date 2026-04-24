@@ -40,7 +40,7 @@ tabs: true
       {% else %}<span class="badge" style="background:#aaa; color:#fff; font-size:0.8em;">ポスター</span>{% endif %}
       {% if pres.invited %}&nbsp;<span class="badge" style="background:#888; color:#fff; font-size:0.8em;">招待</span>{% endif %}
       {% if pres.reviewed %}&nbsp;<span class="badge" style="background:#555; color:#fff; font-size:0.8em;">審査あり</span>{% endif %}
-      {% if pres.lang == "en" %}&nbsp;<span class="badge" style="background:#888; color:#fff; font-size:0.8em;">英語</span>{% endif %}
+      {% if pres.lang == "en" %}&nbsp;<span class="badge" style="background:#888; color:#fff; font-size:0.8em;">EN</span>{% endif %}
     </div>
     <div>{{ pres.presenter_html }}</div>
     <div style="font-size:0.9em;"><em>{{ pres.conference }}</em>{% if pres.venue %}, {{ pres.venue }}{% endif %}</div>
