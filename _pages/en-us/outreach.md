@@ -61,7 +61,7 @@ tabs: true
     <em>{% if act.venue_en %}{{ act.venue_en }}{% else %}{{ act.venue }}{% endif %}</em>
     <div class="links">
       <span class="btn btn-sm z-depth-0" style="background-color:#f0f0f0; color:#555; cursor:default;">{{ act.format }}</span>
-      {% if act.url %}<a href="{{ act.url }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Link</a>{% endif %}
+      {% if act.url_en %}<a href="{{ act.url_en }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Link</a>{% elsif act.url %}<a href="{{ act.url }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Link</a>{% endif %}
     </div>
   </td>
 </tr>

@@ -41,6 +41,16 @@
   lang: ja
 
 - year: 2023
+  date: "Feb 2023"
+  presenter_html: '<span class="author"><em>川上恵里加</em></span>'
+  presenter_en_html: '<span class="author"><em>Erika Kawakami</em></span>'
+  title: "Entretien avec le Dr. Erika Kawakami, chercheuse en informatique quantique"
+  venue: "Portraits de femmes en sciences (Ambassade de France au Japon)"
+  format: interview
+  url: https://erikawa-e.github.io/lab-hp/ja/blog/2023/interview-fr/
+  url_en: https://erikawa-e.github.io/lab-hp/blog/2023/interview-fr/
+
+- year: 2023
   date: "Nov 2023"
   presenter_html: '<span class="author"><em>Asher Jennings</em></span>'
   title: Floating Electrons as Qubits
