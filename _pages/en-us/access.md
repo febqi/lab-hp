@@ -47,7 +47,7 @@ The lab is located in the south area of campus (Building S51), about 10 min walk
 
 ## Accommodation & Dining on Campus
 
-- **Visitor lodging:** Building E91 (east area) — contact your host to arrange
+- **Visitor lodging:** Buildings E12 & E91 (east area) — contact your host to arrange
 - **Canteen:** Building C61 (lunch and dinner on weekdays)
 - **Convenience store:** Building C72
 - Restaurants also available near Wakoshi Station

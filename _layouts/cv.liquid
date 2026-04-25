@@ -43,6 +43,10 @@ layout: default
                 {% include cv/nested_list.liquid %}
               {% elsif entry.type == 'time_table' %}
                 {% include cv/time_table.liquid %}
+              {% elsif entry.type == 'time_table_uniform' %}
+                {% include cv/time_table_uniform.liquid %}
+              {% elsif entry.type == 'time_table_uniform_teaching' %}
+                {% include cv/time_table_uniform_teaching.liquid %}
               {% elsif entry.type == 'list_groups' %}
                 {% include cv/list_groups.liquid %}
               {% else %}

@@ -5,7 +5,7 @@ title: projects
 permalink: /projects/
 description: Selected research projects and activities.
 nav: true
-nav_order: 3
+nav_order: 7
 display_categories: [research, fun, background]
 horizontal: false
 ---

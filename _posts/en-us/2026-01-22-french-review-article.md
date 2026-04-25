@@ -13,6 +13,6 @@ A review article on quantum computing by Tetsuyoshi Yamada, Thomas Giovansili, a
 **[L'ordinateur quantique : promesses, défis et nouvelles pistes de recherche](https://www.centraliens-mediterranee.fr/medias/editor/Cahiers-AIECM/N°59%20-%20Le%20Quantique/Sommaire%2059%20Le%20quantique.pdf)**
 Tetsuyoshi Yamada, Thomas Giovansili, Erika Kawakami\*
 *Les Cahiers de Centrale Méditerranée Alumni « Le quantique », N°59 (2025)*
-\[FR\]
+[[Draft](https://docs.google.com/document/d/11JRIr3OF6UR6TVErzIOnd0asYnYGA6s1/edit?usp=sharing&ouid=118183936351125371152&rtpof=true&sd=true)]
 
 ![French article](https://blogger.googleusercontent.com/img/a/AVvXsEiuEfwxwy-viuGSJzS-RMvRhtKVNJyUHq3-MU5BGHXZ-82Oi8IinOAzcoafmJXfVdzh4jnpNSAK1LZSB9mJ3Pk4ta4Y_3vomPeRFMvzXveMZsso5HPl8PRooSg2nuUB9aqbQgsLikKP-FyQ-PineW5ydyfwqhvycOnCXBZp_r73qI3eRR7U67bw5DbE5Glp)

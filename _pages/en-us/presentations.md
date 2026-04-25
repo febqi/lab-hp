@@ -5,7 +5,7 @@ permalink: /presentations/
 title: presentations
 description: Oral and poster presentations.
 nav: true
-nav_order: 3
+nav_order: 5
 tabs: true
 ---
 
@@ -13,7 +13,7 @@ tabs: true
   Future dates represent scheduled events.
 </p>
 <p style="font-size: 0.9em; margin-bottom: 0.5em;">
-  JA-language presentations are listed on the JA page only.
+  Japanese-language presentations are listed on the <a href="/ja/presentations/">Japanese page</a> only.
 </p>
 <p style="font-size: 0.9em; margin-bottom: 1em;">
   <u>Underline</u>: FEBQI lab member &nbsp;|&nbsp; <sup>*</sup>: Corresponding author

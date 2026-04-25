@@ -5,11 +5,11 @@ permalink: /outreach/
 title: outreach
 description: Review & tutorial articles, public lectures, and more
 nav: true
-nav_order: 7
+nav_order: 6
 tabs: true
 ---
 
-<p style="font-size: 0.85em; color: #888; margin-bottom: 1rem;">Japanese-language outreach activities are listed on the <a href="{{ '/outreach/' | relative_url }}">Japanese page</a> only.</p>
+<p style="font-size: 0.85em; color: #888; margin-bottom: 1rem;">Japanese-language outreach activities are listed on the <a href="/ja/outreach/">Japanese page</a> only.</p>
 
 <ul class="tab" data-tab="tab-outreach-en">
   <li class="active"><a href="#">Review Articles</a></li>

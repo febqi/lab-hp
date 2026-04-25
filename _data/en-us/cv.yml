@@ -113,23 +113,49 @@
         - "Total: 40,000,000 JPY"
 
 - title: Committee and Advisory Activities
-  type: list
+  type: time_table_uniform
   contents:
-    - "May 2021–present: Member, MEXT Quantum Science and Technology Committee"
-    - "2026–present: Ad hoc reviewer for research proposals, French public research funding agency"
-    - "2025–present: Editor, <em>Scientific Reports</em>"
-    - "2024–2025: Deputy Chair, RIKEN Scientists' Assembly Steering Committee"
-    - "2024–present: Ad hoc reviewer for research proposals, U.S. Department of Energy (DOE)"
-    - "2025: Ad hoc reviewer for proposals, Austrian Science Fund (FWF)"
-    - "2025: International Advisory Committee, ULT 2025"
-    - "2021, 2023, 2024, 2026: International Advisory Committee, International Symposium on Quantum Fluids and Solids (QFS)"
-    - "2024: Organizer, Quantum Technologies with Floating Charged Particles Workshop"
+    - year: 2021–present
+      items:
+        - "Member, MEXT Quantum Science and Technology Committee"
+    - year: 2026–present
+      items:
+        - "Ad hoc reviewer for research proposals, French public research funding agency"
+    - year: 2025–present
+      items:
+        - "Editor, <em>Scientific Reports</em>"
+    - year: 2024–2025
+      items:
+        - "Deputy Chair, RIKEN Scientists' Assembly Steering Committee"
+    - year: 2024–present
+      items:
+        - "Ad hoc reviewer for research proposals, U.S. Department of Energy (DOE)"
+    - year: "2025"
+      items:
+        - "Ad hoc reviewer for proposals, Austrian Science Fund (FWF)"
+        - "International Advisory Committee, ULT 2025"
+    - year: 2021–2026
+      items:
+        - "International Advisory Committee, International Symposium on Quantum Fluids and Solids (QFS)"
+    - year: "2024"
+      items:
+        - "Organizer, Quantum Technologies with Floating Charged Particles Workshop"
 
 - title: Teaching Experience
-  type: list
+  type: time_table_uniform_teaching
   contents:
-    - "Apr. 2022–Dec. 2023: Lecturer, Frontiers of Contemporary Science (Nara Women's University, Faculty of Science, part-time)"
-    - "Apr.–Sep. 2019: Lecturer, Medical English (University of the Ryukyus, School of Medicine, part-time)"
-    - "Sep. 2013–Mar. 2014: Teaching Assistant, Quantum Mechanics (Delft University of Technology, Applied Physics)"
-    - "Sep. 2012–Mar. 2013: Teaching Assistant, Statistical Physics (Delft University of Technology, Applied Physics)"
-    - "2010: Teaching Assistant, Condensed Matter Physics (Keio University, Faculty of Science and Technology)"
+    - year: Apr. 2022–Dec. 2023
+      items:
+        - "Lecturer, Frontiers of Contemporary Science (Nara Women's University, Faculty of Science, part-time)"
+    - year: Apr.–Sep. 2019
+      items:
+        - "Lecturer, Medical English (University of the Ryukyus, School of Medicine, part-time)"
+    - year: Sep. 2013–Mar. 2014
+      items:
+        - "Teaching Assistant, Quantum Mechanics (Delft University of Technology, Applied Physics)"
+    - year: Sep. 2012–Mar. 2013
+      items:
+        - "Teaching Assistant, Statistical Physics (Delft University of Technology, Applied Physics)"
+    - year: "2010"
+      items:
+        - "Teaching Assistant, Condensed Matter Physics (Keio University, Faculty of Science and Technology)"

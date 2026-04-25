@@ -6,7 +6,7 @@ title: ブログ
 blog_name: FEBQIブログ
 description: 研究室のニュースとアップデート
 nav: true
-nav_order: 1
+nav_order: 3
 pagination:
   enabled: true
   collection: posts

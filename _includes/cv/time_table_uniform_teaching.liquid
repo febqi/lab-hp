@@ -1,0 +1,35 @@
+<ul class="card-text font-weight-light list-group list-group-flush">
+  {% for content in entry.contents %}
+    <li class="list-group-item">
+      <div style="display:flex; align-items:flex-start; gap:0.75rem;">
+        {% if content.year %}
+          <div style="flex:0 0 13rem; width:13rem; text-align:center;">
+            <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="white-space:nowrap; display:inline-block; width:100%; text-align:center;">
+              {{- content.year -}}
+            </span>
+          </div>
+        {% endif %}
+        <div style="flex:1 1 0; min-width:0;" class="mt-2 mt-md-0">
+          {% if content.items %}
+            <ul class="items">
+              {% for item in content.items %}
+                <li>
+                  {% if item.contents %}
+                    <span class="item-title">{{ item.title }}</span>
+                    <ul class="subitems">
+                      {% for subitem in item.contents %}
+                        <li><span class="subitem">{{ subitem }}</span></li>
+                      {% endfor %}
+                    </ul>
+                  {% else %}
+                    <span class="item">{{ item }}</span>
+                  {% endif %}
+                </li>
+              {% endfor %}
+            </ul>
+          {% endif %}
+        </div>
+      </div>
+    </li>
+  {% endfor %}
+</ul>

@@ -5,7 +5,7 @@ permalink: /publications/
 title: 論文
 description: 論文一覧（新しい順）。
 nav: true
-nav_order: 2
+nav_order: 4
 ---
 
 <!-- _pages/publications.md -->

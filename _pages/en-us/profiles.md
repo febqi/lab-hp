@@ -5,7 +5,7 @@ permalink: /people/
 title: people
 description: Members of the FEBQI research team
 nav: true
-nav_order: 3
+nav_order: 2
 
 ---
 
