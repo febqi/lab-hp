@@ -15,7 +15,7 @@ nav_order: 2
 
 <div class="publications">
 
-{% bibliography %}
+{% bibliography --query @*[year>=2023] %}
 
 </div>
 

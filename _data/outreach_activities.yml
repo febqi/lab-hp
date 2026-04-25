@@ -1,3 +1,23 @@
+- year: 2026
+  date: "Jan 14, 2026"
+  presenter_html: '<span class="author"><u>Asher Jennings</u>, <u>Erika Kawakami</u></span>'
+  presenter_en_html: '<span class="author"><u>Asher Jennings</u>, <u>Erika Kawakami</u></span>'
+  title: "Reading Qubits in an Ultraclean Environment"
+  venue: RIKEN Research
+  format: web article
+  lang: en
+  url: https://www.riken.jp/en/news_pubs/research_news/rr/20260114_1/index.html
+
+- year: 2024
+  date: "Mar 28, 2024"
+  presenter_html: '<span class="author"><u>Erika Kawakami</u></span>'
+  presenter_en_html: '<span class="author"><u>Erika Kawakami</u></span>'
+  title: "Realizing Clean Qubits for Quantum Computers Using Electrons on Helium"
+  venue: RIKEN Research
+  format: web article
+  lang: en
+  url: https://www.riken.jp/en/news_pubs/research_news/rr/20240328_2/index.html
+
 - year: 2025
   date: "Mar 2025"
   presenter_html: '<span class="author"><em>川上恵里加</em></span>'
@@ -39,16 +59,6 @@
   venue_en: "Nara Women's University, Frontiers of Contemporary Science"
   format: lecture
   lang: ja
-
-- year: 2023
-  date: "Feb 2023"
-  presenter_html: '<span class="author"><em>川上恵里加</em></span>'
-  presenter_en_html: '<span class="author"><em>Erika Kawakami</em></span>'
-  title: "Entretien avec le Dr. Erika Kawakami, chercheuse en informatique quantique"
-  venue: "Portraits de femmes en sciences (Ambassade de France au Japon)"
-  format: interview
-  url: https://erikawa-e.github.io/lab-hp/ja/blog/2023/interview-fr/
-  url_en: https://erikawa-e.github.io/lab-hp/blog/2023/interview-fr/
 
 - year: 2023
   date: "Nov 2023"

@@ -28,3 +28,7 @@ The site was built through conversations with [Claude Code](https://docs.anthrop
 **Source code:**
 
 The full source code is publicly available — see the [Repositories]({{ '/repositories/' | relative_url }}) page.
+
+**Local preview:**
+
+GitHub Pages builds take a few minutes, but you can preview changes instantly using [jekyll serve](https://jekyllrb.com/docs/usage/) locally. Files are rebuilt automatically on save, so you can check edits in real time without pushing to GitHub.

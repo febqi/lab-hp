@@ -16,7 +16,7 @@ tabs: true
   JA-language presentations are listed on the JA page only.
 </p>
 <p style="font-size: 0.9em; margin-bottom: 1em;">
-  <u>Underline</u>: FEBQI lab member &nbsp;|&nbsp; <sup>*</sup>: Corresponding author/presenter
+  <u>Underline</u>: FEBQI lab member &nbsp;|&nbsp; <sup>*</sup>: Corresponding author
 </p>
 
 {% assign years = site.data.presentations | map: "year" | uniq | sort | reverse %}
@@ -67,10 +67,10 @@ tabs: true
   <td>
     <div>
       <strong>{{ pres.title }}</strong>
-      {% if pres.type == "Oral" %}<span class="btn btn-sm z-depth-0" style="background-color:#e8f4f8; color:#2a7ae2; cursor:default; font-size:0.75em; vertical-align:middle; padding:0.1em 0.35em; line-height:1.2;">Oral</span>
-      {% else %}<span class="btn btn-sm z-depth-0" style="background-color:#f0f0f0; color:#555; cursor:default; font-size:0.75em; vertical-align:middle; padding:0.1em 0.35em; line-height:1.2;">Poster</span>{% endif %}
-      {% if pres.invited %}<span class="btn btn-sm z-depth-0" style="background-color:#fff3e0; color:#e65100; cursor:default; font-size:0.75em; vertical-align:middle; padding:0.1em 0.35em; line-height:1.2;">Invited</span>{% endif %}
-      {% if pres.reviewed %}<span class="btn btn-sm z-depth-0" style="background-color:#f1f8e9; color:#33691e; cursor:default; font-size:0.75em; vertical-align:middle; padding:0.1em 0.35em; line-height:1.2;">Reviewed</span>{% endif %}
+      {% if pres.type == "Oral" %}<span class="badge" style="background:#aaa; color:#fff; font-size:0.8em;">Oral</span>
+      {% else %}<span class="badge" style="background:#aaa; color:#fff; font-size:0.8em;">Poster</span>{% endif %}
+      {% if pres.invited %}&nbsp;<span class="badge" style="background:#888; color:#fff; font-size:0.8em;">Invited</span>{% endif %}
+      {% if pres.reviewed %}&nbsp;<span class="badge" style="background:#555; color:#fff; font-size:0.8em;">Reviewed</span>{% endif %}
     </div>
     <div>{{ pres.presenter_html }}</div>
     <div style="font-size:0.9em;"><em>{{ pres.conference }}</em>{% if pres.venue %}, {{ pres.venue }}{% endif %}</div>

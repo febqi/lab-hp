@@ -57,3 +57,5 @@ nav_order: 4
     <td><a href="https://sites.google.com/view/febqi/codes/mathematica?authuser=0" target="_blank">Mathematica コード: ブロッホ球を書こう！</a></td>
   </tr>
 </table>
+
+{% include figure.liquid path="assets/img/bloch_cat.png" class="img-fluid" width="30%" %}

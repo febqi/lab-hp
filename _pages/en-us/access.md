@@ -8,13 +8,18 @@ nav: true
 nav_order: 9
 ---
 
-## Location
-
-**RIKEN Wako Campus, Chemistry and Materials Physics Building (S51)**<br>
+<div style="display:flex; justify-content:flex-start; align-items:flex-start; gap:1rem; margin-bottom:1rem;">
+<div>
+<h2>Location</h2>
+<p>
+<strong>RIKEN Wako Campus,<br>Chemistry and Materials Physics Building (S51)</strong><br>
 2-1, Hirosawa, Wako, Saitama 351-0198, Japan<br>
-[(35.77664, 139.61083)](https://www.google.com/maps?q=35.77664,139.61083)
-
-Lab offices: Rooms N508-1, N105-2, N108-1
+<a href="https://www.google.com/maps?q=35.77664,139.61083">(35.77664, 139.61083)</a>
+</p>
+<p>Lab offices: Rooms N508-1, N105-2, N108-1</p>
+</div>
+<img src="{{ '/assets/img/cherry_blossom_1.jpg' | relative_url }}" style="width:220px; border-radius:8px; flex-shrink:0;" alt="Cherry blossoms at RIKEN">
+</div>
 
 ## Visiting
 
@@ -52,3 +57,4 @@ The lab is located in the south area of campus (Building S51), about 10 min walk
 ## Contact
 
 [rikenEonHe@gmail.com](mailto:rikenEonHe@gmail.com)
+

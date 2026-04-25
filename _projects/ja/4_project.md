@@ -3,7 +3,7 @@ page_id: project_4
 layout: page
 title: 量子ドット
 description: 電子を狭い空間に閉じ込めた人工の原子
-img: assets/img/quantum_dot.png
+img: assets/img/quantum_dot_leaf.png
 importance: 4
 category: background
 related_publications: false
@@ -33,4 +33,4 @@ related_publications: false
 
 量子ドットは、量子コンピュータにも使われています。量子コンピュータでは、「量子ビット」という特別な情報の単位を使います。量子ドットの中に電子を１つ閉じ込めると、その電子のスピン（電子が持っている小さな磁石のような性質）を使って「０」や「１」の情報を表すことができ、これを用いて「量子ビット」を作る研究がされています。最近では、電子だけでなく「正孔（せいこう）」と呼ばれる粒子も量子ビットとして使う研究が進んでいます。正孔は、電子がいなくなった場所がまるで「プラスの電荷を持つ粒子」のようにふるまうものです。この正孔を量子ドットに閉じ込めることで、新しいタイプの量子ビットを作ろうとする研究が行われています。
 
-詳しくは [文部科学省「一家に１枚　量子技術」解説ページ](https://q-portal.riken.jp/poster-quantum/colums/colum2-4.html) をご覧ください。
+[文部科学省「一家に１枚　量子技術」解説ページ](https://q-portal.riken.jp/poster-quantum/colums/colum2-4.html) もご覧ください。

@@ -54,6 +54,8 @@ nav_order: 4
     <td><a href="https://sites.google.com/view/febqi/codes/qutip-%E6%97%A5%E6%9C%AC%E8%AA%9E-intro?authuser=0" target="_blank">QuTiP Introduction</a></td>
   </tr>
   <tr>
-    <td><a href="https://sites.google.com/view/febqi/codes/mathematica?authuser=0" target="_blank">Mathematica code: ブロッホ球を書こう！</a></td>
+    <td><a href="https://sites.google.com/view/febqi/codes/mathematica?authuser=0" target="_blank">Mathematica code: Draw a Bloch sphere!</a></td>
   </tr>
 </table>
+
+{% include figure.liquid path="assets/img/bloch_cat.png" class="img-fluid" width="30%" %}

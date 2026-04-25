@@ -8,13 +8,18 @@ nav: true
 nav_order: 9
 ---
 
-## 所在地
-
-**理化学研究所 和光キャンパス 物質科学研究棟(S51)**<br>
+<div style="display:flex; justify-content:flex-start; align-items:flex-start; gap:1rem; margin-bottom:1rem;">
+<div>
+<h2>所在地</h2>
+<p>
+<strong>理化学研究所 和光キャンパス<br>物質科学研究棟(S51)</strong><br>
 〒351-0198 埼玉県和光市広沢2-1<br>
-[(35.77664, 139.61083)](https://www.google.com/maps?q=35.77664,139.61083)
-
-研究室: N508-1, N105-2, N108-1号室
+<a href="https://www.google.com/maps?q=35.77664,139.61083">(35.77664, 139.61083)</a>
+</p>
+<p>研究室: N508-1, N105-2, N108-1号室</p>
+</div>
+<img src="{{ '/assets/img/cherry_blossom_1.jpg' | relative_url }}" style="width:220px; border-radius:8px; flex-shrink:0;" alt="理研の桜">
+</div>
 
 ## 来訪の際
 
@@ -51,3 +56,4 @@ nav_order: 9
 ## お問い合わせ
 
 [rikenEonHe@gmail.com](mailto:rikenEonHe@gmail.com)
+

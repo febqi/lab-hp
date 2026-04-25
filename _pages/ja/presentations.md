@@ -13,7 +13,7 @@ tabs: true
   未来の日付は予定されている発表を表します。
 </p>
 <p style="font-size: 0.9em; margin-bottom: 1em;">
-  <u>下線</u>: FEBQIメンバー &nbsp;|&nbsp; <sup>*</sup>: 責任著者/発表者
+  <u>下線</u>: FEBQIメンバー &nbsp;|&nbsp; <sup>*</sup>: 責任著者
 </p>
 
 {% assign years = site.data.presentations | map: "year" | uniq | sort | reverse %}
@@ -22,7 +22,7 @@ tabs: true
   {% for year in years %}
     <li{% if forloop.first %} class="active"{% endif %}><a href="#">{{ year }}</a></li>
   {% endfor %}
-  <li><a href="#">〜2022年</a></li>
+  <li><a href="#">〜2024年</a></li>
 </ul>
 
 <ul id="tab-presentations-ja" class="tab-content">
@@ -62,10 +62,10 @@ tabs: true
   <td>
     <div>
       <strong>{{ pres.title }}</strong>
-      {% if pres.type == "Oral" %}<span class="btn btn-sm z-depth-0" style="background-color:#e8f4f8; color:#2a7ae2; cursor:default; font-size:0.75em; vertical-align:middle; padding:0.1em 0.35em; line-height:1.2;">口頭</span>
-      {% else %}<span class="btn btn-sm z-depth-0" style="background-color:#f0f0f0; color:#555; cursor:default; font-size:0.75em; vertical-align:middle; padding:0.1em 0.35em; line-height:1.2;">ポスター</span>{% endif %}
-      {% if pres.invited %}<span class="btn btn-sm z-depth-0" style="background-color:#fff3e0; color:#e65100; cursor:default; font-size:0.75em; vertical-align:middle; padding:0.1em 0.35em; line-height:1.2;">招待</span>{% endif %}
-      {% if pres.reviewed %}<span class="btn btn-sm z-depth-0" style="background-color:#f1f8e9; color:#33691e; cursor:default; font-size:0.75em; vertical-align:middle; padding:0.1em 0.35em; line-height:1.2;">審査あり</span>{% endif %}
+      {% if pres.type == "Oral" %}<span class="badge" style="background:#aaa; color:#fff; font-size:0.8em;">口頭</span>
+      {% else %}<span class="badge" style="background:#aaa; color:#fff; font-size:0.8em;">ポスター</span>{% endif %}
+      {% if pres.invited %}&nbsp;<span class="badge" style="background:#888; color:#fff; font-size:0.8em;">招待</span>{% endif %}
+      {% if pres.reviewed %}&nbsp;<span class="badge" style="background:#555; color:#fff; font-size:0.8em;">審査あり</span>{% endif %}
     </div>
     <div>{{ pres.presenter_html }}</div>
     <div style="font-size:0.9em;"><em>{{ pres.conference }}</em>{% if pres.venue %}, {{ pres.venue }}{% endif %}</div>

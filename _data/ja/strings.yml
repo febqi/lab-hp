@@ -20,7 +20,8 @@ blog:
 categories:
   fun: その他
   work: work
-  research: 研究
+  research: 現在の研究
+  background: 背景知識
 citation:
   bibtex: "or as a BibTeX entry:"
   introduction: "If you found this useful, please cite this as:"

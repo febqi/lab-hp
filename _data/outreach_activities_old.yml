@@ -1,18 +1,20 @@
 # Outreach activities before April 2023
 
+- date: "Feb 2023"
+  presenter_html: '<span class="author"><em>川上恵里加</em></span>'
+  presenter_en_html: '<span class="author"><em>Erika Kawakami</em></span>'
+  title: "Entretien avec le Dr. Erika Kawakami, chercheuse en informatique quantique"
+  venue: "Portraits de femmes en sciences (Ambassade de France au Japon)"
+  format: interview
+  url: https://erikawa-e.github.io/lab-hp/ja/blog/2023/interview-fr/
+  url_en: https://erikawa-e.github.io/lab-hp/blog/2023/interview-fr/
+
 - date: "2023年2月"
   presenter_html: '<span class="author"><em>川上恵里加</em></span>'
   title: "人生が酸っぱいレモンなら、それで美味しいレモネードを作ろう"
   venue: "渋谷教育学園渋谷中学高等学校 創立記念講演会"
   format: lecture
   lang: ja
-
-- date: "2023年2月"
-  presenter_html: '<span class="author"><em>Erika Kawakami</em></span>'
-  title: "Entretien avec le Dr. Erika Kawakami, chercheuse en informatique quantique"
-  venue: "Portraits de femmes en sciences (Ambassade de France au Japon)"
-  format: interview
-  url: "https://jp.ambafrance.org/Entretien-avec-le-Dr-Erika-Kawakami-chercheuse-en-informatique-quantique"
 
 - date: "2022年12月"
   presenter_html: '<span class="author"><em>川上恵里加</em></span>'
@@ -35,7 +37,7 @@
   format: school
   lang: ja
   url: "https://www.sqei.c.u-tokyo.ac.jp/qed/summerschool/"
-  url2: "https://erikawa-e.github.io/lab-hp/repositories/"
+  url2: "https://sites.google.com/view/febqi/codes/qutip-%E6%97%A5%E6%9C%AC%E8%AA%9E-intro?authuser=0"
   url2_label: "Code"
 
 - date: "2022年3月"
@@ -53,7 +55,7 @@
   lang: ja
   url: "https://www.phys.s.u-tokyo.ac.jp/colloquium/32614/"
 
-- date: "2021年12月"
+- date: "Dec 2021"
   presenter_html: '<span class="author"><em>Erika Kawakami</em></span>'
   title: "Electrons on liquid helium: Riding the new wave towards ideal quantum computing"
   venue: "nextrends Asia"
@@ -66,7 +68,7 @@
   venue: "第6回 やっぱり物理が好き！ ～物理に進んだ女子学生・院生のキャリア～"
   format: seminar
   lang: ja
-  url: "https://www.soken.ac.jp/event/7149/"
+  url: "https://www.u-tokyo.ac.jp/focus/ja/articles/z0402_00019.html"
 
 - date: "2021年9月"
   presenter_html: '<span class="author"><em>川上恵里加</em>（司会）</span>'
@@ -76,7 +78,7 @@
   lang: ja
   url: "https://www.sqei.c.u-tokyo.ac.jp/qed/summerschool_member.pdf"
 
-- date: "2021年9月"
+- date: "Sep 2021"
   presenter_html: '<span class="author"><em>Erika Kawakami</em></span>'
   title: "Floating quantum ideas"
   venue: "RIKEN people"
@@ -97,3 +99,4 @@
   venue: "RIKEN news"
   format: interview
   lang: ja
+  url: "https://www.riken.jp/medialibrary/riken/pr/publications/news/2021/rn202102.pdf"

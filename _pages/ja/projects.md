@@ -6,7 +6,7 @@ permalink: /projects/
 description: 研究プロジェクト・活動紹介
 nav: true
 nav_order: 3
-display_categories: [research, fun]
+display_categories: [research, fun, background]
 horizontal: false
 ---
 

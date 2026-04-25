@@ -20,7 +20,8 @@ blog:
 categories:
   fun: fun
   work: work
-  research: research
+  research: current research
+  background: background
 citation:
   bibtex: "or as a BibTeX entry:"
   introduction: "If you found this useful, please cite this as:"

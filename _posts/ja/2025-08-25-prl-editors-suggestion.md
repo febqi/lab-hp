@@ -7,4 +7,8 @@ tags: publication award
 categories: news
 ---
 
-ライドバーグ検出の論文がPRLに掲載され、**Editors' Suggestion**に選ばれました（選出はわずか6本）！またAshがLT30でポスター賞を受賞しました。おめでとう！
+ライドバーグ検出の論文がPRLに掲載され、**Editors' Suggestion**に選ばれました！またAshがLT30でポスター賞を受賞しました。おめでとう！
+
+**[Probing the Quantum Capacitance of Rydberg Transitions of Surface Electrons on Liquid Helium via Microwave Frequency Modulation](https://link.aps.org/doi/10.1103/5y8p-qhb4)**
+<u>Asher Jennings</u>\*, <u>Ivan Grytsenko</u>, <u>Yiran Tian</u>, <u>Oleksiy Rybalko</u>, Jun Wang, Itay Josef Barabash, and <u>Erika Kawakami</u>\*
+*Phys. Rev. Lett. 135, 087001 (2025)*

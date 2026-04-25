@@ -28,3 +28,7 @@ category: fun
 **ソースコード：**
 
 全ソースコードは公開しています — [リポジトリ]({{ '/repositories/' | relative_url }}) ページへ。
+
+**ローカルでの確認：**
+
+GitHub Pagesのビルドには数分かかりますが、ローカルで [jekyll serve](https://jekyllrb.com/docs/usage/) を使えば変更を即座に確認できます。ファイルを保存するたびに自動リビルドされるため、GitHubにpushせずにリアルタイムでプレビューできます。

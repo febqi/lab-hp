@@ -1,5 +1,6 @@
 repo_description_lines_max: 2
 
 github_repos:
+  - febqi/lab-hp
   - febqi/plasmon
   - febqi/density_profile

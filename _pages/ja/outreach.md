@@ -13,7 +13,6 @@ tabs: true
   <li class="active"><a href="#">解説記事</a></li>
   <li><a href="#">書籍</a></li>
   <li><a href="#">アウトリーチ・セミナー</a></li>
-  <li><a href="#">アウトリーチ・セミナー(〜2023年)</a></li>
 </ul>
 
 <ul id="tab-outreach-ja" class="tab-content">
@@ -70,11 +69,6 @@ tabs: true
   </td>
 </tr>
 {% endfor %}
-</table>
-</li>
-
-<li>
-<table class="table table-sm" style="font-size: 0.9em; margin-top:0.5rem;">
 {% for act in site.data.outreach_activities_old %}
 <tr>
   <td style="white-space: nowrap; padding-right: 1em; color: #888;">{{ act.date }}</td>
