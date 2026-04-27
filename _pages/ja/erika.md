@@ -31,4 +31,4 @@ nav: false
   </div>
 </div>
 
-<p>Erika Kawakami received her Ph.D. from Delft University of Technology in the Netherlands and was a postdoctoral researcher at the Okinawa Institute of Science and Technology (OIST) in Japan before starting her research group at RIKEN. Her research focuses on quantum information processing using electrons on helium and solid neon.</p>
+<p>オランダのデルフト工科大学で博士号を取得後、沖縄科学技術大学院大学にてポスドク研究員として研究に従事。その後、理化学研究所にて研究グループを立ち上げ、現在は液体ヘリウムおよび固体ネオン上の電子を用いた量子情報処理の研究を進めている。</p>
