@@ -20,7 +20,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/lab-hp/ja/";
     },
-  },{id: "nav-ブログ",
+  },{id: "nav-メンバー",
+          title: "メンバー",
+          description: "FEBQIチームのメンバー",
+          section: "Navigation menu",
+          handler: () => {
+            window.location.href = "/lab-hp/ja/people/";
+          },
+        },{id: "nav-ブログ",
           title: "ブログ",
           description: "研究室のニュースとアップデート",
           section: "Navigation menu",
@@ -41,12 +48,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/lab-hp/ja/presentations/";
           },
-        },{id: "nav-メンバー",
-          title: "メンバー",
-          description: "FEBQIチームのメンバー",
+        },{id: "nav-アウトリーチ",
+          title: "アウトリーチ",
+          description: "解説記事・一般向け講演など",
           section: "Navigation menu",
           handler: () => {
-            window.location.href = "/lab-hp/ja/people/";
+            window.location.href = "/lab-hp/ja/outreach/";
           },
         },{id: "nav-プロジェクト",
           title: "プロジェクト",
@@ -61,13 +68,6 @@ ninja.data = [{
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/lab-hp/ja/repositories/";
-          },
-        },{id: "nav-アウトリーチ",
-          title: "アウトリーチ",
-          description: "解説記事・一般向け講演など",
-          section: "Navigation menu",
-          handler: () => {
-            window.location.href = "/lab-hp/ja/outreach/";
           },
         },{id: "nav-アクセス",
           title: "アクセス",
@@ -129,28 +129,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/lab-hp/ja/blog/2026/french-review-article/";
-          
-        },
-      },{id: "post-ポスター賞受賞とprl論文がriken-research-newsに掲載",
-        
-          title: "ポスター賞受賞とPRL論文がRIKEN Research Newsに掲載",
-        
-        description: "ポスター賞受賞とPRL論文がRIKEN Research Newsに掲載",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/lab-hp/ja/blog/2026/poster-award-prl-news/";
-          
-        },
-      },{id: "post-国際共同研究プロジェクト採択",
-        
-          title: "国際共同研究プロジェクト採択",
-        
-        description: "JST ASPIREプログラムに採択",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/lab-hp/ja/blog/2025/jst-aspire/";
           
         },
       },{id: "post-tetsuの送別会",
@@ -217,28 +195,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/lab-hp/ja/blog/2024/team-photo/";
-          
-        },
-      },{id: "post-rikenの桜が満開",
-        
-          title: "RIKENの桜が満開",
-        
-        description: "RIKEN和光キャンパスの春の桜",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/lab-hp/ja/blog/2024/cherry-blossoms-2024/";
-          
-        },
-      },{id: "post-研究成果がresearch-newsに掲載",
-        
-          title: "研究成果がResearch Newsに掲載！",
-        
-        description: "研究論文がRIKEN Research Newsで紹介",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/lab-hp/ja/blog/2024/research-news/";
           
         },
       },{id: "post-xianjingの送別会",
@@ -310,6 +266,16 @@ ninja.data = [{
           description: "JekyllとGitHub Pagesで構築、主にClaude Codeが作成",
           section: "Projects",handler: () => {
               window.location.href = "/lab-hp/ja/projects/7-project/";
+            },},{id: "projects-量子ドット",
+          title: '量子ドット',
+          description: "電子を狭い空間に閉じ込めた人工の原子",
+          section: "Projects",handler: () => {
+              window.location.href = "/lab-hp/ja/projects/4-project/";
+            },},{id: "projects-量子コンピュータ",
+          title: '量子コンピュータ',
+          description: "量子の重ね合わせともつれを使う新しいコンピュータ",
+          section: "Projects",handler: () => {
+              window.location.href = "/lab-hp/ja/projects/5-project/";
             },},{
         id: 'social-email',
         title: 'Send an email',
