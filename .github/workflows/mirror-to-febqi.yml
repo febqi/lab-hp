@@ -1,0 +1,17 @@
+name: Mirror to febqi/lab-hp
+
+on:
+  workflow_dispatch:
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Push to febqi/lab-hp
+        run: |
+          git remote add febqi https://x-access-token:${{ secrets.FEBQI_TOKEN }}@github.com/febqi/lab-hp.git
+          git push febqi main
