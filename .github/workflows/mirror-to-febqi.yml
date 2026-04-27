@@ -11,7 +11,17 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Check token
+        run: |
+          if [ -z "${{ secrets.FEBQI_TOKEN }}" ]; then
+            echo "ERROR: FEBQI_TOKEN is empty"
+          else
+            echo "FEBQI_TOKEN is set (length: ${#TOKEN} chars)"
+          fi
+        env:
+          TOKEN: ${{ secrets.FEBQI_TOKEN }}
+
       - name: Push to febqi/lab-hp
         run: |
           git remote add febqi https://x-access-token:${{ secrets.FEBQI_TOKEN }}@github.com/febqi/lab-hp.git
-          git push febqi main
+          git push febqi main 2>&1
