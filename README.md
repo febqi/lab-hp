@@ -2,8 +2,8 @@
 
 Homepage of the **FEBQI (Floating Electrons and Beyond for Quantum Information) Lab**, led by Erika Kawakami at the RIKEN Center for Quantum Computing.
 
-- **Live site (development):** https://erikawa-e.github.io/lab-hp/
 - **Live site (production):** https://febqi.github.io/lab-hp/
+- **Live site (development):** separate staging site (URL not listed here)
 
 ## Development workflow
 
