@@ -7,21 +7,21 @@ Homepage of the **FEBQI (Floating Electrons and Beyond for Quantum Information) 
 
 ## Development workflow
 
-1. Edit files in this repository (`erikawa-e/lab-hp`)
+1. Edit files in this repository
 2. Push to verify: `git push`
-3. When ready to publish to `febqi/lab-hp`: trigger the **Mirror to febqi/lab-hp** workflow from the [Actions tab](https://github.com/erikawa-e/lab-hp/actions/workflows/mirror-to-febqi.yml)
+3. When ready to publish to `febqi/lab-hp`: trigger the **Mirror to febqi/lab-hp** workflow from the Actions tab
 
 ### Mirror workflow setup
 
-The workflow (`.github/workflows/mirror-to-febqi.yml`) pushes `main` from `erikawa-e/lab-hp` to `febqi/lab-hp` on demand (manual trigger only).
+The workflow (`.github/workflows/mirror-to-febqi.yml`) pushes `main` from the development repository to `febqi/lab-hp` on demand (manual trigger only).
 
-**Required secret in `erikawa-e/lab-hp`:**
+**Required secret in the development repository:**
 
 | Secret name | Value |
 |---|---|
 | `FEBQI_TOKEN` | Classic Personal Access Token with `repo` + `workflow` scopes, belonging to an account with write access to `febqi/lab-hp` |
 
-To regenerate: [github.com/settings/tokens](https://github.com/settings/tokens) → Generate new token (classic) → check `repo` and `workflow` → save as `FEBQI_TOKEN` in [repository secrets](https://github.com/erikawa-e/lab-hp/settings/secrets/actions).
+To regenerate: GitHub → Settings → Developer settings → Personal access tokens → Generate new token (classic) → check `repo` and `workflow` → save as `FEBQI_TOKEN` in the development repository's secrets.
 
 ## Built with
 
