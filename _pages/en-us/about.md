@@ -1,40 +1,36 @@
 ---
-page_id: about
-layout: about
-title: about
-permalink: /
-subtitle: '<a href="https://sites.google.com/view/febqi/" target="_blank" style="font-size:0.85em; color:#888;">Previous website</a>'
-
 profile:
   align: right
   image_circular: false
-  more_info:
-
+  more_info: null
+layout: about
+page_id: about
 selected_papers: true
-social: false
-
+permalink: /
 announcements:
   enabled: false
-
+social: false
+subtitle: <a href="https://sites.google.com/view/febqi/" target="_blank"
+  style="font-size:0.85em; color:#888;">Previous website</a>
+title: about
 latest_posts:
   enabled: true
   scrollable: true
   limit: 3
 ---
-
 We are the **Floating-Electron-Based Quantum Information (FEBQI)** research team at [RIKEN Center for Quantum Computing](https://www.riken.jp/en/research/labs/rqc/).
 
 Our research focuses on electrons floating above liquid helium and solid neon as platforms for quantum information processing. Suspended in vacuum just above the surface, these electrons exist in a pristine, defect-free environment, enabling long coherence times ideal for quantum computing.
 
 ## Research Topics
 
-- **Electrons on liquid helium** — Plasmon excitations, quantum simulation, and electron spin qubits
-- **Electrons on solid neon** — Long coherence times for both charge and spin states, targeting quantum memory
-- **Cryogenic electronics** — Development of cryogenic microwave sources for scalable quantum computation
+* **Electrons on liquid helium** — Plasmon excitations, quantum simulation, and electron spin qubits
+* **Electrons on solid neon** — Long coherence times for both charge and spin states, targeting quantum memory
+* **Cryogenic electronics** — Development of cryogenic microwave sources for scalable quantum computation
 
 ## Upcoming
 
-- **May 18, 2026** — [Workshop: Towards Spin Qubits of Electrons on Solid Neon](https://sites.google.com/view/febqi/workshop), RIKEN Wako Campus (hybrid). Free registration.
+* **May 18, 2026** — [Workshop: Towards Spin Qubits of Electrons on Solid Neon](https://sites.google.com/view/febqi/workshop), RIKEN Wako Campus (hybrid). Free registration!
 
 ## Openings
 
