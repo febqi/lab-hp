@@ -23,7 +23,7 @@ related_publications: false
 
 液体ヘリウム表面付近で引力と斥力が釣り合う場所があります。この位置は、液体ヘリウムの表面から約10ナノメートル（1メートルの10億分の1の長さ）離れた真空中です。つまり、電子はこの位置で「浮いている」状態になります。
 
-<img src="{{ '/assets/img/project_electrons_helium.svg' | relative_url }}" alt="液体ヘリウム表面の電子の図" style="width:100%; max-width:700px; display:block; margin:1.5rem auto;">
+<img src="{{ '/assets/img/project_electrons_helium.svg' | relative_url }}" alt="液体ヘリウム表面の電子の図" style="width:100%; display:block; margin:1.5rem auto;">
 
 *図(a) 液体ヘリウム表面の真空中で、引力と斥力が釣り合う位置に電子が浮かぶ。斥力はヘリウム原子の閉殻構造によって生じる。(b) 電子の持つ「電荷」と「スピン」という性質。*
 
