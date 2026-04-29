@@ -32,3 +32,5 @@ RIKEN Center for Quantum Computing<br>
 </div>
 
 <p>Erika Kawakami received her Ph.D. from Delft University of Technology in the Netherlands and was a postdoctoral researcher at the Okinawa Institute of Science and Technology (OIST) in Japan before starting her research group at RIKEN. Her research focuses on quantum information processing using electrons on helium and solid neon.</p>
+
+<p style="font-size:0.85em; color:#888;"><a href="{{ '/assets/img/erika_photo_press.jpg' | relative_url }}" download style="color:#aaa;">Press photo available for download</a></p>

@@ -31,6 +31,6 @@ nav: false
   </div>
 </div>
 
-<p><a href="{{ '/assets/img/erika_photo_press.jpg' | relative_url }}" download>学会などで顔写真が必要な方はこちらからダウンロードください</a></p>
-
 <p>オランダのデルフト工科大学で博士号を取得後、沖縄科学技術大学院大学にてポスドク研究員として研究に従事。その後、理化学研究所にて研究グループを立ち上げ、現在は液体ヘリウムおよび固体ネオン上の電子を用いた量子情報処理の研究を進めている。</p>
+
+<p style="font-size:0.85em; color:#888;"><a href="{{ '/assets/img/erika_photo_press.jpg' | relative_url }}" download style="color:#aaa;">学会などで顔写真が必要な方はこちらからダウンロードください</a></p>
