@@ -2,6 +2,8 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
+future: true # publish posts regardless of date/time timezone differences
+
 title: FEBQI # the website title (if blank, full name will be used instead)
 first_name: Floating-Electron-Based
 middle_name: Quantum Information
