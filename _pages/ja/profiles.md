@@ -43,20 +43,20 @@ nav_order: 2
 
 <table class="table table-sm" style="font-size: 0.9em;">
 <tr>
+  <td style="white-space: nowrap; padding-right: 1em; color: #888;">2026/03/20</td>
+  <td>
+    <div><strong>東京理科大学 理学部第一部物理学科 卒業研究発表会 優秀卒研発表賞</strong></div>
+    <div>Hochan Chung</div>
+    <div style="font-size:0.9em;"><em>「水晶振動子マイクロバランスを用いた固体ネオン薄膜のナノスケール評価」</em></div>
+  </td>
+</tr>
+<tr>
   <td style="white-space: nowrap; padding-right: 1em; color: #888;">2026/03/15</td>
   <td>
     <div><strong>応用物理学会 女性研究者奨励賞（D&I賞）</strong></div>
     <div>川上 恵里加</div>
     <div style="font-size:0.9em;"><em>「浮揚電子を用いた量子情報処理基盤の研究」</em></div>
     <div class="links"><a href="https://www.jsap.or.jp/diversity-and-inclusion-award/recipients/recipients4" class="btn btn-sm z-depth-0" role="button" target="_blank">リンク</a></div>
-  </td>
-</tr>
-<tr>
-  <td style="white-space: nowrap; padding-right: 1em; color: #888;">2026/03/20</td>
-  <td>
-    <div><strong>東京理科大学 理学部第一部物理学科 卒業研究発表会 優秀卒研発表賞</strong></div>
-    <div>Hochan Chung</div>
-    <div style="font-size:0.9em;"><em>「水晶振動子マイクロバランスを用いた固体ネオン薄膜のナノスケール評価」</em></div>
   </td>
 </tr>
 <tr>
