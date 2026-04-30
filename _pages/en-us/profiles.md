@@ -84,7 +84,7 @@ nav_order: 2
   </td>
 </tr>
 <tr>
-  <td style="white-space: nowrap; padding-right: 1em; color: #888;">2024</td>
+  <td style="white-space: nowrap; padding-right: 1em; color: #888;">2024/05/18</td>
   <td>
     <div><strong>23rd Funai Academic Award</strong></div>
     <div>Erika Kawakami</div>

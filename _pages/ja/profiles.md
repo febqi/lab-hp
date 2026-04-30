@@ -84,7 +84,7 @@ nav_order: 2
   </td>
 </tr>
 <tr>
-  <td style="white-space: nowrap; padding-right: 1em; color: #888;">2024年</td>
+  <td style="white-space: nowrap; padding-right: 1em; color: #888;">2024/05/18</td>
   <td>
     <div><strong>第23回 船井学術賞</strong></div>
     <div>川上 恵里加</div>
