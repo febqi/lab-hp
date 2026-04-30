@@ -1,5 +1,6 @@
 - year: 2026
   date: "Jan 14, 2026"
+  date_ja: "2026年1月14日"
   presenter_html: '<span class="author"><u>Asher Jennings</u>, <u>Erika Kawakami</u></span>'
   presenter_en_html: '<span class="author"><u>Asher Jennings</u>, <u>Erika Kawakami</u></span>'
   title: "Reading Qubits in an Ultraclean Environment"
@@ -10,26 +11,31 @@
 
 - year: 2026
   date: "Mar 15–18, 2026"
+  date_ja: "2026年3月15–18日"
   presenter_html: '<span class="author"><em>川上恵里加</em></span>'
   presenter_en_html: '<span class="author"><em>Erika Kawakami</em></span>'
   title: "浮揚電子：真空中に拓く新しい量子ビットの可能性"
   venue: "応用物理学会春季学術講演会, 東京科学大学"
   venue_en: "JSAP Spring Meeting 2026, Tokyo Tech"
   format: 口頭（招待）
+  lang: ja
   url: https://pub.confit.atlas.jp/ja/event/jsap2026s
 
 - year: 2026
   date: "Mar 23–26, 2026"
+  date_ja: "2026年3月23–26日"
   presenter_html: '<span class="author"><em>川上恵里加</em><sup>*</sup></span>'
   presenter_en_html: '<span class="author"><em>Erika Kawakami</em><sup>*</sup></span>'
   title: "真空中に浮かぶ電子を用いた量子制御の基礎研究"
   venue: "日本物理学会春季大会, Online"
   venue_en: "JPS Spring Meeting 2026, Online"
   format: 口頭（招待）
+  lang: ja
   url: https://jps2026s.gakkai-web.net/data/html/program05.html
 
 - year: 2024
   date: "Mar 28, 2024"
+  date_ja: "2024年3月28日"
   presenter_html: '<span class="author"><u>Erika Kawakami</u></span>'
   presenter_en_html: '<span class="author"><u>Erika Kawakami</u></span>'
   title: "Realizing Clean Qubits for Quantum Computers Using Electrons on Helium"
@@ -40,6 +46,7 @@
 
 - year: 2025
   date: "Mar 2025"
+  date_ja: "2025年3月"
   presenter_html: '<span class="author"><em>川上恵里加</em></span>'
   presenter_en_html: '<span class="author"><em>Erika Kawakami</em></span>'
   title: 量子ドット
@@ -51,6 +58,7 @@
 
 - year: 2024
   date: "Jun 30, 2024"
+  date_ja: "2024年6月30日"
   presenter_html: '<span class="author"><em>川上恵里加</em></span>'
   presenter_en_html: '<span class="author"><em>Erika Kawakami</em></span>'
   title: 不思議な量子の世界：浮いている電子で作るコンピュータ
@@ -62,6 +70,7 @@
 
 - year: 2024
   date: "May 25, 2024"
+  date_ja: "2024年5月25日"
   presenter_html: '<span class="author"><em>川上恵里加</em></span>'
   presenter_en_html: '<span class="author"><em>Erika Kawakami</em></span>'
   title: 浮いている電子
@@ -72,6 +81,7 @@
 
 - year: 2023
   date: "Dec 1 & 8, 2023"
+  date_ja: "2023年12月1・8日"
   presenter_html: '<span class="author"><em>川上恵里加</em></span>'
   presenter_en_html: '<span class="author"><em>Erika Kawakami</em></span>'
   title: 量子コンピューター入門
@@ -82,6 +92,7 @@
 
 - year: 2023
   date: "Nov 2023"
+  date_ja: "2023年11月"
   presenter_html: '<span class="author"><em>Asher Jennings</em></span>'
   title: Floating Electrons as Qubits
   venue: "EeroQ, Chicago"
@@ -89,6 +100,7 @@
 
 - year: 2023
   date: "Aug 2023"
+  date_ja: "2023年8月"
   presenter_html: '<span class="author"><em>Asher Jennings</em></span>'
   title: Floating Electrons as Qubits
   venue: "Quantum Motion, London"
@@ -96,6 +108,7 @@
 
 - year: 2023
   date: "Aug 2023"
+  date_ja: "2023年8月"
   presenter_html: '<span class="author"><em>Asher Jennings</em></span>'
   title: Floating Electrons as Qubits
   venue: Lancaster University
@@ -103,6 +116,7 @@
 
 - year: 2023
   date: "Jun 16, 2023"
+  date_ja: "2023年6月16日"
   presenter_html: '<span class="author"><em>川上恵里加</em></span>'
   presenter_en_html: '<span class="author"><em>Erika Kawakami</em></span>'
   title: みんなどうしてる？国際ネットワーキングのホントの活かし方

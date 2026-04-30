@@ -1,11 +1,3 @@
-- year: 2025
-  authors_html: "<em>Tetsuyoshi Yamada</em>, <em>Thomas Giovansili</em>, <em>Erika Kawakami</em><sup>*</sup>"
-  title: "L'ordinateur quantique : promesses, défis et nouvelles pistes de recherche"
-  journal: "Les Cahiers de Centrale Méditerranée Alumni «&thinsp;Le quantique&thinsp;», N°59 (2025)"
-  journal_url: "https://www.centraliens-mediterranee.fr/medias/editor/Cahiers-AIECM/N°59%20-%20Le%20Quantique/Sommaire%2059%20Le%20quantique.pdf"
-  draft_url: "https://docs.google.com/document/d/11JRIr3OF6UR6TVErzIOnd0asYnYGA6s1/edit?usp=sharing&ouid=118183936351125371152&rtpof=true&sd=true"
-  invited: true
-
 - year: 2026
   lang: JA
   authors_html: "<em>Ivan Grytsenko</em>, <em>Xianjing Zhou</em>, <em>Erika Kawakami</em><sup>*</sup>"
@@ -16,6 +8,15 @@
   doi: "10.1380/vss.69.68"
   invited: true
   reviewed: true
+
+- year: 2025
+  lang: FR
+  authors_html: "<em>Tetsuyoshi Yamada</em>, <em>Thomas Giovansili</em>, <em>Erika Kawakami</em><sup>*</sup>"
+  title: "L'ordinateur quantique : promesses, défis et nouvelles pistes de recherche"
+  journal: "Les Cahiers de Centrale Méditerranée Alumni «&thinsp;Le quantique&thinsp;», N°59 (2025)"
+  journal_url: "https://www.centraliens-mediterranee.fr/medias/editor/Cahiers-AIECM/N°59%20-%20Le%20Quantique/Sommaire%2059%20Le%20quantique.pdf"
+  draft_url: "https://docs.google.com/document/d/11JRIr3OF6UR6TVErzIOnd0asYnYGA6s1/edit?usp=sharing&ouid=118183936351125371152&rtpof=true&sd=true"
+  invited: true
 
 - year: 2024
   lang: JA
@@ -36,14 +37,6 @@
   journal_url: "https://www.tkd-pbl.com/book/b10094523.html"
   invited: true
 
-- year: 2017
-  lang: JA
-  authors_html: "<em>Erika Kawakami</em><sup>*</sup>"
-  authors_ja_html: "<em>川上恵里加</em><sup>*</sup>"
-  title: "Si量子ドット中の単一電子スピンを用いた量子コンピューターの実現へ向けて"
-  journal: "日本物理学会誌 72, 334 (2017)"
-  invited: true
-
 - year: 2023
   lang: JA
   authors_html: "<em>Erika Kawakami</em><sup>*</sup>"
@@ -54,3 +47,12 @@
   draft_url: "https://www.overleaf.com/read/njhmytbccvbf#d52840"
   invited: true
   reviewed: true
+
+- year: 2017
+  lang: JA
+  authors_html: "<em>Erika Kawakami</em><sup>*</sup>"
+  authors_ja_html: "<em>川上恵里加</em><sup>*</sup>"
+  title: "Si量子ドット中の単一電子スピンを用いた量子コンピューターの実現へ向けて"
+  journal: "日本物理学会誌 72, 334 (2017)"
+  journal_url: "https://www.jps.or.jp/books/gakkaishi/2017/05/72-05researches2.pdf"
+  invited: true

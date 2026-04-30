@@ -43,6 +43,17 @@
   venue_en: "Science Tokyo"
   url: https://pub.confit.atlas.jp/ja/event/jsap2026s
 
+- year: 2026
+  date: "Jan 9, 2026"
+  type: Poster
+  lang: ja
+  title: "極低温浮揚電子による量子メモリ創生への礎"
+  conference: "量子技術異分野交流シンポジウム"
+  presenter_html: '<span class="author"><u>Hochan Chung</u><sup>*</sup></span>'
+  reviewed: true
+  venue: "東京理科大学総合研究院"
+  url: "https://www.rs.tus.ac.jp/fylab/iqura/iqura.html"
+
 - year: 2025
   date: "Dec 12–14, 2025"
   type: Oral

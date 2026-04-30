@@ -28,7 +28,7 @@ tabs: true
   <td>
     <div>
       {{ article.title }}
-      {% if article.lang == "EN" or article.lang == "JA" %}&nbsp;<span class="badge" style="background:#aaa; color:#fff; font-size:0.8em;">{{ article.lang }}</span>{% endif %}
+      {% if article.lang %}&nbsp;<span class="badge" style="background:#aaa; color:#fff; font-size:0.8em;">{{ article.lang }}</span>{% endif %}
       {% if article.invited %}&nbsp;<span class="badge" style="background:#888; color:#fff; font-size:0.8em;">招待</span>{% endif %}
       {% if article.reviewed %}&nbsp;<span class="badge" style="background:#555; color:#fff; font-size:0.8em;">査読あり</span>{% endif %}
     </div>
@@ -59,7 +59,7 @@ tabs: true
 <table class="table table-sm" style="font-size: 0.9em;">
 {% for act in site.data.outreach_activities %}
 <tr>
-  <td style="white-space: nowrap; padding-right: 1em; color: #888;">{{ act.date }}</td>
+  <td style="white-space: nowrap; padding-right: 1em; color: #888;">{{ act.date_ja | default: act.date }}</td>
   <td>
     {{ act.presenter_html }}<br>
     {{ act.title }}<br>
@@ -73,7 +73,7 @@ tabs: true
 {% endfor %}
 {% for act in site.data.outreach_activities_old %}
 <tr>
-  <td style="white-space: nowrap; padding-right: 1em; color: #888;">{{ act.date }}</td>
+  <td style="white-space: nowrap; padding-right: 1em; color: #888;">{{ act.date_ja | default: act.date }}</td>
   <td>
     {{ act.presenter_html }}<br>
     {{ act.title }}<br>

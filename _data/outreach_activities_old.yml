@@ -1,6 +1,7 @@
 # Outreach activities before April 2023
 
 - date: "Feb 2023"
+  date_ja: "2023年2月"
   presenter_html: '<span class="author"><em>川上恵里加</em></span>'
   presenter_en_html: '<span class="author"><em>Erika Kawakami</em></span>'
   title: "Entretien avec le Dr. Erika Kawakami, chercheuse en informatique quantique"
@@ -56,6 +57,7 @@
   url: "https://www.phys.s.u-tokyo.ac.jp/colloquium/32614/"
 
 - date: "Dec 2021"
+  date_ja: "2021年12月"
   presenter_html: '<span class="author"><em>Erika Kawakami</em></span>'
   title: "Electrons on liquid helium: Riding the new wave towards ideal quantum computing"
   venue: "nextrends Asia"
@@ -79,6 +81,7 @@
   url: "https://www.sqei.c.u-tokyo.ac.jp/qed/summerschool_member.pdf"
 
 - date: "Sep 2021"
+  date_ja: "2021年9月"
   presenter_html: '<span class="author"><em>Erika Kawakami</em></span>'
   title: "Floating quantum ideas"
   venue: "RIKEN people"
