@@ -43,7 +43,7 @@ nav_order: 2
 
 <table class="table table-sm" style="font-size: 0.9em;">
 <tr>
-  <td style="white-space: nowrap; padding-right: 1em; color: #888;">2026/03/15</td>
+  <td style="white-space: nowrap; padding-right: 1em; color: #888;">Mar 15, 2026</td>
   <td>
     <div><strong>JSAP Women Researcher Award (D&I Award)</strong></div>
     <div>Erika Kawakami</div>
@@ -52,7 +52,7 @@ nav_order: 2
   </td>
 </tr>
 <tr>
-  <td style="white-space: nowrap; padding-right: 1em; color: #888;">2026/03/20</td>
+  <td style="white-space: nowrap; padding-right: 1em; color: #888;">Mar 20, 2026</td>
   <td>
     <div><strong>TUS Dept. of Physics Best Graduation Research Presentation Award</strong></div>
     <div>Hochan Chung</div>
@@ -60,7 +60,7 @@ nav_order: 2
   </td>
 </tr>
 <tr>
-  <td style="white-space: nowrap; padding-right: 1em; color: #888;">2026/03/09</td>
+  <td style="white-space: nowrap; padding-right: 1em; color: #888;">Mar 9, 2026</td>
   <td>
     <div><strong>RIKEN Baiho Award</strong></div>
     <div>Asher Jennings</div>
@@ -68,7 +68,7 @@ nav_order: 2
   </td>
 </tr>
 <tr>
-  <td style="white-space: nowrap; padding-right: 1em; color: #888;">2026/01/09</td>
+  <td style="white-space: nowrap; padding-right: 1em; color: #888;">Jan 9, 2026</td>
   <td>
     <div><strong>2nd Quantum Technology Interdisciplinary Exchange Conference Best Poster Award</strong></div>
     <div>Hochan Chung</div>
@@ -76,7 +76,7 @@ nav_order: 2
   </td>
 </tr>
 <tr>
-  <td style="white-space: nowrap; padding-right: 1em; color: #888;">2025/08/13</td>
+  <td style="white-space: nowrap; padding-right: 1em; color: #888;">Aug 13, 2025</td>
   <td>
     <div><strong>LT30 Best Poster Award</strong></div>
     <div>Asher Jennings, Ivan Grytsenko, Yiran Tian, Oleksiy Rybalko, Jun Wang, Itay Josef Barabash, Erika Kawakami</div>
@@ -84,7 +84,7 @@ nav_order: 2
   </td>
 </tr>
 <tr>
-  <td style="white-space: nowrap; padding-right: 1em; color: #888;">2024/05/18</td>
+  <td style="white-space: nowrap; padding-right: 1em; color: #888;">May 18, 2024</td>
   <td>
     <div><strong>23rd Funai Academic Award</strong></div>
     <div>Erika Kawakami</div>
@@ -93,7 +93,7 @@ nav_order: 2
   </td>
 </tr>
 <tr>
-  <td style="white-space: nowrap; padding-right: 1em; color: #888;">2022/08/28</td>
+  <td style="white-space: nowrap; padding-right: 1em; color: #888;">Aug 28, 2022</td>
   <td>
     <div><strong>ULT 2022 Best Poster Award</strong></div>
     <div>Ivan Grytsenko, Asher Jennings, Oleksiy Rybalko, Erika Kawakami</div>
