@@ -93,7 +93,7 @@ nav_order: 2
   </td>
 </tr>
 <tr>
-  <td style="white-space: nowrap; padding-right: 1em; color: #888;">2022</td>
+  <td style="white-space: nowrap; padding-right: 1em; color: #888;">2022/08/28</td>
   <td>
     <div><strong>ULT 2022 Best Poster Award</strong></div>
     <div>Ivan Grytsenko, Asher Jennings, Oleksiy Rybalko, Erika Kawakami</div>
