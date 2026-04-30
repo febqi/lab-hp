@@ -76,7 +76,7 @@ nav_order: 2
   </td>
 </tr>
 <tr>
-  <td style="white-space: nowrap; padding-right: 1em; color: #888;">2025年8月</td>
+  <td style="white-space: nowrap; padding-right: 1em; color: #888;">2025/08/13</td>
   <td>
     <div><strong>LT30 ベストポスター賞</strong></div>
     <div>Asher Jennings, Ivan Grytsenko, Yiran Tian, Oleksiy Rybalko, Jun Wang, Itay Josef Barabash, Erika Kawakami</div>
