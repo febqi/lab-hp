@@ -8,6 +8,26 @@
   lang: en
   url: https://www.riken.jp/en/news_pubs/research_news/rr/20260114_1/index.html
 
+- year: 2026
+  date: "Mar 15–18, 2026"
+  presenter_html: '<span class="author"><em>川上恵里加</em></span>'
+  presenter_en_html: '<span class="author"><em>Erika Kawakami</em></span>'
+  title: "浮揚電子：真空中に拓く新しい量子ビットの可能性"
+  venue: "応用物理学会春季学術講演会, 東京科学大学"
+  venue_en: "JSAP Spring Meeting 2026, Tokyo Tech"
+  format: 口頭（招待）
+  url: https://pub.confit.atlas.jp/ja/event/jsap2026s
+
+- year: 2026
+  date: "Mar 23–26, 2026"
+  presenter_html: '<span class="author"><em>川上恵里加</em><sup>*</sup></span>'
+  presenter_en_html: '<span class="author"><em>Erika Kawakami</em><sup>*</sup></span>'
+  title: "真空中に浮かぶ電子を用いた量子制御の基礎研究"
+  venue: "日本物理学会春季大会, Online"
+  venue_en: "JPS Spring Meeting 2026, Online"
+  format: 口頭（招待）
+  url: https://jps2026s.gakkai-web.net/data/html/program05.html
+
 - year: 2024
   date: "Mar 28, 2024"
   presenter_html: '<span class="author"><u>Erika Kawakami</u></span>'

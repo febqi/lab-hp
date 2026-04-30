@@ -22,6 +22,9 @@ $(document).ready(function () {
     $(this).parent().parent().find(".bibtex.hidden.open").toggleClass("open");
     $(this).parent().parent().find(".doi.hidden").toggleClass("open");
   });
+  $("a.isbn").click(function () {
+    $(this).parent().parent().find(".isbn.hidden").toggleClass("open");
+  });
   $("a").removeClass("waves-effect waves-light");
 
   // bootstrap-toc

@@ -38,8 +38,10 @@ tabs: true
     <div><em>{{ article.journal }}</em></div>
     <div class="links">
       {% if article.journal_url %}<a href="{{ article.journal_url }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Journal</a>{% endif %}
+      {% if article.doi %}<a class="doi btn btn-sm z-depth-0" role="button">DOI</a>{% endif %}
       {% if article.draft_url %}<a href="{{ article.draft_url }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Draft</a>{% endif %}
     </div>
+    {% if article.doi %}<div class="doi hidden"><p style="color:var(--global-text-color);padding:0.5rem 0;margin:0;">https://doi.org/{{ article.doi }}</p></div>{% endif %}
   </td>
 </tr>
 {% endfor %}

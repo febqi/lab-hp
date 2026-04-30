@@ -220,6 +220,9 @@
       {% if entry.doi %}
         <a class="doi btn btn-sm z-depth-0" role="button">DOI</a>
       {% endif %}
+      {% if entry.isbn %}
+        <a class="isbn btn btn-sm z-depth-0" role="button">ISBN</a>
+      {% endif %}
       {% if entry.arxiv %}
         <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
       {% endif %}
@@ -380,6 +383,12 @@
       <!-- Hidden DOI block -->
       <div class="doi hidden">
         <p>https://doi.org/{{ entry.doi }}</p>
+      </div>
+    {% endif %}
+    {% if entry.isbn %}
+      <!-- Hidden ISBN block -->
+      <div class="isbn hidden">
+        <p>ISBN: {{ entry.isbn }}</p>
       </div>
     {% endif %}
 

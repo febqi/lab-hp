@@ -879,6 +879,12 @@ footer.sticky-bottom {
     div.doi.hidden.open {
       border-color: var(--global-text-color);
     }
+    div.isbn.hidden {
+      border: dashed 1px var(--global-bg-color);
+    }
+    div.isbn.hidden.open {
+      border-color: var(--global-text-color);
+    }
     div.award.hidden {
       border: dashed 1px var(--global-bg-color);
     }
@@ -889,6 +895,12 @@ footer.sticky-bottom {
 }
 
 // Global .links button styling (for outreach and other pages outside .publications)
+a.doi.btn,
+a.isbn.btn {
+  color: var(--global-text-color) !important;
+  border-color: var(--global-text-color) !important;
+}
+
 .links {
   a.btn {
     color: var(--global-text-color);
@@ -904,6 +916,20 @@ footer.sticky-bottom {
       border-color: var(--global-theme-color);
     }
   }
+}
+
+// Global doi hidden toggle (for outreach and other pages outside .publications)
+div.doi.hidden {
+  font-size: 0.875rem;
+  max-height: 0px;
+  overflow: hidden;
+  transition: max-height 0.15s ease;
+  p { margin: 0; padding: 0.5rem 0; color: var(--global-text-color) !important; }
+}
+div.doi.hidden.open {
+  max-height: 100px;
+  border: dashed 1px var(--global-text-color);
+  background-color: var(--global-bg-color);
 }
 
 // Global author underline rule (for outreach and other pages outside .publications)

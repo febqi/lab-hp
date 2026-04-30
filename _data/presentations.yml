@@ -8,6 +8,7 @@
   presenter_en_html: '<span class="author"><u>Erika Kawakami</u><sup>*</sup></span>'
   invited: true
   venue: "Online"
+  url: https://jps2026s.gakkai-web.net/data/html/program05.html
 
 - year: 2026
   date: "Mar 16–20, 2026"
@@ -40,6 +41,7 @@
   invited: true
   venue: "東京科学大学"
   venue_en: "Science Tokyo"
+  url: https://pub.confit.atlas.jp/ja/event/jsap2026s
 
 - year: 2025
   date: "Dec 12–14, 2025"
