@@ -92,8 +92,7 @@ nav_order: 9
   <td>
     <div><strong>JST Q-LEAP (Quantum Leap Flagship Program) Human Resource Development</strong></div>
     <div style="font-size:0.9em;">Online course and summer school development program for quantum technology education</div>
-    <div style="font-size:0.9em; color:#888;">PI: Atsushi Noguchi</div>
-    <div style="font-size:0.9em; color:#888;">Co-investigator: Erika Kawakami &nbsp;|&nbsp; Share: ¥1,200k</div>
+    <div style="font-size:0.9em; color:#888; line-height:1.8;">PI: Atsushi Noguchi<br>Co-investigator: Erika Kawakami &nbsp;|&nbsp; Share: ¥1,200k</div>
   </td>
 </tr>
 </tbody>
