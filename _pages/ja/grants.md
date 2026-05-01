@@ -83,9 +83,10 @@ nav_order: 9
 <tr>
   <td style="white-space: nowrap; padding-right: 1em; color: #888;">2025–2030</td>
   <td>
-    <div><strong>JST ASPIRE 日英共同研究課題</strong></div>
-    <div style="font-size:0.9em;">半導体量子ドット技術の大規模スケール化</div>
-    <div style="font-size:0.9em; color:#888;">日本側代表: 小寺 哲夫 &nbsp;|&nbsp; 英国側代表: 片岡 真哉 &nbsp;|&nbsp; 分担者: Asher Jennings（英国側）</div>
+    <div style="margin:0;"><strong>JST ASPIRE 日英共同研究課題</strong></div>
+    <div style="margin:0; font-size:0.9em;">半導体量子ドット技術の大規模スケール化</div>
+    <div style="margin:0; font-size:0.9em; color:#888;">日本側代表: 小寺 哲夫 &nbsp;|&nbsp; 英国側代表: 片岡 真哉</div>
+    <div style="margin:0; font-size:0.9em; color:#888;">分担者: 川上 恵里加、Asher Jennings</div>
   </td>
 </tr>
 </table>
