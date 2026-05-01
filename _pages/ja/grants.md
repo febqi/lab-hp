@@ -67,7 +67,8 @@ nav_order: 9
 </td></tr>
 <tr><th style="padding-top:1.5em;">その他</th></tr>
 <tr><td>
-  <div><strong>理化学研究所</strong>　白眉プログラム・開拓研究所・量子コンピュータ研究センター</div>
+  <div><strong>理化学研究所</strong></div>
+  <div style="font-size:0.9em;">白眉プログラム・開拓研究所・量子コンピュータ研究センター</div>
   <div style="font-size:0.9em; color:#888;">研究代表者: 川上 恵里加</div>
 </td></tr>
 <tr><td>
