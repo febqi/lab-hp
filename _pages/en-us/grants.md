@@ -67,7 +67,7 @@ nav_order: 9
 </td></tr>
 <tr><th style="padding-top:1.5em;">Other</th></tr>
 <tr><td>
-  <div><strong>RIKEN internal budget</strong>　Hakubi Program · Cluster for Pioneering Research · Center for Quantum Computing</div>
+  <div><strong>RIKEN</strong>　Hakubi Program · Cluster for Pioneering Research · Center for Quantum Computing</div>
   <div style="font-size:0.9em; color:#888;">PI: Erika Kawakami</div>
 </td></tr>
 <tr><td>
