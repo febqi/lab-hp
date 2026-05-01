@@ -34,7 +34,7 @@ nav_order: 9
   <div style="font-size:0.9em; color:#888;">研究代表者: 川上 恵里加 &nbsp;|&nbsp; 総額: 4,720千円</div>
 </td></tr>
 <tr><td>
-  <div><strong>JST 創発的研究支援事業（FOREST）</strong> <span style="color:#888; font-size:0.9em;">2021–2027</span></div>
+  <div><strong>JST 創発的研究支援事業</strong> <span style="color:#888; font-size:0.9em;">2021–2027</span></div>
   <div style="font-size:0.9em;">ヘリウム表面上の電子を用いた量子ビットの実現</div>
   <div style="font-size:0.9em; color:#888;">研究代表者: 川上 恵里加 &nbsp;|&nbsp; 総額: 50,000千円</div>
 </td></tr>
