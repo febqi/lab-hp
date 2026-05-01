@@ -85,8 +85,7 @@ nav_order: 9
   <td>
     <div><strong>JST ASPIRE Japan-UK Collaborative Research</strong></div>
     <div style="font-size:0.9em;">Large-scale integration of semiconductor quantum dot technology</div>
-    <div style="font-size:0.9em; color:#888;">Japan PI: Tetsuo Kodera &nbsp;|&nbsp; UK PI: Shinya Kataoka</div>
-    <div style="font-size:0.9em; color:#888;">Co-investigator (UK): Asher Jennings</div>
+    <div style="font-size:0.9em; color:#888;">Japan PI: Tetsuo Kodera &nbsp;|&nbsp; UK PI: Shinya Kataoka &nbsp;|&nbsp; Co-investigator (UK): Asher Jennings</div>
   </td>
 </tr>
 </table>
