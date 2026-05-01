@@ -76,3 +76,17 @@ nav_order: 9
   </td>
 </tr>
 </table>
+
+## External Funding (Co-Investigator)
+
+<table class="table table-sm" style="font-size: 0.9em;">
+<tr>
+  <td style="white-space: nowrap; padding-right: 1em; color: #888;">2025–2029</td>
+  <td>
+    <div><strong>JST ASPIRE Japan-UK Collaborative Research</strong></div>
+    <div style="font-size:0.9em;">Large-scale integration of semiconductor quantum dot technology</div>
+    <div style="font-size:0.9em; color:#888;">Japan PI: Tetsuo Kodera &nbsp;|&nbsp; UK PI: Shinya Kataoka</div>
+    <div style="font-size:0.9em; color:#888;">Co-investigators: Erika Kawakami, Asher Jennings</div>
+  </td>
+</tr>
+</table>
