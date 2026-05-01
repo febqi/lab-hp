@@ -18,7 +18,7 @@ nav_order: 9
   <td>
     <div><strong>JST ASPIRE (Acceleration of Innovative Research for Sustainable International Collaboration)</strong></div>
     <div style="font-size:0.9em;">Realization of spin qubits using floating electrons on solid neon</div>
-    <div style="font-size:0.9em; color:#888;">PI: Erika Kawakami &nbsp;|&nbsp; Total: ¥68,790,000</div>
+    <div style="font-size:0.9em; color:#888;">PI: Erika Kawakami &nbsp;|&nbsp; Total: ¥68,790k</div>
   </td>
 </tr>
 <tr>
@@ -26,7 +26,7 @@ nav_order: 9
   <td>
     <div><strong>Sumitomo Foundation Basic Science Research Grant</strong></div>
     <div style="font-size:0.9em;">Research on controlled deposition and characterization of solid neon in cryogenic environments</div>
-    <div style="font-size:0.9em; color:#888;">PI: Erika Kawakami &nbsp;|&nbsp; Total: ¥3,000,000</div>
+    <div style="font-size:0.9em; color:#888;">PI: Erika Kawakami &nbsp;|&nbsp; Total: ¥3,000k</div>
   </td>
 </tr>
 <tr>
@@ -34,7 +34,7 @@ nav_order: 9
   <td>
     <div><strong>Hattori Hokokai Foundation Engineering Research Grant</strong></div>
     <div style="font-size:0.9em;">Strong coupling between microwave photons and plasmons in a pure physical system</div>
-    <div style="font-size:0.9em; color:#888;">PI: Erika Kawakami &nbsp;|&nbsp; Total: ¥1,000,000</div>
+    <div style="font-size:0.9em; color:#888;">PI: Erika Kawakami &nbsp;|&nbsp; Total: ¥1,000k</div>
   </td>
 </tr>
 <tr>
@@ -42,7 +42,7 @@ nav_order: 9
   <td>
     <div><strong>Murata Science Foundation Research Grant</strong></div>
     <div style="font-size:0.9em;">Demonstration of qubit readout technology using a tunnel diode oscillator</div>
-    <div style="font-size:0.9em; color:#888;">PI: Erika Kawakami &nbsp;|&nbsp; Total: ¥4,720,000</div>
+    <div style="font-size:0.9em; color:#888;">PI: Erika Kawakami &nbsp;|&nbsp; Total: ¥4,720k</div>
   </td>
 </tr>
 <tr>
@@ -50,7 +50,7 @@ nav_order: 9
   <td>
     <div><strong>JST FOREST (Fusion Oriented RESearch for disruptive Science and Technology)</strong></div>
     <div style="font-size:0.9em;">Realization of qubits using electrons on the surface of helium</div>
-    <div style="font-size:0.9em; color:#888;">PI: Erika Kawakami &nbsp;|&nbsp; Total: ¥50,000,000</div>
+    <div style="font-size:0.9em; color:#888;">PI: Erika Kawakami &nbsp;|&nbsp; Total: ¥50,000k</div>
   </td>
 </tr>
 <tr>
@@ -58,7 +58,7 @@ nav_order: 9
   <td>
     <div><strong>Yazaki Memorial Foundation for Science and Technology General Research Grant</strong></div>
     <div style="font-size:0.9em;">Development of a cryogenic microwave source toward qubit scale-up</div>
-    <div style="font-size:0.9em; color:#888;">PI: Erika Kawakami &nbsp;|&nbsp; Total: ¥2,000,000</div>
+    <div style="font-size:0.9em; color:#888;">PI: Erika Kawakami &nbsp;|&nbsp; Total: ¥2,000k</div>
   </td>
 </tr>
 <tr>
@@ -66,7 +66,7 @@ nav_order: 9
   <td>
     <div><strong>JSPS Grant-in-Aid for Early-Career Scientists</strong></div>
     <div style="font-size:0.9em;">Establishing qubit state readout technology using a tunnel diode</div>
-    <div style="font-size:0.9em; color:#888;">PI: Erika Kawakami &nbsp;|&nbsp; Total: ¥3,640,000</div>
+    <div style="font-size:0.9em; color:#888;">PI: Erika Kawakami &nbsp;|&nbsp; Total: ¥3,640k</div>
   </td>
 </tr>
 <tr>
@@ -74,7 +74,7 @@ nav_order: 9
   <td>
     <div><strong>JST PRESTO</strong></div>
     <div style="font-size:0.9em;">Toward a universal digital quantum computer using electrons on the surface of helium</div>
-    <div style="font-size:0.9em; color:#888;">PI: Erika Kawakami &nbsp;|&nbsp; Total: ¥40,000,000</div>
+    <div style="font-size:0.9em; color:#888;">PI: Erika Kawakami &nbsp;|&nbsp; Total: ¥40,000k</div>
   </td>
 </tr>
 <tr><th colspan="2" style="padding-top:1.5em;">External Funding (Co-Investigator)</th></tr>
@@ -84,7 +84,7 @@ nav_order: 9
     <div><strong>JST ASPIRE Japan-UK Collaborative Research</strong></div>
     <div style="font-size:0.9em;">Large-scale integration of semiconductor quantum dot technology</div>
     <div style="font-size:0.9em; color:#888;">Japan PI: Tetsuo Kodera &nbsp;|&nbsp; UK PI: Shinya Kataoka</div>
-    <div style="font-size:0.9em; color:#888;">Co-investigator: Asher Jennings</div>
+    <div style="font-size:0.9em; color:#888;">Co-investigator: Asher Jennings &nbsp;|&nbsp; Total: ¥50,000k</div>
   </td>
 </tr>
 <tr>
@@ -92,7 +92,7 @@ nav_order: 9
   <td>
     <div><strong>JST Q-LEAP (Quantum Leap Flagship Program) Human Resource Development</strong></div>
     <div style="font-size:0.9em;">Online course and summer school development program for quantum technology education</div>
-    <div style="font-size:0.9em; color:#888;">PI: Atsushi Noguchi &nbsp;|&nbsp; Share: ¥1,200,000</div>
+    <div style="font-size:0.9em; color:#888;">PI: Atsushi Noguchi &nbsp;|&nbsp; Share: ¥1,200k</div>
   </td>
 </tr>
 </tbody>
