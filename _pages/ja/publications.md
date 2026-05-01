@@ -19,3 +19,7 @@ nav_order: 4
 
 </div>
 
+<p style="font-size: 0.85em; color: #888; margin-top: 2rem;">
+  研究室設立以前の論文は<a href="{{ '/cv/' | relative_url }}">プロフィールの論文ページ</a>をご覧ください。
+</p>
+
