@@ -92,7 +92,8 @@ nav_order: 9
   <td>
     <div><strong>JST 光・量子飛躍フラッグシッププログラム（Q-LEAP）人材育成プログラム</strong></div>
     <div style="font-size:0.9em;">量子技術教育のためのオンラインコース・サマースクール開発プログラム</div>
-    <div style="font-size:0.9em; color:#888;">研究代表者: 野口 篤史 &nbsp;|&nbsp; 分担者: 川上 恵里加 &nbsp;|&nbsp; 分担額: 1,200千円</div>
+    <div style="font-size:0.9em; color:#888;">研究代表者: 野口 篤史</div>
+    <div style="font-size:0.9em; color:#888;">分担者: 川上 恵里加 &nbsp;|&nbsp; 分担額: 1,200千円</div>
   </td>
 </tr>
 </tbody>
