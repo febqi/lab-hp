@@ -84,7 +84,7 @@ nav_order: 9
     <div><strong>JST ASPIRE Japan-UK Collaborative Research</strong></div>
     <div style="font-size:0.9em;">Large-scale integration of semiconductor quantum dot technology</div>
     <div style="font-size:0.9em; color:#888;">Japan PI: Tetsuo Kodera &nbsp;|&nbsp; UK PI: Shinya Kataoka</div>
-    <div style="font-size:0.9em; color:#888;">Co-investigator: Asher Jennings &nbsp;|&nbsp; Total: ¥50,000k</div>
+    <div style="font-size:0.9em; color:#888;">Co-investigator: Asher Jennings &nbsp;|&nbsp; Share: ¥50,000k</div>
   </td>
 </tr>
 <tr>
