@@ -8,13 +8,15 @@ nav: true
 nav_order: 9
 ---
 
-## External Funding (Principal Investigator)
-
 <table class="table table-sm" style="font-size: 0.9em;">
+<thead>
+<tr><th colspan="2" style="padding-top:1.2em;">External Funding (Principal Investigator)</th></tr>
+</thead>
+<tbody>
 <tr>
   <td style="white-space: nowrap; padding-right: 1em; color: #888;">2025–2029</td>
   <td>
-    <div><strong>JST ASPIRE (Acceleration of Innovative Research for Sustainable Internatonal Collaboration)</strong></div>
+    <div><strong>JST ASPIRE (Acceleration of Innovative Research for Sustainable International Collaboration)</strong></div>
     <div style="font-size:0.9em;">Realization of spin qubits using floating electrons on solid neon</div>
     <div style="font-size:0.9em; color:#888;">PI: Erika Kawakami &nbsp;|&nbsp; Total: ¥68,790,000</div>
   </td>
@@ -75,18 +77,15 @@ nav_order: 9
     <div style="font-size:0.9em; color:#888;">PI: Erika Kawakami &nbsp;|&nbsp; Total: ¥40,000,000</div>
   </td>
 </tr>
-</table>
-
-## External Funding (Co-Investigator)
-
-<table class="table table-sm" style="font-size: 0.9em;">
+<tr><th colspan="2" style="padding-top:1.5em;">External Funding (Co-Investigator)</th></tr>
 <tr>
   <td style="white-space: nowrap; padding-right: 1em; color: #888;">2025–2030</td>
   <td>
-    <div style="margin:0;"><strong>JST ASPIRE Japan-UK Collaborative Research</strong></div>
-    <div style="margin:0; font-size:0.9em;">Large-scale integration of semiconductor quantum dot technology</div>
-    <div style="margin:0; font-size:0.9em; color:#888;">Japan PI: Tetsuo Kodera &nbsp;|&nbsp; UK PI: Shinya Kataoka</div>
-    <div style="margin:0; font-size:0.9em; color:#888;">Co-investigators: Erika Kawakami, Asher Jennings</div>
+    <div><strong>JST ASPIRE Japan-UK Collaborative Research</strong></div>
+    <div style="font-size:0.9em;">Large-scale integration of semiconductor quantum dot technology</div>
+    <div style="font-size:0.9em; color:#888;">Japan PI: Tetsuo Kodera &nbsp;|&nbsp; UK PI: Shinya Kataoka</div>
+    <div style="font-size:0.9em; color:#888;">Co-investigator: Asher Jennings</div>
   </td>
 </tr>
+</tbody>
 </table>
