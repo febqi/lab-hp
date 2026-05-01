@@ -4,7 +4,7 @@ layout: page
 permalink: /outreach/
 title: outreach
 description: Review & tutorial articles, public lectures, and more
-nav: true
+nav: false
 nav_order: 6
 tabs: true
 ---

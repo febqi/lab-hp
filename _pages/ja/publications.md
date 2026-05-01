@@ -4,7 +4,7 @@ layout: page
 permalink: /publications/
 title: 論文
 description: 論文一覧（新しい順）。
-nav: true
+nav: false
 nav_order: 4
 ---
 

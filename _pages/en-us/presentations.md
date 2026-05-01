@@ -4,7 +4,7 @@ layout: page
 permalink: /presentations/
 title: presentations
 description: Oral and poster presentations.
-nav: true
+nav: false
 nav_order: 5
 tabs: true
 ---

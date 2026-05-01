@@ -4,7 +4,7 @@ layout: page
 permalink: /presentations/
 title: 発表
 description: 口頭・ポスター発表一覧。
-nav: true
+nav: false
 nav_order: 5
 tabs: true
 ---

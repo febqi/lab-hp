@@ -4,7 +4,7 @@ layout: page
 permalink: /outreach/
 title: アウトリーチ
 description: 解説記事・一般向け講演など
-nav: true
+nav: false
 nav_order: 6
 tabs: true
 ---
