@@ -5,7 +5,7 @@ permalink: /access/
 title: アクセス
 description: 研究室へのアクセス
 nav: true
-nav_order: 9
+nav_order: 10
 ---
 
 <div style="display:flex; justify-content:flex-start; align-items:flex-start; gap:1rem; margin-bottom:1rem;">
