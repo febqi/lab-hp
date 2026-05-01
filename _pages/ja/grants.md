@@ -16,7 +16,7 @@ nav_order: 9
 <tr>
   <td style="white-space: nowrap; padding-right: 1em; color: #888;">2025–2029</td>
   <td>
-    <div><strong>JST ASPIRE（国際共同研究加速基金）</strong></div>
+    <div><strong>JST ASPIRE</strong></div>
     <div style="font-size:0.9em;">固体ネオン上の浮揚電子によるスピン量子ビットの実現</div>
     <div style="font-size:0.9em; color:#888;">研究代表者: 川上 恵里加 &nbsp;|&nbsp; 総額: 68,790千円</div>
   </td>
