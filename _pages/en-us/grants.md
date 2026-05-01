@@ -99,21 +99,7 @@ nav_order: 9
 <tr>
   <td style="color: #888;">—</td>
   <td>
-    <div><strong>RIKEN Hakubi Program</strong></div>
-    <div style="font-size:0.9em; color:#888;">Erika Kawakami</div>
-  </td>
-</tr>
-<tr>
-  <td style="color: #888;">—</td>
-  <td>
-    <div><strong>RIKEN Cluster for Pioneering Research</strong></div>
-    <div style="font-size:0.9em; color:#888;">Erika Kawakami</div>
-  </td>
-</tr>
-<tr>
-  <td style="color: #888;">—</td>
-  <td>
-    <div><strong>RIKEN Center for Quantum Computing (RQC)</strong></div>
+    <div><strong>RIKEN budget</strong>　Hakubi Program · Cluster for Pioneering Research · Center for Quantum Computing</div>
     <div style="font-size:0.9em; color:#888;">Erika Kawakami</div>
   </td>
 </tr>
