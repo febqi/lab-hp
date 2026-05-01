@@ -75,7 +75,7 @@ nav_order: 9
   <div style="font-size:0.9em; color:#888;">PI: Denis Konstantinov &nbsp;|&nbsp; Co-investigator: Erika Kawakami</div>
 </td></tr>
 <tr><td>
-  <div><strong>RIKEN Incentive Research Project (奨励課題)</strong></div>
+  <div><strong>RIKEN Incentive Research Project</strong></div>
   <div style="font-size:0.9em; color:#888;">PI: Asher Jennings</div>
 </td></tr>
 </tbody>
