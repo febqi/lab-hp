@@ -81,7 +81,7 @@ nav_order: 9
 
 <table class="table table-sm" style="font-size: 0.9em;">
 <tr>
-  <td style="white-space: nowrap; padding-right: 1em; color: #888;">2025–2029</td>
+  <td style="white-space: nowrap; padding-right: 1em; color: #888;">2025–2030</td>
   <td>
     <div><strong>JST ASPIRE 日英共同研究課題</strong></div>
     <div style="font-size:0.9em;">半導体量子ドット技術の大規模スケール化</div>
