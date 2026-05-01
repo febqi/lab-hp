@@ -87,5 +87,13 @@ nav_order: 9
     <div style="font-size:0.9em; color:#888;">Co-investigator: Asher Jennings</div>
   </td>
 </tr>
+<tr>
+  <td style="white-space: nowrap; padding-right: 1em; color: #888;">2020–2023</td>
+  <td>
+    <div><strong>JST Q-LEAP (Quantum Leap Flagship Program) Human Resource Development</strong></div>
+    <div style="font-size:0.9em;">Online course and summer school development program for quantum technology education</div>
+    <div style="font-size:0.9em; color:#888;">PI: Atsushi Noguchi &nbsp;|&nbsp; Share: ¥1,200,000</div>
+  </td>
+</tr>
 </tbody>
 </table>

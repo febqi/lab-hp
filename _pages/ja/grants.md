@@ -87,5 +87,13 @@ nav_order: 9
     <div style="font-size:0.9em; color:#888;">分担者: Asher Jennings</div>
   </td>
 </tr>
+<tr>
+  <td style="white-space: nowrap; padding-right: 1em; color: #888;">2020–2023</td>
+  <td>
+    <div><strong>JST 光・量子飛躍フラッグシッププログラム（Q-LEAP）人材育成プログラム</strong></div>
+    <div style="font-size:0.9em;">量子技術教育のためのオンラインコース・サマースクール開発プログラム</div>
+    <div style="font-size:0.9em; color:#888;">研究代表者: 野口 篤史 &nbsp;|&nbsp; 分担額: 1,200,000円</div>
+  </td>
+</tr>
 </tbody>
 </table>
