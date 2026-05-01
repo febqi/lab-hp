@@ -95,5 +95,41 @@ nav_order: 9
     <div style="font-size:0.9em; color:#888; line-height:1.8;">研究代表者: 野口 篤史<br>分担者: 川上 恵里加 &nbsp;|&nbsp; 分担額: 1,200千円</div>
   </td>
 </tr>
+<tr><th colspan="2" style="padding-top:1.5em;">その他</th></tr>
+<tr>
+  <td style="color: #888;">—</td>
+  <td>
+    <div><strong>理研白眉プログラム</strong></div>
+    <div style="font-size:0.9em; color:#888;">川上 恵里加</div>
+  </td>
+</tr>
+<tr>
+  <td style="color: #888;">—</td>
+  <td>
+    <div><strong>理研開拓研究所</strong></div>
+    <div style="font-size:0.9em; color:#888;">川上 恵里加</div>
+  </td>
+</tr>
+<tr>
+  <td style="color: #888;">—</td>
+  <td>
+    <div><strong>理研量子コンピュータ研究センター</strong></div>
+    <div style="font-size:0.9em; color:#888;">川上 恵里加</div>
+  </td>
+</tr>
+<tr>
+  <td style="color: #888;">—</td>
+  <td>
+    <div><strong>沖縄科学技術大学院大学 KICKS</strong></div>
+    <div style="font-size:0.9em; color:#888;">川上 恵里加</div>
+  </td>
+</tr>
+<tr>
+  <td style="color: #888;">—</td>
+  <td>
+    <div><strong>理研奨励課題</strong></div>
+    <div style="font-size:0.9em; color:#888;">Asher Jennings</div>
+  </td>
+</tr>
 </tbody>
 </table>

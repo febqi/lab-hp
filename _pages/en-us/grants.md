@@ -95,5 +95,41 @@ nav_order: 9
     <div style="font-size:0.9em; color:#888; line-height:1.8;">PI: Atsushi Noguchi<br>Co-investigator: Erika Kawakami &nbsp;|&nbsp; Share: ¥1,200k</div>
   </td>
 </tr>
+<tr><th colspan="2" style="padding-top:1.5em;">Other</th></tr>
+<tr>
+  <td style="color: #888;">—</td>
+  <td>
+    <div><strong>RIKEN Hakubi Program</strong></div>
+    <div style="font-size:0.9em; color:#888;">Erika Kawakami</div>
+  </td>
+</tr>
+<tr>
+  <td style="color: #888;">—</td>
+  <td>
+    <div><strong>RIKEN Cluster for Pioneering Research</strong></div>
+    <div style="font-size:0.9em; color:#888;">Erika Kawakami</div>
+  </td>
+</tr>
+<tr>
+  <td style="color: #888;">—</td>
+  <td>
+    <div><strong>RIKEN Center for Quantum Computing (RQC)</strong></div>
+    <div style="font-size:0.9em; color:#888;">Erika Kawakami</div>
+  </td>
+</tr>
+<tr>
+  <td style="color: #888;">—</td>
+  <td>
+    <div><strong>OIST KICKS</strong></div>
+    <div style="font-size:0.9em; color:#888;">Erika Kawakami</div>
+  </td>
+</tr>
+<tr>
+  <td style="color: #888;">—</td>
+  <td>
+    <div><strong>RIKEN Incentive Research Project</strong></div>
+    <div style="font-size:0.9em; color:#888;">Asher Jennings</div>
+  </td>
+</tr>
 </tbody>
 </table>
