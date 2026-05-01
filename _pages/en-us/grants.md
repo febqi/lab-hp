@@ -3,7 +3,7 @@ page_id: grants
 layout: page
 permalink: /grants/
 title: grants
-description: External funding
+description: We gratefully acknowledge financial support from the following sources.
 nav: true
 nav_order: 9
 ---

@@ -3,7 +3,7 @@ page_id: grants
 layout: page
 permalink: /grants/
 title: グラント
-description: 外部資金
+description: 本研究は以下の機関からのご支援を受けています。深く感謝申し上げます。
 nav: true
 nav_order: 9
 ---
