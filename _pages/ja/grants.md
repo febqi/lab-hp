@@ -75,7 +75,7 @@ nav_order: 9
   <div style="font-size:0.9em; color:#888;">研究代表者: Denis Konstantinov &nbsp;|&nbsp; 分担者: 川上 恵里加</div>
 </td></tr>
 <tr><td>
-  <div><strong>理研奨励課題</strong></div>
+  <div><strong>理化学研究所 奨励課題</strong></div>
   <div style="font-size:0.9em; color:#888;">研究代表者: Asher Jennings</div>
 </td></tr>
 </tbody>
