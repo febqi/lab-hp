@@ -2,7 +2,7 @@
 layout: post
 title: FCP workshop at OIST
 date: 2024-06-07 00:00:00+0900
-description: Team presents at quantum technology workshop at OIST
+description: OIST Workshop "Quantum Technologies with Floating Charged Particles"
 tags: conference
 categories: news
 thumbnail: assets/img/fcp_workshop.png
