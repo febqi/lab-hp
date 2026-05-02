@@ -21,5 +21,6 @@ related_publications: true
 <div style="margin-top:2rem;"></div>
 
 <div class="publications">
+<style>div.publications h2 { display: none; }</style>
 {% bibliography --query @*[key=jennings2025rydberg] %}
 </div>

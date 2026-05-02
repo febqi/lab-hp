@@ -19,6 +19,7 @@ Electrons on liquid helium offer a clean platform for quantum computing, with sp
 
 <div style="margin-top:2rem;"></div>
 
-<div class="publications">
+<div class="publications" style="--publications-heading-display: none;">
+<style>div.publications h2 { display: none; }</style>
 {% bibliography --query @*[key=jennings2025rydberg] %}
 </div>
