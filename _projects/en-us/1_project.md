@@ -2,7 +2,7 @@
 page_id: project_1
 layout: page
 title: Rydberg Transitions
-description: Quantum capacitance via Rydberg transitions
+description: Quantum capacitance induced by Rydberg transitions
 img: assets/img/rydberg_rf.png
 importance: 1
 category: research
