@@ -37,11 +37,13 @@ nav_order: 2
 | Visiting Scientist | Hiroki Ikegami |
 | Senior Visiting Scientist | Kimitoshi Kono |
 
+<div style="margin-top:2rem;"></div>
+
 ## Interns
 
-| Name |
-|------|
-| Thomas |
-| Tetsu |
-| Josef |
-| Sander |
+| Name | Affiliation | Period |
+|------|-------------|--------|
+| Tetsuyoshi Yamada | Centrale Méditerranée | –Sep 2025 |
+| Thomas Giovansili | École Polytechnique | |
+| Itay Josef Barabash | McGill University | |
+| Sander van Haagen | TU Delft | –Aug 2024 |
