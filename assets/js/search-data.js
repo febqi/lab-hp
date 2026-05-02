@@ -34,40 +34,47 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/lab-hp/blog/";
           },
-        },{id: "nav-publications",
-          title: "publications",
-          description: "publications by categories in reversed chronological order.",
-          section: "Navigation menu",
-          handler: () => {
-            window.location.href = "/lab-hp/publications/";
-          },
-        },{id: "nav-presentations",
-          title: "presentations",
-          description: "Oral and poster presentations.",
-          section: "Navigation menu",
-          handler: () => {
-            window.location.href = "/lab-hp/presentations/";
-          },
-        },{id: "nav-outreach",
-          title: "outreach",
-          description: "Review &amp; tutorial articles, public lectures, and more",
-          section: "Navigation menu",
-          handler: () => {
-            window.location.href = "/lab-hp/outreach/";
-          },
-        },{id: "nav-projects",
+        },{id: "dropdown-publications",
+              title: "publications",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/lab-hp/publications/";
+              },
+            },{id: "dropdown-presentations",
+              title: "presentations",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/lab-hp/presentations/";
+              },
+            },{id: "dropdown-outreach",
+              title: "outreach",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/lab-hp/outreach/";
+              },
+            },{id: "dropdown-awards",
+              title: "awards",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/lab-hp/awards/";
+              },
+            },{id: "nav-projects",
           title: "projects",
           description: "Selected research projects and activities.",
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/lab-hp/projects/";
           },
-        },{id: "nav-repositories",
-          title: "repositories",
-          description: "",
+        },{id: "nav-grants",
+          title: "grants",
+          description: "We gratefully acknowledge financial support from the following sources.",
           section: "Navigation menu",
           handler: () => {
-            window.location.href = "/lab-hp/repositories/";
+            window.location.href = "/lab-hp/grants/";
           },
         },{id: "nav-access",
           title: "access",
@@ -76,7 +83,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/lab-hp/access/";
           },
-        },{id: "post-welcome-back-xianjing",
+        },{id: "post-テスト",
+        
+          title: "テスト",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/lab-hp/blog/2026/test/";
+          
+        },
+      },{id: "post-welcome-back-xianjing",
         
           title: "Welcome back, Xianjing!",
         
@@ -179,7 +197,7 @@ ninja.data = [{
         
           title: "FCP workshop at OIST",
         
-        description: "Team presents at quantum technology workshop at OIST",
+        description: "OIST Workshop &quot;Quantum Technologies with Floating Charged Particles&quot;",
         section: "Posts",
         handler: () => {
           
@@ -276,6 +294,11 @@ ninja.data = [{
           description: "量子の重ね合わせともつれを使う新しいコンピュータ",
           section: "Projects",handler: () => {
               window.location.href = "/lab-hp/projects/5-project/";
+            },},{id: "projects-液体ヘリウム上の浮揚電子",
+          title: '液体ヘリウム上の浮揚電子',
+          description: "液体ヘリウム表面の真空中に浮かぶ電子と量子コンピュータ",
+          section: "Projects",handler: () => {
+              window.location.href = "/lab-hp/projects/6-project/";
             },},{
         id: 'social-email',
         title: 'Send an email',

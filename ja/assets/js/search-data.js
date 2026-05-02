@@ -34,40 +34,47 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/lab-hp/ja/blog/";
           },
-        },{id: "nav-論文",
-          title: "論文",
-          description: "論文一覧（新しい順）。",
-          section: "Navigation menu",
-          handler: () => {
-            window.location.href = "/lab-hp/ja/publications/";
-          },
-        },{id: "nav-発表",
-          title: "発表",
-          description: "口頭・ポスター発表一覧。",
-          section: "Navigation menu",
-          handler: () => {
-            window.location.href = "/lab-hp/ja/presentations/";
-          },
-        },{id: "nav-アウトリーチ",
-          title: "アウトリーチ",
-          description: "解説記事・一般向け講演など",
-          section: "Navigation menu",
-          handler: () => {
-            window.location.href = "/lab-hp/ja/outreach/";
-          },
-        },{id: "nav-プロジェクト",
+        },{id: "dropdown-論文",
+              title: "論文",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/lab-hp/ja/publications/";
+              },
+            },{id: "dropdown-発表",
+              title: "発表",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/lab-hp/ja/presentations/";
+              },
+            },{id: "dropdown-アウトリーチ",
+              title: "アウトリーチ",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/lab-hp/ja/outreach/";
+              },
+            },{id: "dropdown-受賞",
+              title: "受賞",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/lab-hp/ja/awards/";
+              },
+            },{id: "nav-プロジェクト",
           title: "プロジェクト",
           description: "研究プロジェクト・活動紹介",
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/lab-hp/ja/projects/";
           },
-        },{id: "nav-リポジトリ",
-          title: "リポジトリ",
-          description: "",
+        },{id: "nav-グラント",
+          title: "グラント",
+          description: "以下の助成・支援を受けて研究を行っています。深く感謝申し上げます。",
           section: "Navigation menu",
           handler: () => {
-            window.location.href = "/lab-hp/ja/repositories/";
+            window.location.href = "/lab-hp/ja/grants/";
           },
         },{id: "nav-アクセス",
           title: "アクセス",
@@ -76,7 +83,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/lab-hp/ja/access/";
           },
-        },{id: "post-xianjingおかえり",
+        },{id: "post-テスト",
+        
+          title: "テスト",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/lab-hp/ja/blog/2026/test/";
+          
+        },
+      },{id: "post-xianjingおかえり",
         
           title: "Xianjingおかえり！",
         
@@ -175,11 +193,11 @@ ninja.data = [{
             window.location.href = "/lab-hp/ja/blog/2024/sander-farewell/";
           
         },
-      },{id: "post-oistでfcpワークショップ",
+      },{id: "post-oistワークショップ-浮揚荷電粒子を用いた量子技術",
         
-          title: "OISTでFCPワークショップ",
+          title: "OISTワークショップ「浮揚荷電粒子を用いた量子技術」",
         
-        description: "OISTでの量子技術ワークショップに参加",
+        description: "浮揚荷電粒子を用いた量子技術に関するOISTワークショップ",
         section: "Posts",
         handler: () => {
           
@@ -276,6 +294,11 @@ ninja.data = [{
           description: "量子の重ね合わせともつれを使う新しいコンピュータ",
           section: "Projects",handler: () => {
               window.location.href = "/lab-hp/ja/projects/5-project/";
+            },},{id: "projects-液体ヘリウム上の浮揚電子",
+          title: '液体ヘリウム上の浮揚電子',
+          description: "液体ヘリウム表面の真空中に浮かぶ電子と量子コンピュータ",
+          section: "Projects",handler: () => {
+              window.location.href = "/lab-hp/ja/projects/6-project/";
             },},{
         id: 'social-email',
         title: 'Send an email',
