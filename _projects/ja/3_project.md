@@ -16,6 +16,8 @@ category: research
 
 トンネルダイオード発振器（TDO）を用いた極低温マイクロ波源を開発しており、商用の室温源よりも優れた振幅安定性を実現しました。
 
+{% include figure.liquid path="assets/img/TDO.png" class="img-fluid rounded z-depth-1" width="100%" %}
+
 **主な研究テーマ：**
 
 - TDOベースの極低温マイクロ波源
