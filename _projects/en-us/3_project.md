@@ -3,7 +3,7 @@ page_id: project_3
 layout: page
 title: Cryogenic Electronics
 description: Cryogenic microwave sources for scalable quantum computation
-img: assets/img/7.jpg
+img: assets/img/project3_tdo.png
 importance: 3
 category: research
 ---

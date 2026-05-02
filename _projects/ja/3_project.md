@@ -3,7 +3,7 @@ page_id: project_3
 layout: page
 title: 極低温エレクトロニクス
 description: 量子ビット数の拡張に向けた極低温マイクロ波源の開発
-img: assets/img/7.jpg
+img: assets/img/project3_tdo.png
 importance: 3
 category: research
 ---
