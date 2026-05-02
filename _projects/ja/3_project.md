@@ -26,8 +26,6 @@ category: research
 
 <div style="margin-top:2rem;"></div>
 
-## 論文
-
 <div class="publications">
 {% bibliography --query @*[key=grytsenko2024tdo] %}
 </div>

@@ -26,8 +26,6 @@ We develop cryogenic microwave sources based on tunnel diode oscillators (TDOs),
 
 <div style="margin-top:2rem;"></div>
 
-## Publications
-
 <div class="publications">
 {% bibliography --query @*[key=grytsenko2024tdo] %}
 </div>
