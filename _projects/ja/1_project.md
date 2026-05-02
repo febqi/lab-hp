@@ -2,7 +2,7 @@
 page_id: project_1
 layout: page
 title: 液体ヘリウム上の電子
-description: 清浄な環境でのスケーラブルな電子スピン量子ビット
+description: リュードベリ遷移による量子キャパシタンス
 img: assets/img/rydberg_rf.png
 importance: 1
 category: research

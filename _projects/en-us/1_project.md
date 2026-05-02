@@ -2,7 +2,7 @@
 page_id: project_1
 layout: page
 title: Electrons on Liquid Helium
-description: Scalable electron spin qubits in a pristine environment
+description: Quantum capacitance via Rydberg transitions
 img: assets/img/rydberg_rf.png
 importance: 1
 category: research
