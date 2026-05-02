@@ -21,3 +21,11 @@ category: research
 - TDOベースの極低温マイクロ波源
 - 極低温信号生成・増幅
 - 量子ビット制御システムへの統合
+
+<div style="margin-top:2rem;"></div>
+
+## 論文
+
+<div class="publications">
+{% bibliography --query @*[key=grytsenko2024tdo] %}
+</div>
