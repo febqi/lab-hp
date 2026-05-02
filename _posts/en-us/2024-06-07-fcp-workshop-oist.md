@@ -8,6 +8,8 @@ categories: news
 thumbnail: assets/img/fcp_workshop.png
 ---
 
-We all presented posters and gave talks at the FCP workshop on quantum technology at OIST. Thanks to the organizers for a great event!
+We all presented posters and gave talks. We thank Denis and OIST for organizing such a wonderful workshop!
+
+**[OIST Workshop "Quantum Technologies with Floating Charged Particles"](https://groups.oist.jp/fcp)**
 
 {% include figure.liquid path="assets/img/fcp_workshop.png" class="img-fluid rounded z-depth-1" width="90%" %}

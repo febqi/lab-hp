@@ -8,6 +8,8 @@ categories: news
 thumbnail: assets/img/fcp_workshop.png
 ---
 
-OISTで開催された量子技術に関するFCPワークショップでポスター発表と講演を行いました。主催者の皆さん、ありがとうございました！
+We all presented posters and gave talks. We thank Denis and OIST for organizing such a wonderful workshop!
+
+**[OIST Workshop "Quantum Technologies with Floating Charged Particles"](https://groups.oist.jp/fcp)**
 
 {% include figure.liquid path="assets/img/fcp_workshop.png" class="img-fluid rounded z-depth-1" width="90%" %}
