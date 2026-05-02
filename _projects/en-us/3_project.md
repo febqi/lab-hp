@@ -19,5 +19,6 @@ To realize a large-scale quantum computer, it is necessary to connect qubits ope
 <div style="margin-top:2rem;"></div>
 
 <div class="publications">
+<style>div.publications h2 { display: none; }</style>
 {% bibliography --query @*[key=grytsenko2024tdo] %}
 </div>
