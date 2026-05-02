@@ -1,7 +1,7 @@
 ---
 page_id: project_1
 layout: page
-title: 液体ヘリウム上の電子
+title: リュードベリ遷移
 description: リュードベリ遷移による量子キャパシタンス
 img: assets/img/rydberg_rf.png
 importance: 1

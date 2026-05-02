@@ -1,7 +1,7 @@
 ---
 page_id: project_1
 layout: page
-title: Electrons on Liquid Helium
+title: Rydberg Transitions
 description: Quantum capacitance via Rydberg transitions
 img: assets/img/rydberg_rf.png
 importance: 1
