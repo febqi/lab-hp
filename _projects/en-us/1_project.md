@@ -6,33 +6,19 @@ description: Scalable electron spin qubits in a pristine environment
 img: assets/img/helium_plasmon-06.png
 importance: 1
 category: research
-related_publications: true
 ---
 
 <div class="alert alert-warning" role="alert" style="font-size:0.9em;">
   🚧 This page is under construction.
 </div>
 
-Electrons floating above the surface of liquid helium have long been used as a system for condensed matter physics research. Liquid helium has an exceptionally uniform and clean surface, resulting in extremely high electron mobility compared to electrons in solids. It is also possible to trap a large number of electrons under nearly identical, uniform conditions. However, a drawback of using a liquid substrate is that the surface fluctuates over time.
+Electrons on liquid helium offer a clean platform for quantum computing, with spin states expected to have long coherence times. However, spin-state detection remains challenging. A promising approach maps the spin state onto a Rydberg state, detectable via an LC tank circuit with high sensitivity and small footprint. As a proof of concept, we detect Rydberg transitions of an electron ensemble using frequency-modulated microwaves. Adiabatic transitions induce measurable quantum capacitance. The achieved sensitivity allows resolving the Rydberg transition of a single electron, paving the way for scalable spin-state readout and helium-based quantum technologies.
 
-## Strong Coupling Between Plasmons and an LC Resonator
+<img src="{{ '/assets/img/rydberg_rf.png' | relative_url }}" class="img-fluid rounded z-depth-1" style="width:70%; display:block; margin:0 auto;">
+<p style="font-size:0.85em; color:#888; text-align:center; margin-top:0.5rem;">Reflected RF power measured with a spectrum analyzer as a function of the microwave (MW) carrier frequency f<sub>MW</sub>. The frequency modulation (FM) parameters are f<sub>mf</sub> = 1 kHz and f<sub>ma</sub> = 768 MHz. Sideband signals appear at f = f<sub>RF</sub> ± f<sub>mf</sub> around f<sub>MW</sub> = 165 GHz, corresponding to the Rydberg transition.</p>
 
-{% include figure.liquid loading="eager" path="assets/img/helium_plasmon-06.png" class="img-fluid rounded z-depth-1" %}
+<div style="margin-top:2rem;"></div>
 
-Three concentric ring electrodes are placed facing each other with a 2 mm gap to form a capacitance. The bottom electrode is immersed in approximately 1 mm of liquid helium, and 10$$^8$$ electrons are floated on its surface. A superconducting spiral inductor is connected to the top electrode to form a low-loss LC resonator.
-
-The electrons are not completely independent — they interact with each other via Coulomb interactions. As a result, the electrons undergo collective oscillations in the x and y directions, forming a quasiparticle known as a localized plasmon, which couples to the oscillating electric field driven by the RF signal. We observed an anti-crossing between the plasmon frequency and the resonance frequency of the LC resonator.
-
-Plasmons are widely observed in metallic nanoparticles and other material systems, with a broad range of applications. However, in electron systems within solids, scattering and losses are large, making clean resonance responses difficult to observe. In contrast, electrons floating in vacuum form an extremely clean physical system, enabling the observation of low-loss plasmon resonances in quantitative agreement with simulations.
-
-## Future Directions
-
-{% include figure.liquid loading="eager" path="assets/img/helium_plasmon-05.png" class="img-fluid rounded z-depth-1" %}
-
-Leveraging the exceptionally clean nature of this electron system, we aim to develop it into a simulation platform for pure many-body physics that can be directly compared with theory.
-
-**Key topics:**
-
-- Strong coupling experiments between plasmons and LC resonators
-- Development as a simulation platform for many-body physics
-- High-sensitivity readout via superconducting spiral inductors
+<div class="publications">
+{% bibliography --query @*[key=jennings2025rydberg] %}
+</div>
