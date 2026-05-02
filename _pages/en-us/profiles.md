@@ -36,3 +36,12 @@ nav_order: 2
 | Administrative Part Timer | Rie Ishikawa |
 | Visiting Scientist | Hiroki Ikegami |
 | Senior Visiting Scientist | Kimitoshi Kono |
+
+## Interns
+
+| Name |
+|------|
+| Thomas |
+| Tetsu |
+| Josef |
+| Sander |
