@@ -25,5 +25,5 @@ nav_order: 4
 </div>
 
 <p style="font-size: 0.85em; color: #888; margin-top: 2rem;">
-  Papers from before the lab was established are listed on the <a href="{{ '/cv/' | relative_url }}">profile publications page</a>.
+  For papers before 2023, see the <a href="{{ '/cv/' | relative_url }}">profile publications page</a>.
 </p>
