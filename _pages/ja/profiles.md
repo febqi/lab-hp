@@ -43,7 +43,7 @@ nav_order: 2
 
 | 名前 | 所属 | 期間 |
 |------|------|------|
-| Tetsuyoshi Yamada | Centrale Méditerranée | –2025年9月 |
-| Thomas Giovansili | École Polytechnique | |
-| Itay Josef Barabash | McGill University | |
-| Sander van Haagen | TU Delft | –2024年8月 |
+| Tetsuyoshi Yamada | Centrale Méditerranée | 2025年7–9月 |
+| Thomas Giovansili | École Polytechnique | 2025年4–8月 |
+| Itay Josef Barabash | McGill University | 2024年7–9月 |
+| Sander van Haagen | TU Delft | 2024年6–8月 |
