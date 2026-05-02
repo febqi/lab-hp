@@ -100,6 +100,8 @@ horizontal: false
 </div>
 {% endif %}
 
+<div style="margin-top:2rem;"></div>
+
 ## コードチュートリアル
 
 <table class="table table-sm" style="font-size: 0.95em;">
