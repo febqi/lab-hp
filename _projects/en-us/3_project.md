@@ -2,27 +2,16 @@
 page_id: project_3
 layout: page
 title: Cryogenic Electronics
-description: Cryogenic microwave sources for scalable quantum computation
+description: Development of cryogenic microwave sources for scalable quantum computing
 img: assets/img/project3_tdo.png
 importance: 3
 category: research
 ---
 
-<div class="alert alert-warning" role="alert" style="font-size:0.9em;">
-  🚧 This page is under construction.
-</div>
+To realize a large-scale quantum computer, it is necessary to connect qubits operating at cryogenic temperatures with room-temperature instruments via coaxial cables. However, the number of such cables is physically constrained, making it essential to develop measurement devices that function at low temperatures. Since qubits are controlled by microwaves, we developed a compact microwave oscillator based on a tunnel diode that operates reliably under cryogenic conditions. By connecting a tunnel diode, which exhibits negative resistance, to an LC resonator and applying a DC voltage, microwave signals are generated. The oscillator is compact (2×2 cm), operates stably at low temperatures, and exhibits smaller amplitude fluctuations than commercial microwave sources. Because amplitude stability directly impacts qubit readout fidelity, this oscillator enables more precise quantum state measurements.
 
-Scaling quantum computers to large numbers of qubits requires control electronics that operate at cryogenic temperatures, eliminating the need for complex wiring between room temperature and millikelvin stages.
-
-We develop cryogenic microwave sources based on tunnel diode oscillators (TDOs), achieving amplitude stability superior to commercial room-temperature sources.
-
-<img src="{{ '/assets/img/TDO.png' | relative_url }}" class="img-fluid rounded z-depth-1" style="width:75%;">
-
-**Key topics:**
-
-- Tunnel diode oscillator (TDO) based microwave sources
-- Cryogenic signal generation and amplification
-- Integration with qubit control systems
+<img src="{{ '/assets/img/tdo_sample_en.png' | relative_url }}" class="img-fluid rounded z-depth-1" style="width:90%; display:block; margin:0 auto;">
+<p style="font-size:0.85em; color:#888; text-align:center; margin-top:0.5rem;">The developed microwave oscillator successfully operates at cryogenic temperatures (10 mK). In the circuit diagram, –R represents the tunnel diode. The capacitor (C) is a varactor diode used to tune the frequency in the range of 10 MHz, and the inductor (L) is a microfabricated superconducting inductor to minimize resistive losses.</p>
 
 <div style="margin-top:2rem;"></div>
 
