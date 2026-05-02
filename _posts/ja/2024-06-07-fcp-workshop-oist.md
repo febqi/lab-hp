@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OISTでFCPワークショップ
+title: OISTワークショップ「浮揚荷電粒子を用いた量子技術」
 date: 2024-06-07 00:00:00+0900
 description: 浮揚荷電粒子を用いた量子技術に関するOISTワークショップ
 tags: conference
