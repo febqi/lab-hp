@@ -1,7 +1,7 @@
 ---
 page_id: dropdown_research
 layout: page
-title: research
+title: publications & more
 nav: true
 nav_order: 4
 dropdown: true
