@@ -16,7 +16,7 @@ Scaling quantum computers to large numbers of qubits requires control electronic
 
 We develop cryogenic microwave sources based on tunnel diode oscillators (TDOs), achieving amplitude stability superior to commercial room-temperature sources.
 
-<img src="{{ '/assets/img/TDO.png' | relative_url }}" class="img-fluid rounded z-depth-1" style="width:100%; max-width:100%;">
+<img src="{{ '/assets/img/TDO.png' | relative_url }}" class="img-fluid rounded z-depth-1" style="width:75%;">
 
 **Key topics:**
 
