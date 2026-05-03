@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "量子情報科学の研究を行う川上恵里加へのインタビュー"
+title: "量子情報科学の研究を行う川上恵里加博士へのインタビュー"
 date: 2023-02-01 00:00:00+0900
 description: 在日フランス大使館「Portraits de femmes en sciences」掲載インタビュー（2023年2月）
 tags: interview outreach
