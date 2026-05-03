@@ -22,7 +22,7 @@ tabs: true
   {% for year in years %}
     <li{% if forloop.first %} class="active"{% endif %}><a href="#">{{ year }}</a></li>
   {% endfor %}
-  <li><a href="#">〜2024年</a></li>
+  <li><a href="#">〜2023年</a></li>
 </ul>
 
 <ul id="tab-presentations-ja" class="tab-content">

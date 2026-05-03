@@ -896,7 +896,8 @@ footer.sticky-bottom {
 
 // Global .links button styling (for outreach and other pages outside .publications)
 a.doi.btn,
-a.isbn.btn {
+a.isbn.btn,
+a.issn.btn {
   color: var(--global-text-color) !important;
   border-color: var(--global-text-color) !important;
 }
@@ -927,6 +928,18 @@ div.doi.hidden {
   p { margin: 0; padding: 0.5rem 0; color: var(--global-text-color) !important; }
 }
 div.doi.hidden.open {
+  max-height: 100px;
+  border: dashed 1px var(--global-text-color);
+  background-color: var(--global-bg-color);
+}
+div.issn.hidden {
+  font-size: 0.875rem;
+  max-height: 0px;
+  overflow: hidden;
+  transition: max-height 0.15s ease;
+  p { margin: 0; padding: 0.5rem 0; color: var(--global-text-color) !important; }
+}
+div.issn.hidden.open {
   max-height: 100px;
   border: dashed 1px var(--global-text-color);
   background-color: var(--global-bg-color);

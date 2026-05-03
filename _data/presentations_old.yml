@@ -1,25 +1,5 @@
 # Presentations before April 2023
 
-- year: 2024
-  date: "Mar. 2024"
-  type: Oral
-  lang: E
-  title: "Cryogenic microwave source for qubit read-out"
-  presenter_html: '<span class="author"><u>Ivan Grytsenko</u></span>, <u>Oleksiy Rybalko</u>, <u>Yiran Tian</u>, <u>Asher Jennings</u>, <u>Rajesh Mohan</u>, <u>Erika Kawakami</u><sup>*</sup>'
-  conference: "March meeting 2024"
-  reviewed: true
-  venue: "Minneapolis"
-
-- year: 2024
-  date: "Mar. 2024"
-  type: Oral
-  lang: E
-  title: "RF Reflectometry of the Rydberg State of Electrons on Helium: Towards a Helium-Based Quantum Computer"
-  presenter_html: '<span class="author"><u>Erika Kawakami</u><sup>*</sup></span>, <u>Asher Jennings</u>, <u>Ivan Grytsenko</u>, <u>Yiran Tian</u>, <u>Oleksiy Rybalko</u>'
-  conference: "March meeting 2024"
-  reviewed: true
-  venue: "Minneapolis"
-
 - year: 2023
   date: "Oct. 2023"
   type: Oral

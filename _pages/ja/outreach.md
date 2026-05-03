@@ -34,9 +34,11 @@ tabs: true
     </div>
     <div><br><span class="author">{% if article.authors_ja_html %}{{ article.authors_ja_html }}{% else %}{{ article.authors_html }}{% endif %}</span></div>
     <div><em>{{ article.journal }}</em></div>
+    {% if article.issn %}<div class="issn hidden"><p>ISSN: {{ article.issn }}</p></div>{% endif %}
     <div class="links">
       {% if article.journal_url %}<a href="{{ article.journal_url }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Journal</a>{% endif %}
       {% if article.doi %}<a class="doi btn btn-sm z-depth-0" role="button">DOI</a>{% endif %}
+      {% if article.issn %}<a class="issn btn btn-sm z-depth-0" role="button">ISSN</a>{% endif %}
       {% if article.draft_url %}<a href="{{ article.draft_url }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Draft</a>{% endif %}
     </div>
     {% if article.doi %}<div class="doi hidden"><p style="color:var(--global-text-color);padding:0.5rem 0;margin:0;">https://doi.org/{{ article.doi }}</p></div>{% endif %}

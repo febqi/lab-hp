@@ -25,6 +25,9 @@ $(document).ready(function () {
   $("a.isbn").click(function () {
     $(this).parent().parent().find(".isbn.hidden").toggleClass("open");
   });
+  $("a.issn").click(function () {
+    $(this).parent().parent().find(".issn.hidden").toggleClass("open");
+  });
   $("a").removeClass("waves-effect waves-light");
 
   // bootstrap-toc

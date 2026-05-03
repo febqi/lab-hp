@@ -142,3 +142,190 @@
   invited: true
   url: "https://sites.google.com/phys.ncku.edu.tw/joint-international-workshop/introduction"
   venue: "National Cheng Kung University, Taiwan"
+
+- year: 2025
+  date: "Mar 4, 2025"
+  type: Oral
+  lang: ja
+  title: "液体ヘリウムおよび固体ネオン表面に浮かぶ電子"
+  conference: "「量子ビット・量子センサーを実現する量子ナノ材料」"
+  presenter_html: '<span class="author"><u>川上恵里加</u><sup>*</sup></span>'
+  presenter_en_html: '<span class="author"><u>Erika Kawakami</u><sup>*</sup></span>'
+  invited: true
+  url: "http://jvss.jp/chapter/kanto/files/2025_godo/index.html"
+
+- year: 2024
+  date: "Nov 4–8, 2024"
+  type: Poster
+  lang: en
+  title: "Towards detection of spin qubits on solid neon"
+  conference: "SpinQubit6"
+  presenter_html: '<span class="author"><u>Yiran Tian</u>/<u>Asher Jennings</u>, <u>Ivan Grytsenko</u>, <u>Oleksiy Rybalko</u>, Xianjing Zhou, Dafei Jin, H. Terai, H. Kutsuma, S. Tamate, and <u>Erika Kawakami</u><sup>*</sup></span>'
+  reviewed: true
+  url: "https://sq6.au/"
+  venue: "Doltone House, Sydney"
+
+- year: 2024
+  date: "Nov 4–8, 2024"
+  type: Oral
+  lang: en
+  title: "Investigating Electrons on Helium with RF Reflectometry"
+  conference: "SpinQubit6"
+  presenter_html: '<span class="author"><u>Erika Kawakami</u><sup>*</sup></span>'
+  invited: true
+  url: "https://sq6.au/"
+  venue: "Doltone House, Sydney"
+
+- year: 2024
+  date: "Oct 16–18, 2024"
+  type: Oral
+  lang: en
+  title: "Exploring Quantum Computing Potential with Surface Electrons"
+  conference: "INQA Conference 2024"
+  presenter_html: '<span class="author"><u>Erika Kawakami</u><sup>*</sup></span>'
+  invited: true
+  url: "https://gakujutsushukai.jp/inqa2024?locale=en"
+  venue: "Miraikan, Tokyo"
+
+- year: 2024
+  date: "Sep 24–Oct 4, 2024"
+  type: Oral
+  lang: en
+  title: "Towards Quantum Computing Using Floating Electrons on Cryogenic Substrates"
+  conference: "CQD 2024"
+  presenter_html: '<span class="author"><u>Erika Kawakami</u><sup>*</sup></span>'
+  invited: true
+  url: "https://groups.oist.jp/cqd"
+  venue: "OIST-seaside house, Okinawa"
+
+- year: 2024
+  date: "Sep 24–27, 2024"
+  type: Oral
+  lang: en
+  title: "Coupling Floating Electrons on Liquid Helium to an LC Resonator"
+  conference: "The 14th Japan-US Joint Seminar on Quantum Electronics and Laser Spectroscopy"
+  presenter_html: '<span class="author"><u>Erika Kawakami</u><sup>*</sup></span>'
+  invited: true
+  url: "https://www.usjapan-qels2024.com"
+  venue: "Stanford University"
+
+- year: 2024
+  date: "Sep 3–6, 2024"
+  type: Oral
+  lang: en
+  title: "Coupling Floating Electrons to Resonators"
+  conference: "RIKEN–LBNL Workshop on Quantum Information Science"
+  presenter_html: '<span class="author"><u>Erika Kawakami</u><sup>*</sup></span>'
+  invited: true
+  url: "https://conferences.lbl.gov/event/1747/timetable/#20240906"
+  venue: "UC Berkeley"
+
+- year: 2024
+  date: "Jul 24–30, 2024"
+  type: Oral
+  lang: en
+  title: "Plasmon-photon coupling using electrons on helium"
+  conference: "QFS 2024"
+  presenter_html: '<span class="author"><u>Asher Jennings</u><sup>*</sup>/Hiroki Ikegami, <u>Ivan Grytsenko</u>, <u>Yiran Tian</u>, <u>Oleksiy Rybalko</u>, <u>Erika Kawakami</u></span>'
+  invited: true
+  url: "https://pwd.aa.ufl.edu/qfs/"
+  venue: "Hyatt Regency Jacksonville Riverfront, Florida"
+
+- year: 2024
+  date: "May 28–31, 2024"
+  type: Poster
+  lang: en
+  title: "Cryogenic microwave source for scalable quantum-computing"
+  conference: "Quantum Technologies with Floating Charged Particles"
+  presenter_html: '<span class="author"><u>Ivan Grytsenko</u>/<u>Oleksiy Rybalko</u>, <u>Asher Jennings</u>, <u>Yiran Tian</u>, <u>Rajesh Mohan</u>, Sander van Haagen, <u>Erika Kawakami</u></span>'
+  reviewed: true
+  url: "https://groups.oist.jp/cws/event/quantum-technologies-floating-charged-particles"
+  venue: "OIST-seaside house, Okinawa"
+
+- year: 2024
+  date: "May 28–31, 2024"
+  type: Oral
+  lang: en
+  title: "Coupling Plasmons on Liquid Helium to an LC Resonator"
+  conference: "Quantum Technologies with Floating Charged Particles"
+  presenter_html: '<span class="author"><u>Asher Jennings</u>/Hiroki Ikegami, <u>Ivan Grytsenko</u>, <u>Yiran Tian</u>, <u>Oleksiy Rybalko</u>, <u>Erika Kawakami</u></span>'
+  reviewed: true
+  url: "https://groups.oist.jp/cws/event/quantum-technologies-floating-charged-particles"
+  venue: "OIST-seaside house, Okinawa"
+
+- year: 2024
+  date: "May 28–31, 2024"
+  type: Poster
+  lang: en
+  title: "Rydberg state detection of surface electrons on helium by RF Reflectometry"
+  conference: "Quantum Technologies with Floating Charged Particles"
+  presenter_html: '<span class="author"><u>Asher Jennings</u>/<u>Ivan Grytsenko</u>, <u>Oleksiy Rybalko</u>, <u>Yiran Tian</u>, <u>Erika Kawakami</u></span>'
+  reviewed: true
+  url: "https://groups.oist.jp/cws/event/quantum-technologies-floating-charged-particles"
+  venue: "OIST-seaside house, Okinawa"
+
+- year: 2024
+  date: "May 28–31, 2024"
+  type: Poster
+  lang: en
+  title: "Towards detection of spin qubits on solid neon"
+  conference: "Quantum Technologies with Floating Charged Particles"
+  presenter_html: '<span class="author"><u>Yiran Tian</u>/<u>Asher Jennings</u>, <u>Ivan Grytsenko</u>, <u>Oleksiy Rybalko</u>, Xianjing Zhou, Dafei Jin, H. Terai, H. Kutsuma, <u>Erika Kawakami</u></span>'
+  reviewed: true
+  url: "https://groups.oist.jp/cws/event/quantum-technologies-floating-charged-particles"
+  venue: "OIST-seaside house, Okinawa"
+
+- year: 2024
+  date: "May 28–31, 2024"
+  type: Poster
+  lang: en
+  title: "Rydberg state detection of surface electrons on helium with cryogenic LC circuit using frequency modulation"
+  conference: "Quantum Technologies with Floating Charged Particles"
+  presenter_html: '<span class="author"><u>Asher Jennings</u>/<u>Ivan Grytsenko</u>, <u>Oleksiy Rybalko</u>, <u>Yiran Tian</u>, <u>Erika Kawakami</u></span>'
+  reviewed: true
+  url: "https://groups.oist.jp/cws/event/quantum-technologies-floating-charged-particles"
+  venue: "OIST-seaside house, Okinawa"
+
+- year: 2024
+  date: "May 28–31, 2024"
+  type: Oral
+  lang: en
+  title: "Coupling an Ensemble of Electrons on Liquid Helium to an RF Circuit"
+  conference: "Quantum Technologies with Floating Charged Particles"
+  presenter_html: '<span class="author"><u>Erika Kawakami</u><sup>*</sup></span>'
+  invited: true
+  url: "https://groups.oist.jp/cws/event/quantum-technologies-floating-charged-particles"
+  venue: "OIST-seaside house, Okinawa"
+
+- year: 2024
+  date: "May 21–23, 2024"
+  type: Oral
+  lang: en
+  title: "Coupling surface electrons on helium to an RF resonator"
+  conference: "Czech-Japan workshop on quantum information"
+  presenter_html: '<span class="author"><u>Erika Kawakami</u><sup>*</sup>/<u>Asher Jennings</u>, <u>Ivan Grytsenko</u>, <u>Yiran Tian</u>, <u>Oleksiy Rybalko</u></span>'
+  invited: true
+  venue: "東京大学本郷キャンパス"
+  venue_en: "University of Tokyo (Hongo)"
+
+- year: 2024
+  date: "Mar 3–8, 2024"
+  type: Oral
+  lang: en
+  title: "Cryogenic microwave source for qubit read-out"
+  conference: "March meeting 2024"
+  presenter_html: '<span class="author"><u>Ivan Grytsenko</u>/<u>Oleksiy Rybalko</u>, <u>Yiran Tian</u>, <u>Asher Jennings</u>, <u>Rajesh Mohan</u>, <u>Erika Kawakami</u><sup>*</sup></span>'
+  reviewed: true
+  url: "https://march.aps.org/"
+  venue: "Minneapolis convention center"
+
+- year: 2024
+  date: "Mar 3–8, 2024"
+  type: Oral
+  lang: en
+  title: "RF Reflectometry of the Rydberg State of Electrons on Helium: Towards a Helium-Based Quantum Computer"
+  conference: "March meeting 2024"
+  presenter_html: '<span class="author"><u>Erika Kawakami</u><sup>*</sup>/<u>Asher Jennings</u>, <u>Ivan Grytsenko</u>, <u>Yiran Tian</u>, <u>Oleksiy Rybalko</u></span>'
+  reviewed: true
+  url: "https://march.aps.org/"
+  venue: "Minneapolis convention center"
