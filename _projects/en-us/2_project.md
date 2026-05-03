@@ -1,7 +1,7 @@
 ---
 page_id: intro
 layout: page
-title: Research Overview
+title: Research Introduction for General Audience
 description: Physics and quantum applications of electrons floating on liquid helium and solid neon
 img: assets/img/intro_floating_electron.png
 importance: 0
