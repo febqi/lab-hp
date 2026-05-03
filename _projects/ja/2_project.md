@@ -92,4 +92,18 @@ category: research
 [6] A. Jennings et al., <em>arXiv</em>: 2601.22552.
 </p>
 
+<div style="margin-top:2rem;"></div>
+
+## 固体ネオン上の電子：単一電子量子ビットの実現
+
+<img src="{{ '/assets/img/intro_neon_qubit.png' | relative_url }}" class="img-fluid rounded z-depth-1" style="width:100%; display:block; margin:0 auto;">
+
+固体ネオン表面上の単一電子を用いた量子ビットの実現について説明します。この研究は、アウグスブルク大学の Monica Benito、ノートルダム大学の Dafei Jin、フロリダ州立大学の Xianjing Zhou、NICT 寺井さんとの共同研究です。
+
+これまでの LC 共振器に代えて、より性能の高い NbTiN 製の超伝導ナノワイヤ共振器を用いました。ナノワイヤ両端が電場の腹となるので、A, B の位置で電子と共振器中のマイクロ波は電気的に強く結合できます。また、材料特性とナノワイヤ構造の双方により磁場に強く、将来的なスピン量子ビット実現にも適しています。ナノワイヤ共振器の両端（A, B）を近づけると、両端が出会うところで電場の強度は最大となります。実際のサンプルには、電子をこの電場強度最大の位置にトラップできるように、灰色で示した DC 電圧を与えられる電極がいくつか周辺に配置されています。このサンプルは IPA 学生の Yiran が作成しました。紫破線の位置で $$x$$-$$z$$ 平面の断面図を示します。このサンプルを冷凍機内で冷やした後、固体ネオンを積層し、その上の真空中に単一電子をトラップします。
+
+<p style="font-size:0.85em; color:#888; margin-top:1rem;">
+[7] Y. Tian et al., <em>Phys. Rev. Applied</em> <strong>25</strong>, 024011 (2026).
+</p>
+
 <p style="font-size:0.85em; color:#888; margin-top:3rem;">執筆: 2026年3月　川上</p>
