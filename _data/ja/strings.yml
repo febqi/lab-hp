@@ -18,10 +18,10 @@ bibliography:
 blog:
   navigation_title: blog
 categories:
-  fun: その他
   work: work
   research: 研究者向け研究紹介
-  background: 背景知識
+  background: 一般の方向け研究紹介
+  fun: その他
 citation:
   bibtex: "or as a BibTeX entry:"
   introduction: "If you found this useful, please cite this as:"
