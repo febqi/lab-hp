@@ -14,15 +14,17 @@ category: research
 
 ## なぜ電子が真空中に浮かぶのか
 
+<img src="{{ '/assets/img/intro_floating_electron.png' | relative_url }}" class="img-fluid rounded z-depth-1" style="width:100%; display:block; margin:0 auto;">
+
 真空中の電子は液体ヘリウムや固体ネオンなどの低温基板とよばれる物質に近づくと、低温基板の誘電率 $$\epsilon_r$$ が真空よりわずかに大きいため、$$+\dfrac{\epsilon_r - 1}{\epsilon_r + 1} e$$ という大きさのプラスの電荷が低温基板表面と電子の距離と同じだけ、低温基板内離れた位置に存在するような力が電子に働きます。このプラスの電荷は**鏡像電荷**と呼ばれます。この鏡像電荷によって、電子は低温基板に引き寄せられるのですが、低温基板の電子親和力は負であるため、電子は低温基板内に侵入することが出来ません。
 
 この侵入障壁は、液体ヘリウム4の場合およそ 1 eV、固体ネオンの場合 0.7 eV 程度です。電子が鏡像電荷から受けるポテンシャルと、この侵入障壁を合わせた全体のポテンシャルを考えると、液面からの電子の距離 $$z$$ を鉛直方向に取った場合、その形状は中央の図に示すようになります。このポテンシャル中で $$z$$ 方向に量子化された電子の基底状態および第一励起状態の確率密度を、右図に示しています。液体ヘリウム4の場合、この基底状態の電子は平均して低温基板表面から約 10 nm 離れた位置に局在します。固体ネオンの場合は、誘電率が液体ヘリウムよりも大きいため電子の閉じ込めが強くなり、基底状態の平均位置はネオン表面から約 2 nm の位置になります。
 
-<img src="{{ '/assets/img/intro_floating_electron.png' | relative_url }}" class="img-fluid rounded z-depth-1" style="width:100%; display:block; margin:0 auto;">
-
 <div style="margin-top:2rem;"></div>
 
 ## 良い低温基板の条件
+
+<img src="{{ '/assets/img/intro_cryosubstrate.png' | relative_url }}" class="img-fluid rounded z-depth-1" style="width:100%; display:block; margin:0 auto;">
 
 このように、真空中に電子が浮いた状態を安定に実現できる液体ヘリウムや固体ネオンのような物質を、私たちは「低温基板」と呼んでいます。どのような物質が、真空中に浮かぶ電子を支える良い低温基板になるのか、説明します。
 
@@ -32,11 +34,11 @@ category: research
 
 貴ガスは閉殻電子構造を持っているため、電子を強く排斥しやすく、これら二つの条件を自然に満たします。同様に、水素は原子ではなく分子（H₂）として存在し、この水素分子も閉殻電子構造を持つため、同じ条件を満たします。その結果、これまでに液体ヘリウム4、液体ヘリウム3、固体ネオン、固体水素といった基板の表面上で、真空中に浮揚する電子が実験的に観測されています。
 
-<img src="{{ '/assets/img/intro_cryosubstrate.png' | relative_url }}" class="img-fluid rounded z-depth-1" style="width:100%; display:block; margin:0 auto;">
-
 <div style="margin-top:2rem;"></div>
 
 ## 二つの低温基板の比較
+
+<img src="{{ '/assets/img/intro_comparison.png' | relative_url }}" class="img-fluid rounded z-depth-1" style="width:100%; display:block; margin:0 auto;">
 
 私たちの研究室では、液体ヘリウム表面上に浮揚する電子と、固体ネオン表面上に浮揚する電子という、二つの異なる系を研究しています。ここでは、これら二つの異なる「低温基板」を用いた場合に、物理系にどのような違いが現れるのかを説明します。
 
@@ -44,11 +46,11 @@ category: research
 
 一方、固体ネオンは固体であるため、表面が時間的に揺動しません。その結果、電子の量子性がより長く保たれることが、近年明らかになってきました。固体ネオン表面上の電子は、これまでほとんど研究されてきませんでしたが、ここ数年で、この系を用いて量子ビットを初めて実現したことで、大きな注目を集めています。ただし、固体であるがゆえに、表面の凹凸が大きいという課題が存在します。
 
-<img src="{{ '/assets/img/intro_comparison.png' | relative_url }}" class="img-fluid rounded z-depth-1" style="width:100%; display:block; margin:0 auto;">
-
 <div style="margin-top:2rem;"></div>
 
 ## 共振器を用いた実験
+
+<img src="{{ '/assets/img/intro_experiments.png' | relative_url }}" class="img-fluid rounded z-depth-1" style="width:100%; display:block; margin:0 auto;">
 
 私たちは、液体ヘリウム表面上に浮揚する電子と、固体ネオン表面上に浮揚する電子という二つの物理系に対して、共振器を用いた実験を行っています。共振器を用いる利点は、電子の運動や状態を高感度かつ非破壊的に読み出せる点にあります。
 
@@ -57,5 +59,3 @@ category: research
 一方、固体ネオン表面上の電子では、固体基板であるため、表面の時間的揺動が抑えられ、電子の量子性が長く保たれるという特長があります。この特長を活かして、私たちは単一電子を用いた量子ビットを実現しました。この場合には、損失の少ない超伝導共振器を用いることで、単一電子の量子状態を高い感度で読み出し・制御することが可能になります。ここで用いた超伝導共振器の共振周波数は約 5 GHz で、マイクロ波領域にあります。
 
 下記で、それぞれについて詳細に説明していきます。
-
-<img src="{{ '/assets/img/intro_experiments.png' | relative_url }}" class="img-fluid rounded z-depth-1" style="width:100%; display:block; margin:0 auto;">
