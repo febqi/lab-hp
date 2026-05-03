@@ -20,6 +20,11 @@ category: research
 
 この侵入障壁は、液体ヘリウム4の場合およそ 1 eV、固体ネオンの場合 0.7 eV 程度です。電子が鏡像電荷から受けるポテンシャルと、この侵入障壁を合わせた全体のポテンシャルを考えると、液面からの電子の距離 $$z$$ を鉛直方向に取った場合、その形状は中央の図に示すようになります。このポテンシャル中で $$z$$ 方向に量子化された電子の基底状態および第一励起状態の確率密度を、右図に示しています。液体ヘリウム4の場合、この基底状態の電子は平均して低温基板表面から約 10 nm 離れた位置に局在します。固体ネオンの場合は、誘電率が液体ヘリウムよりも大きいため電子の閉じ込めが強くなり、基底状態の平均位置はネオン表面から約 2 nm の位置になります。
 
+<p style="font-size:0.85em; color:#888; margin-top:1rem;">
+[1] E. Y. Andrei, <em>Two-Dimensional Electron Systems: On Helium and Other Cryogenic Substrates</em> (Springer Netherlands, 1997).<br>
+[2] Y. Monarkha, K. Kono, <em>Two-Dimensional Coulomb Liquids and Solids</em> (Springer, Berlin, Germany, 2004).
+</p>
+
 <div style="margin-top:2rem;"></div>
 
 ## 良い低温基板の条件
