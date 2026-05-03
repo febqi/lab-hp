@@ -264,19 +264,19 @@ ninja.data = [{
           description: "",
           section: "",handler: () => {
               window.location.href = "/lab-hp/books/en-us/the_godfather/";
-            },},{id: "projects-electrons-on-liquid-helium",
-          title: 'Electrons on Liquid Helium',
-          description: "Scalable electron spin qubits in a pristine environment",
+            },},{id: "projects-rydberg-transitions",
+          title: 'Rydberg Transitions',
+          description: "Quantum capacitance induced by Rydberg transitions",
           section: "Projects",handler: () => {
               window.location.href = "/lab-hp/projects/1-project/";
-            },},{id: "projects-electrons-on-solid-neon",
-          title: 'Electrons on Solid Neon',
-          description: "Long coherence quantum memory using charge and spin states",
+            },},{id: "projects-overview",
+          title: 'Overview',
+          description: "Physics and quantum applications of electrons floating on liquid helium and solid neon",
           section: "Projects",handler: () => {
               window.location.href = "/lab-hp/projects/2-project/";
             },},{id: "projects-cryogenic-electronics",
           title: 'Cryogenic Electronics',
-          description: "Cryogenic microwave sources for scalable quantum computation",
+          description: "Development of cryogenic microwave sources for scalable quantum computing",
           section: "Projects",handler: () => {
               window.location.href = "/lab-hp/projects/3-project/";
             },},{id: "projects-this-website",

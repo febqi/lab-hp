@@ -226,9 +226,9 @@ ninja.data = [{
             window.location.href = "/lab-hp/ja/blog/2023/xianjing-farewell/";
           
         },
-      },{id: "post-量子情報科学の研究を行う川上恵里加さんへのインタビュー",
+      },{id: "post-量子情報科学の研究を行う川上恵里加博士へのインタビュー",
         
-          title: "量子情報科学の研究を行う川上恵里加さんへのインタビュー",
+          title: "量子情報科学の研究を行う川上恵里加博士へのインタビュー",
         
         description: "在日フランス大使館「Portraits de femmes en sciences」掲載インタビュー（2023年2月）",
         section: "Posts",
@@ -264,19 +264,19 @@ ninja.data = [{
           description: "",
           section: "",handler: () => {
               window.location.href = "/lab-hp/ja/books/en-us/the_godfather/";
-            },},{id: "projects-液体ヘリウム上の電子",
-          title: '液体ヘリウム上の電子',
-          description: "清浄な環境でのスケーラブルな電子スピン量子ビット",
+            },},{id: "projects-リュードベリ遷移",
+          title: 'リュードベリ遷移',
+          description: "リュードベリ遷移による量子キャパシタンス",
           section: "Projects",handler: () => {
               window.location.href = "/lab-hp/ja/projects/1-project/";
-            },},{id: "projects-固体ネオン上の電子",
-          title: '固体ネオン上の電子',
-          description: "単一電子の電荷・スピン量子ビットの実現",
+            },},{id: "projects-研究概要",
+          title: '研究概要',
+          description: "液体ヘリウムや固体ネオン表面に浮かぶ電子の物理と量子応用",
           section: "Projects",handler: () => {
               window.location.href = "/lab-hp/ja/projects/2-project/";
             },},{id: "projects-極低温エレクトロニクス",
           title: '極低温エレクトロニクス',
-          description: "量子ビット数の拡張に向けた極低温マイクロ波源の開発",
+          description: "大規模量子コンピューターの実現に向けた極低温マイクロ波発振器の開発",
           section: "Projects",handler: () => {
               window.location.href = "/lab-hp/ja/projects/3-project/";
             },},{id: "projects-このウェブサイト",
